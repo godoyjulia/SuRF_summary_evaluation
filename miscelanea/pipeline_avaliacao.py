@@ -112,6 +112,7 @@ class Avaliacao:
         output['text'] = self.texto_original
         output['summary'] = self.resumo_original
         output['summary_gen'] = self.resumo_gerado
+        output['fieldade_qg-original'] = qg_
         output['fieldade_qg-qa'] = qa
         output['fieldade_pontuacao'] = pontuacao
         output['fieldade_similaridade-respostas'] = sim_respostas
@@ -138,6 +139,7 @@ class Avaliacao:
         output['text'] = self.texto_original
         output['summary'] = self.resumo_original
         output['summary_gen'] = self.resumo_gerado
+        output['conteudo_qg-original'] = qg_
         output['conteudo_qg-qa'] = qa
         output['conteudo_pontuacao'] = pontuacao
         output['conteudo_similaridade-respostas'] = sim_respostas
