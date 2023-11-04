@@ -10,7 +10,7 @@ t_ini_proc = datetime.now()
 datasets = [
 # 'arthurmluz/temario_data-wiki_results',
 # 'arthurmluz/temario_data-wiki_1024_results',
-'arthurmluz/temario_data-wiki_temario_results',
+# 'arthurmluz/temario_data-wiki_temario_results',
 'arthurmluz/temario_data-temario_results',
 'arthurmluz/temario_data-xlsumm_results',
 'arthurmluz/temario_data-xlsumm_cstnews_results',
@@ -50,6 +50,7 @@ datasets = [
 
 
 
+item_problema_passou = False
 for nome_dataset in datasets:
     dataset = load_dataset(nome_dataset)['validation']
 
@@ -67,13 +68,16 @@ for nome_dataset in datasets:
     with open(f'{nome}_conteudo.json', 'w', encoding='utf-8') as jsonFile:
         json.dump([], jsonFile, indent=4)
 
-
     for idx_row in range(dataset.num_rows):
 
         id = dataset['id'][idx_row]
         texto_original = dataset['text'][idx_row]
         resumo_original = dataset['summary'][idx_row]
         resumo_gerado = dataset['gen_summary'][idx_row]
+        
+        # caso de problema no meio de uma execucao, para continuar a partir do id com erro, descomente:
+        # if not item_problema_passou and id != 'td94fe6-10': continue
+        # elif id == 'td94fe6-10': item_problema_passou=True
 
         t_ini = datetime.now()
         av = Avaliacao(nome=nome, id=id, resumo_original=resumo_original, resumo_gerado=resumo_gerado, texto_original=texto_original)

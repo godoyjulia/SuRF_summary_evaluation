@@ -10,6 +10,7 @@ from moverscore_v2 import word_mover_score # https://github.com/AIPHES/emnlp19-m
 from collections import defaultdict
 import numpy as np
 import json
+import traceback
 
 def salvar(file, output):
     # precisa criar um json vazio antes (apenas com [])
@@ -36,13 +37,20 @@ class Avaliacao:
 
     def metrica_cosseno(self, resposta1, resposta2):
         # qnt mais perto de 1, mais similar
-        vectorizer = CountVectorizer()
+        try:
+            vectorizer = CountVectorizer()
 
-        vectorizer.fit([resposta1, resposta2])
-        vector1, vector2 = vectorizer.transform([resposta1, resposta2])
+            vectorizer.fit([resposta1, resposta2])
+            vector1, vector2 = vectorizer.transform([resposta1, resposta2])
 
-        cosine_sim = cosine_similarity(vector1, vector2)
-        return cosine_sim[0][0]
+            cosine_sim = cosine_similarity(vector1, vector2)
+            return cosine_sim[0][0]
+        except Exception as e:
+            erro_msg = traceback.format_exc()
+            print(f'metrica_cosseno. erro: {erro_msg}')
+            print(f'metrica_cosseno. retornando 0')
+            return 0
+
     
     def metrica_bertscore(self, resposta1, resposta2):
         # qnt mais perto de 1, mais similar
