@@ -1,0 +1,1433 @@
+[
+    {
+        "id": 122,
+        "text": "O Santander Brasil firmou acordo para formar uma parceria com a Hyundai a fim de constituir o Banco Hyundai Capital Brasil e uma corretora de seguros, informou em comunicado nesta sexta-feira (29).  Subsidiária do Santander, a Aymoré Crédito, Financiamento e Investimento terá 50% da joint venture, enquanto a Hyundai Capital terá 25% e a Hyundai Motor Brasil terá os 25% restantes.  A corretora de seguros fornecerá produtos e serviços financeiros para o financiamento de automóveis e de corretagem de seguros para os consumidores e concessionárias da Hyundai no Brasil.  A conclusão da operação está sujeita à obtenção de autorização de reguladores.",
+        "summary": "O Santander Brasil formará uma parceria com a Hyundai para criar o Banco Hyundai Capital Brasil e uma corretora de seguros. A joint venture será compartilhada entre as empresas.",
+        "summary_gen": "Consulte o Santander para saber mais sobre a operação.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Santander Brasil",
+                "question": "Quem formará uma parceria com a Hyundai para criar o Banco Hyundai Capital Brasil?"
+            },
+            {
+                "answer": "joint venture",
+                "question": "O que será compartilhado entre as empresas?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem formará uma parceria com a Hyundai para criar o Banco Hyundai Capital Brasil?",
+                "resposta_ouro": "Santander Brasil",
+                "resposta_obtida": "Santander"
+            },
+            {
+                "id": 1,
+                "pergunta": "O que será compartilhado entre as empresas?",
+                "resposta_ouro": "joint venture",
+                "resposta_obtida": "informações"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.5,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.7071067811865475,
+                0.0
+            ],
+            "bertscore": [
+                0.8827187418937683,
+                0.7594327330589294
+            ],
+            "moverscore": [
+                0.6721838771584477,
+                0.6023971012376821
+            ],
+            "rouge1": [
+                0.6666666666666666,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.6666666666666666,
+                0.0
+            ],
+            "rougeLsum": [
+                0.6666666666666666,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "text": "Demorou, mas o gol da vitória do Grêmio sobre o Figueirense,pela 3ª rodada do Campeonato Brasileiro, saiu. Jogando em casa, o time gaúcho chegou a sua primeira vitória na competição neste sábado (23).  A vitória fez a equipe chegar aos quatro pontos e subir para a oitava posição. Em contrapartida, o Figueirense ainda não venceu no Brasileiro. O clube catarinense permanece com um ponto na 18ª posição.  O único gol da partida saiu apenas aos 33 min da segundo tempo. O lateral esquerdo Marcelo Oliveira cruzou na cabeça de Braian Rodríguez, que desviou e deu a primeira vitória aos gremistas.  Na próxima rodada, o Grêmio visita o Goiás no domingo (31). No mesmo dia, o Figueirense recebe o Cruzeiro em Santa Catarina.  TERCEIRA RODADA DO CAMPEONATO BRASILEIRO  SÁBADO (23) São Paulo 3x0 Joinville Vasco 1x1 Internacional Grêmio 1x0 Figueirense  DOMINGO (24) Palmeiras 0x1 Goiás Fluminense 0x0 Corinthians Avaí 2x1 Flamengo Atlético-PR 1x0 Atlético-MG Chapecoense 1x0 Santos Cruzeiro 1x1 Ponte Preta Sport 1x0 Coritiba",
+        "summary": "O Grêmio venceu o Figueirense com gol de Braian Rodríguez. O time gaúcho conquistou sua primeira vitória no Brasileirão e subiu para a oitava posição. O Figueirense permanece sem vencer e está na 18ª posição. Outros jogos da rodada também ocorreram.",
+        "summary_gen": "Saiba o que aconteceu no último sábado. Confira o resultado na segunda etapa do segundo tempo. Vá para a próxima rodada.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Braian Rodríguez",
+                "question": "Quem marcou o gol do Grêmio?"
+            },
+            {
+                "answer": "oitava",
+                "question": "Em que posição o time gaúcho se classificou no Brasileirão?"
+            },
+            {
+                "answer": "Outros jogos da rodada",
+                "question": "O que aconteceu com o time gaúcho que venceu o Grêmio com gol de Braian Rodríguez?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem marcou o gol do Grêmio?",
+                "resposta_ouro": "Braian Rodríguez",
+                "resposta_obtida": "Roger"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em que posição o time gaúcho se classificou no Brasileirão?",
+                "resposta_ouro": "oitava",
+                "resposta_obtida": "segundo"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7514159679412842,
+                0.7189497947692871
+            ],
+            "moverscore": [
+                0.5930278346783281,
+                0.6942941765121331
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "text": "O presidente do COI (Comitê Olímpico Internacional), Thomas Bach, afirmou na tarde desta quarta-feira (8) que os organizadores dos Jogos Olímpicos do Rio-2016 não têm um segundo a perder para garantir a realização do evento.  \"Não é hora de preocupação, é hora de confiança em relação ao Rio. Mas a verdade é que não há tempo a perder\", disse Bach na Vila Pan-Americana de Toronto.  O dirigente afirmou que o senso de urgência é comum em grandes competições. \"Se tivéssemos falado há dez dias sobre a preparação para os Jogos Pan-Americanos, eu também te diria que não havia um segundo a perder.\"  Bach, que compareceu ao hasteamento da bandeira canadense na vila do Pan, não foi apenas exigente. Ele disse que os atletas terão boas condições no Rio. \"A Vila Olímpica é excelente, a cidade é entusiasmada, e brasileiros têm paixão pelo esporte.\"  A cerimônia de abertura do Pan de Toronto ocorre nesta sexta-feira (10), no estádio Rogers Centre.",
+        "summary": "O presidente do COI, Thomas Bach, enfatiza a urgência dos organizadores dos Jogos Olímpicos do Rio-2016 e a necessidade de confiança. Ele elogia as condições na Vila Olímpica e a paixão dos brasileiros pelo esporte. Cerimônia de abertura do Pan de Toronto ocorre nesta sexta-feira.",
+        "summary_gen": "Entenda que não há tempo a perder. Lembre-se de que os atletas terão boas condições no Rio.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Thomas Bach",
+                "question": "Quem é o presidente do COI?"
+            },
+            {
+                "answer": "Vila Olímpica",
+                "question": "Em que bairro Thomas Bach elogia as condições dos Jogos Olímpicos do Rio-2016?"
+            },
+            {
+                "answer": "Pan de Toronto",
+                "question": "Que evento acontece nesta sexta-feira?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem é o presidente do COI?",
+                "resposta_ouro": "Thomas Bach",
+                "resposta_obtida": "o presidente do COI"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em que bairro Thomas Bach elogia as condições dos Jogos Olímpicos do Rio-2016?",
+                "resposta_ouro": "Vila Olímpica",
+                "resposta_obtida": "Rio"
+            },
+            {
+                "id": 2,
+                "pergunta": "Que evento acontece nesta sexta-feira?",
+                "resposta_ouro": "Pan de Toronto",
+                "resposta_obtida": "Rio"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.6666666666666666,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6513766050338745,
+                0.7336231470108032,
+                0.7291465997695923
+            ],
+            "moverscore": [
+                0.5104677391494781,
+                0.5880046121807192,
+                0.5705158307949374
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "text": "\"Anti\", oitavo disco de Rihanna, já foi baixado por mais de 1 milhão de pessoas desde esta quinta-feira (28), quando foi disponibilizado gratuitamente na plataforma de música digital Tidal.  \"Um milhão em menos de 15 horas! Obrigada a todos os meus fãs e à Samsung\", escreveu a cantora em sua página oficial no Twitter.  Primeiro álbum da cantora em três anos, \"Anti\" vazou na internet na noite de quarta (27) após a estrela divulgar o single \"Work\", em parceria com o rapper Drake.  Uma versão de luxo do registro está a venda no iTunes por US$ 14, com três faixas a mais que as disponibilizadas no Tidal.  O alto número de downloads já era de se esperar. Em julho de 2015, Rihanna foi nomeada a artista que mais vendeu músicas na esfera digital pela Associação da Indústria Fonográfica dos Estados Unidos, com 54 milhões de álbuns vendidos.  ouça",
+        "summary": "O álbum \"Anti\" de Rihanna já foi baixado por mais de 1 milhão de pessoas em menos de 15 horas após seu lançamento no Tidal. Versão de luxo disponível no iTunes. Rihanna é nomeada artista mais vendida na esfera digital.",
+        "summary_gen": "Baixe o álbum Tidal. Veja o vídeo de Anti.",
+        "conteudo_qg-original": [
+            {
+                "answer": "1 milhão",
+                "question": "Quantas pessoas ouviram o álbum \"Anti\" de Rihanna?"
+            },
+            {
+                "answer": "Tidal",
+                "question": "Qual é o nome do álbum de Rihanna?"
+            },
+            {
+                "answer": "Versão de luxo",
+                "question": "Qual é o nome do álbum de Rihanna?"
+            },
+            {
+                "answer": "esfera digital",
+                "question": "Onde Rihanna é nomeada artista mais vendida?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Onde Rihanna é nomeada artista mais vendida?",
+                "resposta_ouro": "esfera digital",
+                "resposta_obtida": "Anti"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.7162653207778931
+            ],
+            "moverscore": [
+                0.6001364247449645
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "text": "Nesta quarta-feira (2), dia em que Palmeiras e Santos decidirão qual equipe será campeã da Copa do Brasil de 2015, no Allianz Parque, as linhas de metrô estenderão seu funcionamento até a 0h30 para atender os torcedores que deixarão o estádio após o jogo.  Com início marcado para as 22h, a partida deve durar até 0h, sem atrasos. Em caso de vitória do Palmeiras por vantagem simples, ou seja, por um gol de diferença, a decisão vai para a cobrança de pênaltis. Nesse caso, o horário estendido do metrô dificilmente conseguiria atender os torcedores que decidirem ficar até o final da partida.  Os trens da Companhia Paulista de Trens Metropolitanos-CPTM manterão sua agenda de funcionamento normal, até 0h.  O Palmeiras busca seu terceiro título da competição (1998 e 2012), ao passo que o Santos tenta o bicampeonato (2010).",
+        "summary": "Metrô estenderá horário até 0h30 para torcedores após final da Copa do Brasil entre Palmeiras e Santos, que começa às 22h e pode ir até meia-noite. Palmeiras busca terceiro título, Santos o bicampeonato.",
+        "summary_gen": "Fique de olho no horário de início da partida. Não use o horário estendido do metrô em caso de vitória do Palmeiras.",
+        "conteudo_qg-original": [
+            {
+                "answer": "meia-noite",
+                "question": "Quando o Metrô pode ir para os torcedores após a final da Copa do Brasil?"
+            },
+            {
+                "answer": "22h",
+                "question": "Quando começa a Copa do Brasil entre Palmeiras e Santos?"
+            },
+            {
+                "answer": "terceiro título",
+                "question": "Qual é o título do Palmeiras na Copa do Brasil?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quando começa a Copa do Brasil entre Palmeiras e Santos?",
+                "resposta_ouro": "22h",
+                "resposta_obtida": "horário de início"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.6340734958648682
+            ],
+            "moverscore": [
+                0.5381000289887038
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 76,
+        "text": "Ao apontar que cerca de 9.000 servidores dos mais de 500 deputados federais nem sequer moram em Brasília (Monica Bergamo, 1º/5), a colunista presta um precioso serviço à nação e expõe uma conduta vergonhosa e imoral de desperdício de dinheiro público. E isso acontece no Congresso, onde vozes quase sempre grosseiras clamam por controle de gastos no Executivo.",
+        "summary": "Colunista revela que 9.000 servidores de deputados federais não residem em Brasília, denunciando desperdício de dinheiro público. Contraste com clamor por controle de gastos no Executivo.",
+        "summary_gen": "Entenda o que a colunista está fazendo.",
+        "conteudo_qg-original": [
+            {
+                "answer": "9.000",
+                "question": "Quantos servidores não residem em Brasília?"
+            },
+            {
+                "answer": "controle de gastos no Executivo",
+                "question": "Por que os deputados federais não residem em Brasília?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantos servidores não residem em Brasília?",
+                "resposta_ouro": "9.000",
+                "resposta_obtida": "2"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.7235247492790222
+            ],
+            "moverscore": [
+                0.6009708602896412
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 104,
+        "text": "O deputado federal Rocha Loures (PMDB-PR) participou nesta terça (16) do jantar de gala em que o prefeito de São Paulo, João Doria, recebeu o prêmio Homem do Ano (\"Person of the Year) oferecido pela Câmara de Comercio Brasil- Estados Unidos.  Ele estava em uma das fileiras principais do salão, em que se aglomeravam mil convidados.  De acordo com outros convidados, o parlamentar, que circula no mundo empresarial como homem de confiança de Temer, estava sorridente e tranquilo. E aparentava não saber que estaria no centro do que pode ser um dos maiores escândalos da era Temer : segundo o jornal \"O Globo\", o empresário Joesley Batista, da JBS, gravou o próprio presidente em diálogos explosivos.  Em um dos trechos, Temer teria indicado Loures para resolver pendências da JBS no governo. Dias depois, o parlamentar teria sido filmado recebendo uma mala de R$ 500 mil enviada pelo empresário.  Nesta quarta (17) Loures foi a um evento em que Doria e Geraldo Alckmin se reuniram com investidores internacionais.",
+        "summary": "Deputado federal Rocha Loures participa de evento com João Doria e é mencionado em possível escândalo envolvendo Temer e a JBS. Loures foi visto sorridente e tranquilo, aparentemente sem saber do caso. Participou de outro evento com Doria e Geraldo Alckmin.",
+        "summary_gen": "Vá a um jantar de gala. Veja se Rocha Loures estava sorrindo. Saiba mais sobre o caso.",
+        "conteudo_qg-original": [
+            {
+                "answer": "sem saber do caso",
+                "question": "Por que Loures foi visto sorridente e tranquilo?"
+            },
+            {
+                "answer": "Geraldo Alckmin",
+                "question": "Com quem Loures participou de outro evento com Doria?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Com quem Loures participou de outro evento com Doria?",
+                "resposta_ouro": "Geraldo Alckmin",
+                "resposta_obtida": "Doria"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.688447892665863
+            ],
+            "moverscore": [
+                0.5924435652906019
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 93,
+        "text": "Jon Lee Anderson é colaborador da revista The New Yorker desde 1998. A conversa com foi mediada por Consuelo Dieguez, jornalista da revista piauí, e Marcelo Lins, da GloboNews.Jon Lee foi correspondente em praticamente todas as zonas de conflito e guerra dos anos 80 e 90: Afeganistão, Iraque, Uganda, Israel, El Salvador, Irlanda, Líbano e Oriente Médio estiveram na rota de trabalho de Jon Lee Anderson. Quanto aos perfis de personalidades, ele assinou os de homens como Hugo Chávez, Fidel Castro, Augusto Pinochet e Gabriel García Márquez.Neste vídeo, o jornalista americano fala sobre a cobertura jornalística em zonas de guerra.",
+        "summary": "Jon Lee Anderson, correspondente de guerra, fala sobre a cobertura jornalística em zonas de conflito e sua experiência em diversos países. Participaram da conversa jornalistas da piauí e da GloboNews.",
+        "summary_gen": "Entre em contato com o jornalista americano. Assista ao entrevista.",
+        "conteudo_qg-original": [
+            {
+                "answer": "cobertura jornalística em zonas de conflito",
+                "question": "Sobre o que Jon Lee Anderson falou?"
+            },
+            {
+                "answer": "Jon Lee Anderson",
+                "question": "Quem falou sobre a cobertura jornalística em zonas de conflito?"
+            },
+            {
+                "answer": "piauí e da GloboNews",
+                "question": "Quais são os dois grupos que participaram da conversa de Jon Lee Anderson?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Sobre o que Jon Lee Anderson falou?",
+                "resposta_ouro": "cobertura jornalística em zonas de conflito",
+                "resposta_obtida": "jornalismo americano"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quem falou sobre a cobertura jornalística em zonas de conflito?",
+                "resposta_ouro": "Jon Lee Anderson",
+                "resposta_obtida": "jornalista americano"
+            },
+            {
+                "id": 2,
+                "pergunta": "Quais são os dois grupos que participaram da conversa de Jon Lee Anderson?",
+                "resposta_ouro": "piauí e da GloboNews",
+                "resposta_obtida": "dois grupos"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.3333333333333333,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7586725950241089,
+                0.6738816499710083,
+                0.6428732872009277
+            ],
+            "moverscore": [
+                0.5600995071884904,
+                0.5576022725129717,
+                0.5535020128398861
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 86,
+        "text": "O cinema brasileiro, que vive uma pródiga fase de comédias, pode em breve ser assolado por uma onda de filmes emocionantes, adaptados de livros de autoajuda.  É o que defendeu Jayme Monjardim, um dos maiores diretos de novelas do país, em entrevista para divulgar seu novo filme \"O Vendedor de Sonhos\" que estreia em grande circuito 8 de dezembro,  \"Em momentos de crise, as pessoas ficam carentes de esperança, de emoções\", disse Monjardim, que dirigiu novelas como \"Pantanal\" (1990), \"O Clone\" (2001) e \"Sete Vidas\" (2015), baseou \"O Vendedor\" em livros de Augusto Cury, autor de auto-ajuda que já vendeu mais de 30 milhões de exemplares no país.  O longa conta a história de um psicólogo famoso que, após tentar se suicidar, conhece um andarilho misterioso que o acompanha numa jornada de auto-conhecimento. César Troncoso, o ator uruguaio que interpreta o vendedor de sonhos do nome do filme, também fez parte do programa, conduzido pela repórter Gabriela Sá Pessoa e pelo editor-assistente Chico Felitti.",
+        "summary": "O cinema brasileiro pode ter filmes emocionantes baseados em livros de autoajuda, como \"O Vendedor de Sonhos\", de Jayme Monjardim. O diretor acredita que em momentos de crise as pessoas buscam esperança e emoção. O filme estreia em dezembro.",
+        "summary_gen": "Assista ao filme O Vendedor de Sonhos.",
+        "conteudo_qg-original": [
+            {
+                "answer": "autoajuda",
+                "question": "Que tipo de livro é baseado em \"O Vendedor de Sonhos\" de Jayme Monjardim?"
+            },
+            {
+                "answer": "Jayme Monjardim",
+                "question": "Quem escreveu 'O Vendedor de Sonhos'?"
+            },
+            {
+                "answer": "crise",
+                "question": "Em que momento o diretor acredita que as pessoas buscam esperança e emoção?"
+            },
+            {
+                "answer": "dezembro",
+                "question": "Quando o filme \"O Vendedor de Sonhos\" estreia?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Que tipo de livro é baseado em \"O Vendedor de Sonhos\" de Jayme Monjardim?",
+                "resposta_ouro": "autoajuda",
+                "resposta_obtida": "filme"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quem escreveu 'O Vendedor de Sonhos'?",
+                "resposta_ouro": "Jayme Monjardim",
+                "resposta_obtida": "Fernando Meirelles"
+            },
+            {
+                "id": 2,
+                "pergunta": "Em que momento o diretor acredita que as pessoas buscam esperança e emoção?",
+                "resposta_ouro": "crise",
+                "resposta_obtida": "O Vendedor de Sonhos"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quando o filme \"O Vendedor de Sonhos\" estreia?",
+                "resposta_ouro": "dezembro",
+                "resposta_obtida": "2016"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.75,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7046165466308594,
+                0.7117725014686584,
+                0.5886565446853638,
+                0.7452355027198792
+            ],
+            "moverscore": [
+                0.6908607119537137,
+                0.6555813019039803,
+                0.5192581911651513,
+                0.6537658800407868
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "text": "Cada dia é mais difícil viver em São Paulo, e a prefeitura trabalha diariamente para aumentar a dificuldade. O projeto de revisão do zoneamento é uma prova disso. O documento pretende acabar com as áreas residenciais –4% da cidade. A região da Vila Paulista, por exemplo, poderá receber novos empreendimentos comerciais. Os prejuízos não são só dos moradores, pois nessa região está a maioria das áreas verdes ainda preservadas da cidade.",
+        "summary": "Viver em São Paulo é desafiador, e a prefeitura agrava a situação com projeto de revisão do zoneamento. Proposta ameaça áreas residenciais e espaços verdes. Prejuízos para moradores e meio ambiente.",
+        "summary_gen": "Entenda o que está acontecendo.",
+        "conteudo_qg-original": [
+            {
+                "answer": "projeto de revisão do zoneamento",
+                "question": "O que ameaça áreas residenciais e espaços verdes?"
+            },
+            {
+                "answer": "áreas residenciais e espaços verdes",
+                "question": "O que a revisão do zoneamento ameaça?"
+            },
+            {
+                "answer": "moradores e meio ambiente",
+                "question": "Para quem os projetos de revisão do zoneamento ameaçam áreas residenciais e espaços verdes?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "O que ameaça áreas residenciais e espaços verdes?",
+                "resposta_ouro": "projeto de revisão do zoneamento",
+                "resposta_obtida": "áreas residenciais e espaços verdes"
+            },
+            {
+                "id": 1,
+                "pergunta": "O que a revisão do zoneamento ameaça?",
+                "resposta_ouro": "áreas residenciais e espaços verdes",
+                "resposta_obtida": "o zoneamento"
+            },
+            {
+                "id": 2,
+                "pergunta": "Para quem os projetos de revisão do zoneamento ameaçam áreas residenciais e espaços verdes?",
+                "resposta_ouro": "moradores e meio ambiente",
+                "resposta_obtida": "moradores e espaços verdes"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.3333333333333334
+            ],
+            "bertscore": [
+                0.7072980403900146,
+                0.7013406157493591,
+                0.8692275285720825
+            ],
+            "moverscore": [
+                0.6127884209157991,
+                0.5651668720961118,
+                0.6787789138077228
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.4444444444444445
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.28571428571428575
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.4444444444444445
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.4444444444444445
+            ]
+        }
+    },
+    {
+        "id": 148,
+        "text": "O PT nega ter recebido dinheiro do esquema de corrupção na Petrobras e afirma que o tesoureiro do partido, João Vaccari Neto, não tratou de finanças com o ex-gerente da estatal Pedro Barusco. Não houve doação oficial da SBM para a campanha da presidente Dilma Roussef em 2010.  Procurados pela Folha, a SBM, Barusco e Julio Faerman não responderam a perguntas sobre o aditivo celebrado na campanha. \"Sobre este assunto não iremos nos manifestar\", disse a advogada de Barusco, Beatriz Catta Preta.  A reportagem enviou questões sobre o tema à diretora de comunicação da SBM na Holanda, Anne Guerin-Moens. \"A SBM não vai comentar\", respondeu a assessoria da empresa no Brasil. \"Estamos proibidos de comentar, dado o sigilo decretado\", disse a assessoria de Julio Faerman.",
+        "summary": "O PT nega recebimento de dinheiro da Petrobras e que Vaccari Neto tratou de finanças com Barusco. Não houve doação oficial da SBM para a campanha de Dilma em 2010. A SBM, Barusco e Julio Faerman não responderam às perguntas sobre o aditivo celebrado na campanha.",
+        "summary_gen": "Entenda o que a SBM nega. Não se manifesta sobre o aditivo celebrado na campanha.",
+        "conteudo_qg-original": [
+            {
+                "answer": "dinheiro da Petrobras",
+                "question": "O que o PT nega?"
+            },
+            {
+                "answer": "2010",
+                "question": "Quando foi a doação oficial da SBM para a campanha de Dilma?"
+            },
+            {
+                "answer": "Julio Faerman",
+                "question": "Junto com Barusco, quem não respondeu às perguntas sobre o aditivo celebrado na campanha de 2010?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quando foi a doação oficial da SBM para a campanha de Dilma?",
+                "resposta_ouro": "2010",
+                "resposta_obtida": "Não se manifesta sobre o aditivo celebrado na campanha"
+            },
+            {
+                "id": 1,
+                "pergunta": "Junto com Barusco, quem não respondeu às perguntas sobre o aditivo celebrado na campanha de 2010?",
+                "resposta_ouro": "Julio Faerman",
+                "resposta_obtida": "SBM"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.5,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6026157736778259,
+                0.7451899647712708
+            ],
+            "moverscore": [
+                0.4702742308660821,
+                0.589191667207989
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 82,
+        "text": "O secretário de Segurança, José Mariano Beltrame, está cansado. A opinião é do jornalista britânico Misha Glenny.  O ex-correspondente do \"Guardian\" e da BBC, acaba de lançar \"O Dono do Morro: Um Homem e a Batalha pelo Rio\" (Companhia das Letras), biografia de Nem, ex-chefe do tráfico na favela carioca da Rocinha.  Para o jornalista, Beltrame trabalhou sem apoio do governo do Rio. \"Vem um ponto em que não se pode mais [agir] e esse ponto chegará após os Jogos Olímpicos\", diz Glenny.  A entrevista foi comandada pelo diretor da Sucursal do Rio, Marco Aurélio Canônico, e contou com a participação, via Skype, do repórter Marco Antonio Martins, direto da Sucursal do Rio.",
+        "summary": "Secretário de Segurança, José Mariano Beltrame, cansado segundo Misha Glenny, jornalista britânico. Lançou biografia de Nem, ex-chefe do tráfico na Rocinha. Beltrame agiu sem apoio do governo do Rio. Entrevista comandada por Marco Aurélio Canônico e participação via Skype de Marco Antonio Martins.",
+        "summary_gen": "Entenda que Beltrame está cansado. Converse com Glenny.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Misha Glenny",
+                "question": "Quem é o jornalista britânico José Mariano Beltrame?"
+            },
+            {
+                "answer": "Nem",
+                "question": "Qual era o nome do ex-chefe do tráfico na Rocinha?"
+            },
+            {
+                "answer": "governo do Rio",
+                "question": "Com quem Beltrame agiu sem apoio?"
+            },
+            {
+                "answer": "Marco Aurélio Canônico",
+                "question": "Quem foi o chefe do tráfico na Rocinha?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual era o nome do ex-chefe do tráfico na Rocinha?",
+                "resposta_ouro": "Nem",
+                "resposta_obtida": "Beltrame"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.5528371334075928
+            ],
+            "moverscore": [
+                0.6893771484848521
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "text": "A música-tema do filme \"Titanic\" tocada por um passageiro em uma embarcação quebrada, e que virou vídeo viral na internet nesta semana com mais de 350 mil acessos, deu o tom do problema que envolve as balsas de travessia para Guarujá, no litoral paulista, agravado nos últimos meses.As travessias para a cidade, tradicionalmente cheias, estão cada vez mais no limite. A prefeitura teme lotação ainda maior com a chegada dos turistas para os momentos considerados cruciais nos próximos feriados e até mesmo para o verão, em dezembro.O colapso do sistema aconteceu nesta semana. O trajeto Santos-Guarujá teve espera de mais de duas horas e muita irritação dos passageiros pelo fato de cinco das sete embarcações terem apresentado problemas na última segunda-feira (20).",
+        "summary": "Problemas nas balsas de Guarujá geram longas filas e preocupações com a chegada de turistas para feriados e verão. Cinco embarcações apresentaram problemas em um dia, causando atrasos de mais de duas horas.",
+        "summary_gen": "Veja se as balsas estão no limite. Avalie a situação.",
+        "conteudo_qg-original": [
+            {
+                "answer": "feriados e verão",
+                "question": "Quais são os dois eventos que causam problemas nas balsas de Guarujá?"
+            },
+            {
+                "answer": "Cinco",
+                "question": "Quantas embarcações tiveram problemas em um dia?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantas embarcações tiveram problemas em um dia?",
+                "resposta_ouro": "Cinco",
+                "resposta_obtida": "1"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.8116189241409302
+            ],
+            "moverscore": [
+                0.6810506109831744
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 124,
+        "text": "A dívida líquida da Petrobras atingiu US$ 282,1 bilhões em 2014, alta de 27% em relação ao verificado em 2013, que foi de US$ 221,6 bilhões.  A dívida teve impacto da valorização do dólar e de operações de captação no mercado internacional no início do ano passado. O mercado estima que a dívida da empresa esteja atualmente em torno de US$ 300 bilhões.  Com isso, aumentou também um dos mais importantes indicadores de endividamento de uma companhia– a relação entre dívida líquida e Ebitda (indicador que mede a capacidade de geração de caixa da empresa). A relação subiu de 3,52% em 2013 para 4,77% em 2014. Há um ano, antes de a Operação Lava Jato ser deflagrada, a meta da Petrobras era trazer essa relação para 2,5%  O Ebitda ajustado (lucro antes de juros, impostos, depreciação e amortização), que dá uma medida da geração de caixa da empresa, foi de R$ 59,140 bilhões, queda de 6% em relação ao verificado em 2013, quando o indicador foi de R$ 62,967 bilhões.  A empresa fechou o ano com R$ 68,9 bilhões em caixa.",
+        "summary": "Em 2014, a dívida líquida da Petrobras atingiu US$ 282,1 bilhões, alta de 27% em relação a 2013, e a relação dívida líquida/Ebitda aumentou para 4,77%. O Ebitda ajustado caiu 6%.",
+        "summary_gen": "Calcule o endividamento líquido da empresa. Determine a relação entre dívida líquida e Ebitda.",
+        "conteudo_qg-original": [
+            {
+                "answer": "US$ 282,1 bilhões",
+                "question": "Qual foi a dívida líquida da Petrobras em 2014?"
+            },
+            {
+                "answer": "27%",
+                "question": "Qual foi a taxa de alta da dívida líquida da Petrobras em 2014?"
+            },
+            {
+                "answer": "6%",
+                "question": "Qual foi a taxa de queda da dívida líquida da Petrobras em 2014?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual foi a dívida líquida da Petrobras em 2014?",
+                "resposta_ouro": "US$ 282,1 bilhões",
+                "resposta_obtida": "Ebitda"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual foi a taxa de alta da dívida líquida da Petrobras em 2014?",
+                "resposta_ouro": "27%",
+                "resposta_obtida": "Ebitda"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.56464022397995,
+                0.6175395846366882
+            ],
+            "moverscore": [
+                0.5419305752067367,
+                0.6659935458833793
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 170,
+        "text": "O movimento palestino Hamas elegeu neste sábado (6) Ismail Haniyeh para liderar seu escritório político, disse o porta-voz, Fawzi Barhoum, em Gaza.  O ex-chefe adjunto Haniyeh substituirá o líder veterano baseado no Catar, Khaled Meshaal, que deixa o cargo no fim do limite de seu mandato no momento em que o Hamas suavizou sua postura com relação a Israel em um novo documento na semana passada.  O grupo mantém um braço armado considerável na faixa de Gaza desde que tomou o território costeiro em 2007 do partido rival Fatah, baseado no lado oeste, e lutou três guerras contra Israel.  Haniyeh, de 54 anos e nascido em Gaza, serviu como primeiro-ministro palestino após a vitória do grupo em pesquisas de 2006 e continuou a reclamar o título apesar de ter sido oficialmente demitido pelo presidente palestino e chefe do Fatah, Mahmoud Abbas.",
+        "summary": "O Hamas elegeu Ismail Haniyeh para liderar o escritório político, sucedendo Khaled Meshaal. O grupo suavizou sua postura em relação a Israel em um novo documento. Haniyeh já foi primeiro-ministro palestino e mantém braço armado em Gaza.",
+        "summary_gen": "Escolha um novo líder político.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Ismail Haniyeh",
+                "question": "Quem o Hamas nomeou para liderar o escritório político?"
+            },
+            {
+                "answer": "Khaled Meshaal",
+                "question": "Quem o Hamas nomeou para liderar o escritório político?"
+            },
+            {
+                "answer": "Israel",
+                "question": "Em que país Khaled Meshaal se referiu?"
+            },
+            {
+                "answer": "Gaza",
+                "question": "Onde Haniyeh mantém braço armado?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem o Hamas nomeou para liderar o escritório político?",
+                "resposta_ouro": "Ismail Haniyeh",
+                "resposta_obtida": "um novo líder político"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em que país Khaled Meshaal se referiu?",
+                "resposta_ouro": "Israel",
+                "resposta_obtida": "país"
+            },
+            {
+                "id": 2,
+                "pergunta": "Onde Haniyeh mantém braço armado?",
+                "resposta_ouro": "Gaza",
+                "resposta_obtida": "o governo"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.3333333333333333,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6355928182601929,
+                0.6424668431282043,
+                0.7027866840362549
+            ],
+            "moverscore": [
+                0.533754955233105,
+                0.6535143120757866,
+                0.5643651569619887
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "text": "O colunista da Folha João Paulo Cuenca estreia no próximo dia 30 \"A Morte de J.P. Cuenca\", um filme autobiográfico sobre sua própria \"morte\", que ganhou trailer nesta semana.  O longa, híbrido de documentário e narrativa ficcional experimental, parte de um fato ocorrido em 2008: a descoberta de um corpo num edifício invadido na Lapa carioca, que foi identificado pela polícia com a certidão de nascimento de Cuenca.  O evento fez o autor abandonar o livro que escrevia para esmiuçar o caso —o estofo originou o romance \"Descobri que Estava Morto\" (Planeta), que será lançado na Flip (Festa Literária Internacional de Paraty), em 1º de julho.  \"Um não é adaptação do outro; são obras que se complementam\", explicou o autor de \"O Dia Mastroianni\" em outubro de 2015, durante o Festival do Rio, que exibiu o filme.  O longa é a primeira empreitada de Cuenca no cinema. Para rodá-lo, ele contou com a produção dos cineastas Felipe Bragança e Marina Meliande.",
+        "summary": "O colunista João Paulo Cuenca estreia seu primeiro filme, \"A Morte de J.P. Cuenca\", que aborda sua própria \"morte\" em um documentário ficcional sobre a descoberta de um corpo associado a seu nome. O filme complementa seu romance \"Descobri que Estava Morto\".",
+        "summary_gen": "Assista ao filme A Morte de J.P.",
+        "conteudo_qg-original": [
+            {
+                "answer": "A Morte de J.P. Cuenca",
+                "question": "Qual é o nome do primeiro filme de João Paulo Cuenca?"
+            },
+            {
+                "answer": "Descobri que Estava Morto",
+                "question": "Qual é o nome do romance de João Paulo Cuenca?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual é o nome do primeiro filme de João Paulo Cuenca?",
+                "resposta_ouro": "A Morte de J.P. Cuenca",
+                "resposta_obtida": "A Morte de J.P"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual é o nome do romance de João Paulo Cuenca?",
+                "resposta_ouro": "Descobri que Estava Morto",
+                "resposta_obtida": "A Morte de J.P."
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.5,
+            "bertscore": 0.5,
+            "moverscore": 0.0,
+            "rouge1": 0.5,
+            "rouge2": 0.5,
+            "rougeL": 0.5,
+            "rougeLsum": 0.5
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.816496580927726,
+                0.0
+            ],
+            "bertscore": [
+                0.8888475894927979,
+                0.6158785820007324
+            ],
+            "moverscore": [
+                0.6504039392901224,
+                0.5601656250180925
+            ],
+            "rouge1": [
+                0.9090909090909091,
+                0.0
+            ],
+            "rouge2": [
+                0.888888888888889,
+                0.0
+            ],
+            "rougeL": [
+                0.9090909090909091,
+                0.0
+            ],
+            "rougeLsum": [
+                0.9090909090909091,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 186,
+        "text": "Você sabe por que uma das princesas da Disney leva o nome de Cinderela? O novo filme da personagem traz uma explicação.  A palavra seria uma junção de \"cinder\", que significa cinzas em inglês, com \"Ella\", o nome verdadeiro da jovem.  Na cena inédita do longa, divulgada pela empresa nesta segunda (16), o apelido surge porque as irmãs malvadas debocham do aspecto sujo da menina, que está coberta de pó da lareira (assista abaixo).  A nova produção traz personagens interpretados por atores reais, inspirados na clássica animação de 1950.    ANTECIPAÇÃO  Diferente do que a Disney divulgou em fevereiro, o filme chegará aos cinemas brasileiros no dia 26 de março, e não mais em 2 de abril.  Na ocasião, a empresa lançou um vídeo que traz entrevistas com os atores e com o diretor do longa, o britânico Kenneth Branagh.  Antes da exibição de \"Cinderela\", haverá a estreia do curta \"Frozen: Febre Congelante\", espécie de continuação de \"Frozen: Uma Aventura Congelante\" (2013).  Cena do filme 'Cinderela'",
+        "summary": "Novo filme da Cinderela explica que seu nome vem da junção de \"cinder\" (cinzas) com \"Ella\" (seu verdadeiro nome). A produção com atores reais estreará em 26 de março, seguida por um curta de \"Frozen\".",
+        "summary_gen": "Descubra por que a Cinderela leva o apelido de Ella. Assista ao filme em março.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Cinderela",
+                "question": "De que filme vem o nome \"cinzas\"?"
+            },
+            {
+                "answer": "26 de março",
+                "question": "Quando a Cinderela estreou?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "De que filme vem o nome \"cinzas\"?",
+                "resposta_ouro": "Cinderela",
+                "resposta_obtida": "Ella"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quando a Cinderela estreou?",
+                "resposta_ouro": "26 de março",
+                "resposta_obtida": "março"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.5,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.5773502691896258
+            ],
+            "bertscore": [
+                0.7259956002235413,
+                0.7831583619117737
+            ],
+            "moverscore": [
+                0.7085588707447684,
+                0.6045263944072113
+            ],
+            "rouge1": [
+                0.0,
+                0.6666666666666666
+            ],
+            "rouge2": [
+                0.0,
+                0.5
+            ],
+            "rougeL": [
+                0.0,
+                0.6666666666666666
+            ],
+            "rougeLsum": [
+                0.0,
+                0.6666666666666666
+            ]
+        }
+    },
+    {
+        "id": 125,
+        "text": "O presidente Michel Temer sancionou a lei que institui a TLP (Taxa de Longo Prazo), nova referência para os empréstimos do BNDES (Banco Nacional de Desenvolvimento Econômico e Social) nseta sexta-feira (22).  A TLP, que substituirá gradualmente a TJLP (Taxa de Juros de Longo Prazo), havia sido aprovada pelo Congresso no início do mês, seguindo então para sanção presidencial.  A nova taxa balizará o custo dos financiamentos pelo BNDES, que passará a contar com menos subsídios da União, dentro de esforços para buscar o reequilíbrio das contas públicas e elevar a potência da política monetária.  A TLP será composta pela variação da inflação medida pelo IPCA e por taxa de juros real prefixada mensalmente de acordo com o equivalente ao rendimento real das Notas do Tesouro Nacional-Série B (NTN-B).",
+        "summary": "Michel Temer sanciona lei que cria a TLP, nova taxa para empréstimos do BNDES, substituindo gradualmente a TJLP. A nova taxa seguirá IPCA e taxa de juros real.",
+        "summary_gen": "Aprenda mais sobre a nova taxa de juros.",
+        "conteudo_qg-original": [
+            {
+                "answer": "a TJLP",
+                "question": "O que a nova taxa de empréstimos do BNDES substituiu gradualmente?"
+            },
+            {
+                "answer": "IPCA e taxa de juros real",
+                "question": "Quais são os dois tipos de taxas que a nova taxa de empréstimos do BNDES segue?"
+            }
+        ],
+        "conteudo_qg-qa": [],
+        "conteudo_pontuacao": {
+            "cosseno": NaN,
+            "bertscore": NaN,
+            "moverscore": NaN,
+            "rouge1": NaN,
+            "rouge2": NaN,
+            "rougeL": NaN,
+            "rougeLsum": NaN
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        }
+    },
+    {
+        "id": 173,
+        "text": "Vestidos de mulher, dois homens aparentemente tentaram forçar sua entrada com um carro em um dos portões da sede da Agência Nacional de Segurança (NSA, na sigla em inglês) em uma base militar em Maryland, nos Estados Unidos, nesta segunda-feira (30).  Um policial atirou contra o carro, matando um homem e deixando o outro gravemente ferido.  A polícia está investigando o incidente, que pode ter sido uma tentativa de invasão. Segundo o FBI, o incidente não parece ter relações com o terrorismo.  A NSA tem sede em um complexo de prédios do Exército em Fort Meade, em Maryland. Segundo o Exército, 11.000 militares e 29.000 civis trabalham ali. Cerca de 6.000 pessoas vivem na base, que opera desde 1917.  Em 3 de março, autoridades capturaram um homem suspeito de disparar contra outro prédio da NSA. O suspeito, identificado como Hong Young, também teria disparado contra vários locais vizinhos e dois veículos em movimento.  Ele disse à polícia que vozes lhe ordenaram a fazer os disparos.",
+        "summary": "Homens vestidos de mulher tentam invadir sede da NSA em Maryland, EUA. Policial atira, matando um homem e ferindo outro. Não relacionado ao terrorismo. Incidente semelhante ocorreu em março.",
+        "summary_gen": "Veja se dois homens tentaram forçar a entrada de um carro em um dos portões da sede da Agência Nacional de Segurança (NSA). Saiba mais sobre a base militar de Fort Meade. Reconheça um suspeito de atirar contra outro prédio da NSA.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Maryland, EUA",
+                "question": "Onde os homens vestidos de mulher tentam invadir a sede da NSA?"
+            },
+            {
+                "answer": "ferindo outro",
+                "question": "O que aconteceu com um homem na sede da NSA?"
+            },
+            {
+                "answer": "terrorismo",
+                "question": "O que não está relacionado ao NSA?"
+            },
+            {
+                "answer": "março",
+                "question": "Quando ocorreu um incidente semelhante ao NSA?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Onde os homens vestidos de mulher tentam invadir a sede da NSA?",
+                "resposta_ouro": "Maryland, EUA",
+                "resposta_obtida": "um dos portões"
+            },
+            {
+                "id": 1,
+                "pergunta": "O que não está relacionado ao NSA?",
+                "resposta_ouro": "terrorismo",
+                "resposta_obtida": "a base militar de Fort Meade"
+            },
+            {
+                "id": 2,
+                "pergunta": "Quando ocorreu um incidente semelhante ao NSA?",
+                "resposta_ouro": "março",
+                "resposta_obtida": "Fort Meade"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6331769824028015,
+                0.6608887314796448,
+                0.6281664371490479
+            ],
+            "moverscore": [
+                0.5390978486983798,
+                0.5037582275307685,
+                0.5691656962053265
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": 164,
+        "text": "Três pessoas morreram na queda de um pequeno avião sobre uma casa em Plainville, no Estado de Massachusetts, nordeste dos Estados Unidos.  Os quatro moradores da residência conseguiram escapar do incêndio provocado pelo acidente, segundo a polícia estadual.  Segundo as autoridades, os três ocupantes do avião morreram. A identidade das vítimas não foi divulgada.  A Agência Nacional de Segurança no Transporte investiga o caso. A Agência Federal de Aviação informou que o Beech A36 decolou do aeroporto de Lancaster, na Pensilvânia, e e seguia para o Norwood Memorial Airport de Massachusettts.",
+        "summary": "Acidente aéreo em Plainville, Massachusetts, EUA, causa três mortes e incêndio em casa. Quatro moradores da residência escaparam. Investigação em andamento.",
+        "summary_gen": "Aprenda mais sobre a tragédia.",
+        "conteudo_qg-original": [
+            {
+                "answer": "três",
+                "question": "Quantas mortes foram causadas pelo acidente aéreo em Plainville, Massachusetts, EUA?"
+            },
+            {
+                "answer": "Quatro",
+                "question": "Quantos moradores da casa escaparam?"
+            },
+            {
+                "answer": "Investigação em andamento",
+                "question": "Acidente aéreo em Plainville, Massachusetts, EUA, causa três mortes e incêndio em casa. Quatro moradores da residência escaparam"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantas mortes foram causadas pelo acidente aéreo em Plainville, Massachusetts, EUA?",
+                "resposta_ouro": "três",
+                "resposta_obtida": "1"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quantos moradores da casa escaparam?",
+                "resposta_ouro": "Quatro",
+                "resposta_obtida": "1"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.8085010051727295,
+                0.7551232576370239
+            ],
+            "moverscore": [
+                0.683099291173964,
+                0.6693908455192434
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        }
+    }
+]

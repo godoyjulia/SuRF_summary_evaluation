@@ -57,6 +57,8 @@ class QGPipeline:
         else:
             qg_examples = self._prepare_inputs_for_qg_from_answers_hl(sents, answers)
         # print('__call__. qg_examples', qg_examples)
+        if len(qg_examples) == 0:
+            return [] # caso a resposta q foi obtida não existe no texto
 
         qg_inputs = [example['source_text'] for example in qg_examples]
         questions = self._generate_questions(qg_inputs)

@@ -1,0 +1,720 @@
+[
+    {
+        "id": "D1_C27_Folha_17-10-2007_23h53",
+        "text": "Depois de sete anos sem jogar no Maracanã, o Brasil chegou a ser vaiado pelo torcedor, mas deslanchou no fim e goleou o Equador por 5 a 0, nesta quarta-feira, pela segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010.   Atuar no estádio mais famoso do país com a camisa brasileira era novidade para a maioria dos atletas. Dos 22 convocados por Dunga, só Ronaldinho já tinha jogado no Maracanã com a seleção.   Também fazia bastante tempo que a seleção não disputava uma partida no Brasil. O último jogo havia sido em outubro de 2005, na vitória por 3 a 0 sobre a Venezuela, em Belém, ainda pelo torneio classificatório para o Mundial da Alemanha.   Na partida contra o Equador, o time comandado pelo técnico Dunga também precisava apagar a imagem deixada após o empate sem gols com a Colômbia, em Bogotá, na estréia nas eliminatórias.   No primeiro tempo o Brasil foi superior. A equipe tocava a bola no meio-campo, mas não atacava com muito perigo. No momento em que algumas vaias foram ouvidas no Maracanã, a equipe passou a jogar melhor.   Após um zagueiro equatoriano se atrapalhar, o ligeiro centroavante Vágner Love roubou a bola e chutou na trave, aos 15min. Não demorou muito para Love acertar a meta. Aos 19min, Maicon arrancou pelo lado direito do ataque e cruzou. Livre de marcação, o atacante --após seis partidas sem marcar gols pela equipe-- tocou a bola para o fundo das redes e quebrou o jejum.   Mesmo com o gol, o Brasil não conseguiu brilhar. Robinho, Ronaldinho e Kaká se esforçaram, mas não criaram muitas jogadas.   Na etapa final, o treinador equatoriano colocou o centroavante Tenorio no lugar do meio-campista Quiróz. A substituição tornou o time mais ofensivo, porém os meias brasileiros tiveram mais espaços para criar.   Aos 12min, em cobrança de falta, o Equador quase empatou a partida. Castillo bateu forte, mas a bola passou por cima do gol. Sete minutos depois, Brasil respondeu. Love recebeu outro cruzamento de Maicon, mas cabeceou para fora. No minuto seguinte, o centroavante em um bonito chute quase fez o segundo gol.   Depois dos dois lances, a seleção brasileira passou a tocar a bola no meio-campo e as vaias voltaram mais fortes. Novamente, os jogadores escutaram, foram ao ataque e ampliaram a vantagem. Aos 27min, Kaká arrancou e chutou de fora da área. A bola desviou em Ronaldinho e enganou o goleiro.   Aos 32min, Kaká tentou de novo. De fora da área, ele chutou. Desta vez, a bola não desviou em ninguém e entrou no ângulo.   Mesmo com a decisão de Dunga de trocar Love pelo meio-campista Elano, a equipe não perdeu o poder ofensivo. Robinho pedalou, driblou o zagueiro e chutou para o meio da área. No rebote, Elano fez o quarto gol, aos 38min.   Novamente, Kaká chutou de fora da área. A bola foi fraca, mas o goleiro Daniel Viteri falhou. Após o frango, Kaká sorriu e mal comemorou, aos 40min.   A seleção volta a ser reunir em novembro para disputar mais duas partidas das eliminatórias: contra o Peru, fora de casa, e contra o Uruguai, em São Paulo. ",
+        "summary": "Apesar de ter sido vaiado pela torcida, o Brasil goleou o Equador por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do mundo-2010, no Maracanã. No primeiro tempo o Brasil foi superior, mas não atacava com muito perigo. No momento em que algumas vaias foram ouvidas no Maracanã, a equipe passou a jogar melhor. Ao redor dos 15 minutos de jogo, Vagner Love marcou o primeiro gol, mesmo assim a equipe não conseguia brilhar. Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados. No segundo tempo, mesmo tendo o treinador equatoriano colocado o centroavante Tenório no lugar do meio-campista Quiróz, tornando seu time mais ofensivo, os meias brasileiros tiveram mais espaço para criar. Ao redor dos 20 minutos, o Brasil marcou o segundo gol com Maicon Douglas; aos 32 minutos, Kaká marcou o terceiro gol; aos 38 minutos, Elano marcou o quarto gol, e, finalmente aos 40 minutos, Kaká marcou o quinto e último gol do jogo.",
+        "summary_gen": "Entenda como a seleção começou a jogar no Maracanã. A partir do segundo tempo, o time foi melhor tocando a bola no meio-campo e criando espaços para a defesa. Com os dois lances, os jogadores voltaram a criar oportunidades para o ataque e ampliar a vantagem. O time voltou a se reunir em novembro para as Eliminatórias.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Equador",
+                "question": "Qual time o Brasil goleou por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?"
+            },
+            {
+                "answer": "Brasil",
+                "question": "Qual time venceu o Equador na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?"
+            },
+            {
+                "answer": "a equipe passou a jogar melhor",
+                "question": "O que aconteceu no momento em que algumas vaias foram ouvidas no Maracanã?"
+            },
+            {
+                "answer": "Vagner Love",
+                "question": "Quem marcou o primeiro gol do Brasil?"
+            },
+            {
+                "answer": "Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados",
+                "question": "Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados?"
+            },
+            {
+                "answer": "Quiróz",
+                "question": "Quem foi o centroavante Tenório?"
+            },
+            {
+                "answer": "Maicon Douglas;",
+                "question": "Com quem o Brasil marcou o segundo gol?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual time o Brasil goleou por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?",
+                "resposta_ouro": "Equador",
+                "resposta_obtida": "Brasil"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual time venceu o Equador na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?",
+                "resposta_ouro": "Brasil",
+                "resposta_obtida": "seleção"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que aconteceu no momento em que algumas vaias foram ouvidas no Maracanã?",
+                "resposta_ouro": "a equipe passou a jogar melhor",
+                "resposta_obtida": "o time foi melhor tocando a bola no meio-campo e criando espaços para a defesa"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quem marcou o primeiro gol do Brasil?",
+                "resposta_ouro": "Vagner Love",
+                "resposta_obtida": "Neymar"
+            },
+            {
+                "id": 4,
+                "pergunta": "Quem foi o centroavante Tenório?",
+                "resposta_ouro": "Quiróz",
+                "resposta_obtida": "centroavante"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.14433756729740646,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7284557223320007,
+                0.8068588376045227,
+                0.7301770448684692,
+                0.7512657046318054,
+                0.7031162977218628
+            ],
+            "moverscore": [
+                0.6663117294275115,
+                0.6886237928880755,
+                0.5723606660364597,
+                0.6168017239994765,
+                0.6841988569366918
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.2608695652173913,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.1739130434782609,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.1739130434782609,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": "D4_C24_GPovo_23-07-2007_19h38",
+        "text": "A brasileira Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara. Com a marca de 4m60, Fabiana não só venceu a prova, como também estabeleceu o novo recorde pan-americano, 20cm mais alto do que a antiga marca de 4m40.   Após confirmar a medalha de ouro, Fabiana tentou, ainda, bater o próprio recorde sul-americano de 4m66 em três tentativas de saltar 4m68, mas não conseguiu.  A medalha de prata ficou com a americana April Steiner, com a marca de 4m40 e o bronze foi para a cubana Yarisley Silva, com 4m30.  A brasileira Joana Costa ficou com a quinta posição, com 4m20 e mostrou, mais uma vez, neste Pan do Rio, que a pressão de competir em casa pode prejudicar os atletas. Após começar muito bem, saltando com segurança até os 4m, Joana começou a ter problemas na corrida de aproximação já nos 4m10, mostrando nervosismo e até desistindo de saltos no meio do caminho. Outros atletas brasileiros já sentiram essa pressão da torcida, como foi o caso das meninas do vôlei, que entregaram o ouro a Cuba, no tie break e dos atletas da ginástica artística, que cometeram seguidos erros, claramente, por nervosismo. ",
+        "summary": "Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara e estabeleceu o novo recorde pan-americano com a marca de 4m60. A medalha de prata ficou com os Estados Unidos e a de bronze com Cuba. A brasileira Joana Costa ficou com a quinta posição, confirmando que a pressão de competir em casa pode prejudicar os atletas. ",
+        "summary_gen": "Determine a marca de 4m60 na prova de salto com vara. Saiba que a pressão da torcida pode prejudicar os atletas.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Fabiana Murer",
+                "question": "Quem conquistou o primeiro ouro do atletismo para o Brasil?"
+            },
+            {
+                "answer": "Cuba",
+                "question": "Com quem a medalha de bronze foi conquistada nos Estados Unidos?"
+            },
+            {
+                "answer": "quinta",
+                "question": "Qual foi a classificação da brasileira Joana Costa na prova de salto com vara?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem conquistou o primeiro ouro do atletismo para o Brasil?",
+                "resposta_ouro": "Fabiana Murer",
+                "resposta_obtida": "Brasil"
+            },
+            {
+                "id": 1,
+                "pergunta": "Com quem a medalha de bronze foi conquistada nos Estados Unidos?",
+                "resposta_ouro": "Cuba",
+                "resposta_obtida": "salto com vara"
+            },
+            {
+                "id": 2,
+                "pergunta": "Qual foi a classificação da brasileira Joana Costa na prova de salto com vara?",
+                "resposta_ouro": "quinta",
+                "resposta_obtida": "4m60"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6744272708892822,
+                0.6575719714164734,
+                0.6715220808982849
+            ],
+            "moverscore": [
+                0.5916019953890108,
+                0.5468614298987213,
+                0.6680592259957575
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": "D1_C13_Folha_07-08-2010_07h21",
+        "text": "Quinze voluntários da ONG francesa Ação Contra a Fome (ACF) foram assassinados no nordeste do Sri Lanka, informou hoje um porta-voz da organização.  Os crimes aconteceram na cidade de Muttur, que durante as últimas duas semanas vive graves conflitos entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil (LTTE).  Os corpos de 11 homens e 4 mulheres de etnia tâmil, vestidos com camisetas da ACF, apareceram na semana passada no escritório da organização.  O diretor da ACF no Sri Lanka, Benoit Miribel, confirmou a morte de seus funcionários e afirmou, comovido, que a ONG não sofreu uma perda similar em seus mais de 25 anos de existência.  Tentamos enviar uma equipe a Muttur para averiguar o que está acontecendo, mas os soldados não permitiram que entrássemos na cidade, que está totalmente bloqueada, afirmou.  Até o momento, as autoridades do Sri Lanka não confirmaram as mortes ou esclareceram o que acontece na cidade de Muttur.  O violento conflito começou em 26 de julho, quando as tropas aéreas do governo bombardearam posições da guerrilha, depois que os rebeldes bloquearam uma represa situada em seu território por mais de uma semana, impedindo a provisão de água em localidades sob controle governamental.  No domingo, o LTTE ofereceu o cessar-fogo em troca do desbloqueio da presa, mas o governo rejeitou a oferta e lançou uma nova ofensiva sobre a área, de onde mais de 15 mil civis foram obrigados a fugir na última semana.  Os rebeldes afirmaram que consideram o novo bombardeio do Exército equivalente a uma declaração de guerra.  O enviado especial da Noruega para a paz no Sri Lanka, Jon Hanssen-Bauer, chegou na semana passada à ilha e manteve diferentes reuniões com as duas partes, na tentativa de reduzir a tensão e evitar a volta a uma guerra civil.  ",
+        "summary": "Quinze voluntários da ONG francesa Ação Contra a Fome foram assassinados no nordeste do Sri Lanka, na cidade de Muttur, em meio a um violento conflito que começou em 26 de julho, entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil. O estopim da crise foi o bloqueio de uma represa pelos guerrilheiros.  Na tentativa de solucionar o impasse, eles ofereceram o desbloqueio da represa em troca do cessar-fogo, porém o governo não o aceitou e lançou nova ofensiva.",
+        "summary_gen": "Saiba mais sobre a morte de funcionários da ACF no Sri Lanka. Aprenda sobre o conflito entre os Tigres de Libertação da Pátria Tâmil (LCTTE).",
+        "conteudo_qg-original": [
+            {
+                "answer": "Quinze",
+                "question": "Quantos voluntários da Ação Contra a Fome foram assassinados no nordeste do Sri Lanka?"
+            },
+            {
+                "answer": "bloqueio de uma represa",
+                "question": "Qual foi o principal problema da crise?"
+            },
+            {
+                "answer": "o governo não o aceitou",
+                "question": "O que aconteceu com os guerrilheiros na tentativa de desbloquear a represa?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantos voluntários da Ação Contra a Fome foram assassinados no nordeste do Sri Lanka?",
+                "resposta_ouro": "Quinze",
+                "resposta_obtida": "funcionários"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual foi o principal problema da crise?",
+                "resposta_ouro": "bloqueio de uma represa",
+                "resposta_obtida": "morte de funcionários da ACF"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.22360679774997896
+            ],
+            "bertscore": [
+                0.7361779808998108,
+                0.7621066570281982
+            ],
+            "moverscore": [
+                0.6710570576820519,
+                0.6242028027233092
+            ],
+            "rouge1": [
+                0.0,
+                0.2
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.2
+            ],
+            "rougeLsum": [
+                0.0,
+                0.2
+            ]
+        }
+    },
+    {
+        "id": "D2_C18_Estadao_16-04-2007_13h44",
+        "text": "Ao menos 33 pessoas morreram nesta segunda-feira, 16, segundo o presidente da instituição, Charles Steger. Entre os mortos está o próprio autor dos disparos, mas ainda não foi confirmado se ele foi atingido pela polícia ou se cometeu suicídio.  O incidente, que aconteceu no campus da Virginia Tech, no estado da Virgínia, deixou outros 26 feridos. Foi o maior tiroteio já registrado em uma universidade americana.  Hoje a universidade foi a atingida com uma tragédia que consideramos de proporções monumentais, afirmou Steger. Todo o corpo universitário está chocado.  Por meio de uma porta-voz, o presidente americano, George W. Bush, disse ter ficado horrorizado com o ataque. A presidente da Câmara dos Representantes, Nancy Pelosi, também lamentou o episódio.  Um dos estudantes foi morto em um dormitório, e os outros foram assassinados na sala de aula, informou o chefe de polícia da universidade, W.R. Flinchum. Segundo informações da polícia, o tiroteio aconteceu em duas etapas, separadas por quase duas horas, em lados opostos do campus de mil hectares.  O ataque espalhou pânico e confusão na universidade. Segundo testemunhas, era possível ver estudantes pulando da janela das salas de aula para escapar dos tiros. Alguns dos feridos tiveram que ser carregados pelos alunos e funcionários da universidade. Policiais armados com fuzis tiveram que ser chamados para intervir.  A tragédia começou por volta das 7h15 (horário local), em um dormitório estudantil que tem capacidade para 895 pessoas. A polícia investigava o incidente quando soube dos disparo, quase duas horas depois, no salão da faculdade de engenharia, local em que o assassino morreu.  O nome do atirador não foi divulgado, e a polícia não ofereceu nenhum motivo para o ataque. Não se sabe se o criminoso era aluno da universidade.  Após o tiroteio, as aulas foram suspensas e todas as entradas do campus foram fechadas até a terça-feira, 17. A universidade disponibilizou um centro de emergência para que os familiares consigam informações sobre seus filhos e recebam atendimento de psicólogos.  Por meio de um porta-voz, Bush também comentou o ataque: (O presidente) ficou horrorizado e sua reação imediata era de preocupação profunda pelas famílias das vítimas, as próprias vítimas, os alunos, os professores e todas as pessoas da Virginia que têm que lidar com este tipo de incidente chocante, disse uma porta-voz da Casa Branca.  Pelosi, por sua vez, pediu um minuto de silêncio na Câmara e disse que se trata do pior tiroteio em um campus na história do país.  Há muita comoção. É difícil dizer ao certo o que está acontecendo, disse, transtornado, o estudante Jason Anthony Smith, de 19 anos. Ele vive em um dos dormitórios do complexo atacado inicialmente pelo atirador.  Aimee Kanode, uma estudante do primeiro ano, afirmou que ouviu tiros vindos do 4º andar do prédio de dormitórios, um andar acima do seu. Um dos monitores do local a alertou para que não saísse do quarto.  Eles nos trancaram nos quartos, afirmou Kanode. Quando nos liberaram temporariamente, ele voltou a atirar, continuou ela. Estávamos todos conectados à internet tentando descobrir o que aconteceu.  Segundo a polícia, nas últimas duas semanas houveram ameaças de bomba no local, mas ainda não se sabe se elas têm alguma relação com o tiroteio.  Esta é a segunda vez em menos de um ano que o campus é fechado devido a um tiroteio. Em agosto de 2006, o primeiro dia de aula foi cancelado quando um fugitivo da polícia matou um segurança do hospital universitário.  O tiroteio é um dos piores crimes do tipo no campus de uma universidade nos EUA desde que Charles Whitman abriu fogo do alto de uma torre no meio do campus da Universidade do Texas, em Austin, no dia 1º de agosto de 1966.  Whitman matou 15 pessoas, incluindo sua mãe e mulher na noite anterior, e deixou outras 31 pessoas feridas.  Nos últimos anos, o caso de tiroteio em escolas americanas mais famoso aconteceu em abril de 1999, quando os estudantes Eric Harris e Dylan Klebold mataram 12 colegas e um professor no Colégio Columbine, no estado de Colorado. Após a tragédia, os dois adolescentes cometeram suicídio. O episódio tornou-se alvo de discussões e serviu de inspiração para ao menos dois filmes.",
+        "summary": "Em mais um incidente de tiroteio em escolas e universidades, ao menos 33 pessoas morreram nesta segunda-feira, 16, no campus da Virginia Tech, no estado da Virgínia, segundo o presidente da instituição, Charles Steger. Além disso, houve 26 feridos. O atirador, de identidade ainda não divulgada, também foi encontrado morto, mas não se sabe se cometeu suicídio ou se foi morto pela policia. O ataque aconteceu em dois lugares do campus, em lados opostos. A tragédia começou em um dormitório estudantil e terminou, quase duas horas depois, no salão da faculdade de engenharia. O ataque espalhou pânico e confusão na universidade e a polícia foi chamada para controlar a situação. Após o ataque, alunos, professores e funcionários se encontram chocados. As aulas foram suspensas e todas as entradas do campus foram fechadas até terça-feira, 17. A universidade disponibilizou um centro de emergência para atendimento aos familiares. O tiroteio foi o maior já registrado em uma universidade americana. Segundo a polícia, nas últimas duas semanas, houve ameaças de bomba no local, mas ainda não se sabe se elas têm alguma relação com o tiroteio. Esta é a segunda vez em menos de um ano que o campus é fechado devido a um tiroteio.",
+        "summary_gen": "O governo da Virginia está chocado com o atentado de segunda-feira, 16, no campus da universidade. A universidade foi atingida pelo atirador e as salas de aula. O campus foi fechado e todas as entradas do campus foram fechadas. Veja se há ameaças de bomba no local do ataque. Saiba que o pior caso de tiroteio em uma universidade já foi registrado.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Virginia Tech",
+                "question": "Onde está localizado o campus da Virgínia?"
+            },
+            {
+                "answer": "26",
+                "question": "Quantas pessoas foram mortas no tiroteio?"
+            },
+            {
+                "answer": "suicídio",
+                "question": "Qual foi o nome do atirador que foi encontrado morto na segunda-feira, 16, no campus da Virginia Tech?"
+            },
+            {
+                "answer": "dois",
+                "question": "Em quantos lugares do campus ocorreu o tiroteio?"
+            },
+            {
+                "answer": "no salão da faculdade de engenharia",
+                "question": "Onde começou o tiroteio?"
+            },
+            {
+                "answer": "pânico e confusão",
+                "question": "O que causou o ataque ao campus da Virginia Tech?"
+            },
+            {
+                "answer": "alunos, professores e funcionários",
+                "question": "Quem se encontra chocado com o tiroteio?"
+            },
+            {
+                "answer": "17",
+                "question": "Em que dia foi fechada todas as entradas do campus da Virginia Tech?"
+            },
+            {
+                "answer": "centro de emergência",
+                "question": "O que a universidade disponibilizou para atendimento aos familiares?"
+            },
+            {
+                "answer": "O tiroteio",
+                "question": "Qual foi o maior tiroteio registrado em uma universidade americana?"
+            },
+            {
+                "answer": "duas semanas",
+                "question": "Há quanto tempo houve ameaças de bomba no campus da Virginia Tech, mas ainda não se sabe se elas têm alguma relação com o tiroteio?"
+            },
+            {
+                "answer": "menos de um ano",
+                "question": "Há quanto tempo o campus é fechado devido a um tiroteio?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Onde está localizado o campus da Virgínia?",
+                "resposta_ouro": "Virginia Tech",
+                "resposta_obtida": "campus da universidade"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em quantos lugares do campus ocorreu o tiroteio?",
+                "resposta_ouro": "dois",
+                "resposta_obtida": "todas as entradas"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que causou o ataque ao campus da Virginia Tech?",
+                "resposta_ouro": "pânico e confusão",
+                "resposta_obtida": "A universidade foi atingida pelo atirador e as salas de aula"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quem se encontra chocado com o tiroteio?",
+                "resposta_ouro": "alunos, professores e funcionários",
+                "resposta_obtida": "governo da Virginia"
+            },
+            {
+                "id": 4,
+                "pergunta": "O que a universidade disponibilizou para atendimento aos familiares?",
+                "resposta_ouro": "centro de emergência",
+                "resposta_obtida": "sala de aula"
+            },
+            {
+                "id": 5,
+                "pergunta": "Há quanto tempo houve ameaças de bomba no campus da Virginia Tech, mas ainda não se sabe se elas têm alguma relação com o tiroteio?",
+                "resposta_ouro": "duas semanas",
+                "resposta_obtida": "o pior caso de tiroteio em uma universidade já foi registrado"
+            },
+            {
+                "id": 6,
+                "pergunta": "Há quanto tempo o campus é fechado devido a um tiroteio?",
+                "resposta_ouro": "menos de um ano",
+                "resposta_obtida": "O campus foi fechado"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.2857142857142857,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.3333333333333334,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6834386587142944,
+                0.7541835904121399,
+                0.6675809025764465,
+                0.6754170656204224,
+                0.8110503554344177,
+                0.6351629495620728,
+                0.6599966883659363
+            ],
+            "moverscore": [
+                0.5530070058701967,
+                0.5575281738173844,
+                0.5483450421921596,
+                0.5695631319945069,
+                0.6180649299012515,
+                0.5068981036281213,
+                0.6088073188579873
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.12500000000000003,
+                0.0,
+                0.28571428571428575,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.12500000000000003,
+                0.0,
+                0.28571428571428575,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.12500000000000003,
+                0.0,
+                0.28571428571428575,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": "D2_C15_Estadao_21-08-2006_07h32",
+        "text": "Nove pessoas morreram, três delas crianças, e outras 25 ficaram feridas nesta segunda-feira em uma explosão ocorrida em um mercado de Moscou, informou a polícia.  A explosão, supostamente causada por vazamento de um botijão de gás, foi registrada por volta das 10h40 (3h40 de Brasília) no setor denominado Evrazia do mercado Cherkizov, um dos maiores shoppings da capital da Rússia.  A maioria dos feridos, entre os quais há quatro com menos de 18 anos, foi hospitalizada.  Cerca de dez de carros de bombeiros e mais de uma dezena de ambulâncias foram enviadas ao local, que foi isolado pela polícia.  A procuradoria de Moscou anunciou a criação de um grupo especial para investigar o acidente.  Fontes do Ministério do Interior da Rússia citadas pela agência Interfax descartaram a possibilidade de a explosão em Cherkizov ter sido um ataque terrorista. ",
+        "summary": "Nove pessoas morreram e outras 25 ficaram feridas em uma explosão, supostamente de um botijão de gás, ocorrida em um mercado de Moscou. Moscou anuncia que vai investigar o acidente e Fontes do Ministério do Interior descartaram a possibilidade de um ataque terrorista.",
+        "summary_gen": "Saiba o que aconteceu. Reconheça os feridos. Ajude a polícia.",
+        "conteudo_qg-original": [
+            {
+                "answer": "um botijão de gás",
+                "question": "O que aconteceu em um mercado de Moscou?"
+            },
+            {
+                "answer": "Fontes do Ministério do Interior descartaram a possibilidade de um ataque terrorista",
+                "question": "O que o Ministério do Interior descarta?"
+            }
+        ],
+        "conteudo_qg-qa": [],
+        "conteudo_pontuacao": {
+            "cosseno": NaN,
+            "bertscore": NaN,
+            "moverscore": NaN,
+            "rouge1": NaN,
+            "rouge2": NaN,
+            "rougeL": NaN,
+            "rougeLsum": NaN
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        }
+    },
+    {
+        "id": "D2_C9_Estadao_04-08-2006_09h53",
+        "text": "A Polícia Federal desencadeou na manhã desta sexta-feira em Rondônia, a Operação Dominó, destinada a prender uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais.  Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado, desembargador Sebastião Teixeira Chaves, e sua mulher, a advogada Marilda Shirley de Souza Leira Teixeira Chaves. Estão recebendo voz de prisão, também, o presidente da Assembléia Legislativa de Rondônia, deputado José Carlos de Oliveira (PL), o Carlão, acusado de ser o líder da quadrilha, além de juízes, outros desembargadores, promotores e, pelo menos, mais nove deputados estaduais.  O grupo é acusado de lesar os cofres públicos em cerca de R$ 70 milhões, desde 2004. Um dos seus principais crimes era a falsificação de pagamentos de funcionários fantasmas por laranjas na Assembléia Legislativa. Dos 24 deputados estaduais, 23 praticavam esse crime e, segundo a PF, desviaram mais de R$ 10 milhões com essa prática, em apenas um ano.  Entre os laranjas estavam familiares, amigos e empregados dos parlamentares. Na maioria das vezes, o dinheiro arrecadado ia para contas dos próprios parlamentares, que também foram flagrados em fitas de vídeo gravadas pelo governador Ivo Cassol (ex-PSDB e atualmente no PPS) em que ele era chantageado para pagar mensalão de até R$ 50 mil para cada um dos parlamentares envolvidos em troca de apoio a matérias de interesse do governo local na Assembléia Legislativa.  Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia. Pelo acordo, a Justiça livrava os parlamentares dos processos abertos contra eles pela Polícia e, em contrapartida, a Assembléia aprovava aumentos salariais para procuradores e juízes em porcentuais muito acima dos toleráveis pela Lei de Responsabilidade Fiscal.  As fraudes envolviam, também, o superfaturamento de contratos com fornecedores da Assembléia, além de uma verdadeira farra com passagens aéreas distribuídas fartamente entre os parlamentares, seus familiares e amigos.  Desde julho de 2005 até agora, foram feitas interceptações telefônicas com autorização da Justiça Federal para monitorar os passos da quadrilha, na qual estão envolvidos, também, conselheiros do Tribunal de Contas do Estado.  As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes. A PF abriu uma nova frente de atuação para apurar o caso com o objetivo de apurar a participação de desembargadores e conselheiros do Tribunal de Contas na quadrilha. A PF divulgou que cerca de 300 policiais federais do Amazonas, Distrito Federal, Mato Grosso, Acre e de Rondônia fazem parte das investigações da Operação Dominó.",
+        "summary": "A Polícia Federal prendeu uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais, na chamada Operação Dominó, em Rondônia. Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado e sua mulher, o presidente da Assembléia Legislativa de Rondônia e familiares, amigos e empregados de parlamentares, que funcionavam como laranjas. Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia. Também estão envolvidos  conselheiros do Tribunal de Contas do Estado. Dentre as infrações, estão a liberação de parlamentares dos processos abertos pela Polícia, aumentos salariais para procuradores e juízes e superfaturamento de contratos com fornecedores da Assembléia. As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+        "summary_gen": "Prepare-se para a Operação Dominó. Aprenda mais sobre a organização dos deputados. Saiba que a PF está investigando a quadrilha.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Operação Dominó",
+                "question": "Em que operação a Polícia Federal prendeu altos funcionários públicos?"
+            },
+            {
+                "answer": "laranjas",
+                "question": "Como eram chamados os funcionários públicos da Assembléia Legislativa de Rondônia?"
+            },
+            {
+                "answer": "Ministério Público e com a Justiça do Estado de Rondônia",
+                "question": "Com quem os parlamentares fizeram um conluio?"
+            },
+            {
+                "answer": "conselheiros do Tribunal de Contas do Estado",
+                "question": "Quem estão envolvidos na Operação Dominó?"
+            },
+            {
+                "answer": "liberação de parlamentares dos processos abertos pela Polícia, aumentos salariais para procuradores e juízes e superfaturamento de contratos com fornecedores da Assembléia",
+                "question": "Quais são algumas das infrações da Operação Dominó?"
+            },
+            {
+                "answer": "dificultando o funcionamento regular dos poderes",
+                "question": "O que as investigações demonstram que a organização possui grande influência em Rondônia?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Em que operação a Polícia Federal prendeu altos funcionários públicos?",
+                "resposta_ouro": "Operação Dominó",
+                "resposta_obtida": "Operação Dominó"
+            },
+            {
+                "id": 1,
+                "pergunta": "Com quem os parlamentares fizeram um conluio?",
+                "resposta_ouro": "Ministério Público e com a Justiça do Estado de Rondônia",
+                "resposta_obtida": "deputados"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que as investigações demonstram que a organização possui grande influência em Rondônia?",
+                "resposta_ouro": "dificultando o funcionamento regular dos poderes",
+                "resposta_obtida": "deputados"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.3333333333333333,
+            "bertscore": 0.3333333333333333,
+            "moverscore": 0.3333333333333333,
+            "rouge1": 0.3333333333333333,
+            "rouge2": 0.3333333333333333,
+            "rougeL": 0.3333333333333333,
+            "rougeLsum": 0.3333333333333333
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.9999999999999998,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                1.0000001192092896,
+                0.6007292866706848,
+                0.572731077671051
+            ],
+            "moverscore": [
+                0.9995559884381707,
+                0.484255012195024,
+                0.5110461764073666
+            ],
+            "rouge1": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": "D2_C32_Estadao_17-07-2007_08h03",
+        "text": "Os chefes da usina nuclear do Japão atingida por terremotos na última segunda-feira admitiram que ocorreram mais vazamentos radioativos no local. Além do vazamento de água contendo material radioativo, gases radioativos também escaparam da usina nuclear de Kashiwazaki, segundo informou a BBC.  De acordo com a agência de notícias japonesa Kyodo News, 100 barris de lixo nuclear com resíduo de baixo nível tombaram durante o terremoto e foram encontrados sem a tampa nesta terça-feira, 17.   Segundo Masahide Ichikawa, um funcionário da província de Niigata, uma inspeção para comprovar danos na usina nuclear descobriu que cerca de 100 tambores para a armazenagem de resíduos tóxicos de baixa intensidade tinham sido danificados.  A empresa afirma que qualquer vazamento tem poucas chances de causar danos ao meio ambiente.  A central permanece fechada desde a última segunda, quando houve um terremoto de 6,8 graus de magnitude a poucos quilômetros da instalação. A Companhia de Energia Elétrica de Tóquio afirmou que o terremoto foi mais forte do que a usina de Kashiwazaki, uma das maiores do mundo, foi planejada para agüentar.   Além disso, o vazamento na usina de Kashiwazaki alimenta novos temores a respeito da segurança das usinas nucleares do Japão, cujos reatores respondem por 30% da demanda energética do país.  Na segunda, o terremoto causou um pequeno incêndio em um transformador em uma unidade da companhia, que foi rapidamente controlado. Ainda não se sabe quando a empresa poderá retomar o funcionamento de três geradores.  O terremoto deixou até o momento nove mortos, todos idosos, mais de mil feridos e cerca de 13 mil desabrigados, assim como grandes danos materiais. Além disso, várias regiões afetadas continuam sem água corrente e sem eletricidade.  A previsão de dois dias de chuva na área aumenta os temores de novos deslizamentos de terra, que agravariam a devastação. Casas desabaram, muitas delas de madeira e com tradicionais telhados de tijolos pesados, e estradas apresentaram rachaduras devido ao tremor de segunda-feira, cujo epicentro foi na mesma área do noroeste japonês onde há três anos um terremoto matou cerca de 65 pessoas.  Nesta terça, o ministro da Defesa enviou 450 soldados para as áreas devastadas.  Niigata foi atingida em outubro de 2004 por um tremor também de magnitude 6,8, que deixou mais de 3 mil feridos.  Aquele foi o terremoto mais devastador no Japão, um dos países mais propensos a terremotos no mundo, desde o de Kobe, com magnitude 7,3, que matou mais de 6.400 pessoas em 1995.",
+        "summary": "Além dos vazamentos radioativos da água da usina nuclear de Kashiwazaki, no Japão, que foi atingida por um terremoto de 6,8 graus de magnitude na última segunda-feira, ocorreram vazamentos radioativos de gases. Os vazamentos ocorreram porque 100 barris de lixo nuclear tombaram destampados. No entanto, a empresa afirma que eles têm poucas chances de causar danos ao meio ambiente. Várias regiões continuam sem água corrente e sem eletricidade. O terremoto deixou nove mortos, mais de mil feridos e cerca de 13 mil desabrigados, assim como grandes danos materiais. Há preocupação não só com relação à segurança das usinas nucleares do Japão, como também com relação aos danos ambientais e à possibilidade de novos terremotos.",
+        "summary_gen": "Saiba que houve mais vazamentos radioativos na usina de Kashiwazaki. A empresa de energia nuclear japonesa nega qualquer vazamento radioativo. Conheça os danos materiais. Veja se há rachaduras nas áreas afetadas.",
+        "conteudo_qg-original": [
+            {
+                "answer": "6,8 graus",
+                "question": "Qual foi a magnitude do terremoto na última segunda-feira?"
+            },
+            {
+                "answer": "100 barris de lixo nuclear tombaram destampados",
+                "question": "Por que os vazamentos radioativos da água da usina nuclear de Kashiwazaki ocorreram?"
+            },
+            {
+                "answer": "eles têm poucas chances de causar danos ao meio ambiente",
+                "question": "O que a empresa afirma sobre vazamentos radioativos da água da usina nuclear de Kashiwazaki?"
+            },
+            {
+                "answer": "sem água corrente e sem eletricidade",
+                "question": "Como as regiões continuam no Japão?"
+            },
+            {
+                "answer": "nove",
+                "question": "Quantas pessoas morreram no terremoto de Kashiwazaki?"
+            },
+            {
+                "answer": "segurança das usinas nucleares do Japão",
+                "question": "Qual é a preocupação do Japão com os danos ambientais e a possibilidade de novos terremotos?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual foi a magnitude do terremoto na última segunda-feira?",
+                "resposta_ouro": "6,8 graus",
+                "resposta_obtida": "magnitude do terremoto"
+            },
+            {
+                "id": 1,
+                "pergunta": "Por que os vazamentos radioativos da água da usina nuclear de Kashiwazaki ocorreram?",
+                "resposta_ouro": "100 barris de lixo nuclear tombaram destampados",
+                "resposta_obtida": "danos materiais"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que a empresa afirma sobre vazamentos radioativos da água da usina nuclear de Kashiwazaki?",
+                "resposta_ouro": "eles têm poucas chances de causar danos ao meio ambiente",
+                "resposta_obtida": "nega qualquer vazamento radioativo"
+            },
+            {
+                "id": 3,
+                "pergunta": "Como as regiões continuam no Japão?",
+                "resposta_ouro": "sem água corrente e sem eletricidade",
+                "resposta_obtida": "rachaduras"
+            },
+            {
+                "id": 4,
+                "pergunta": "Quantas pessoas morreram no terremoto de Kashiwazaki?",
+                "resposta_ouro": "nove",
+                "resposta_obtida": "mais de 100"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.2,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.649037778377533,
+                0.672092616558075,
+                0.680877685546875,
+                0.6815707087516785,
+                0.7256168723106384
+            ],
+            "moverscore": [
+                0.5608085541294744,
+                0.5199412084219108,
+                0.5557400118649528,
+                0.4892889301698086,
+                0.5536973022050311
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    }
+]

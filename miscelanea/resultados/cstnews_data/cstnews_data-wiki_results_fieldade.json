@@ -1,0 +1,376 @@
+[
+    {
+        "id": "D1_C27_Folha_17-10-2007_23h53",
+        "text": "Depois de sete anos sem jogar no Maracanã, o Brasil chegou a ser vaiado pelo torcedor, mas deslanchou no fim e goleou o Equador por 5 a 0, nesta quarta-feira, pela segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010.   Atuar no estádio mais famoso do país com a camisa brasileira era novidade para a maioria dos atletas. Dos 22 convocados por Dunga, só Ronaldinho já tinha jogado no Maracanã com a seleção.   Também fazia bastante tempo que a seleção não disputava uma partida no Brasil. O último jogo havia sido em outubro de 2005, na vitória por 3 a 0 sobre a Venezuela, em Belém, ainda pelo torneio classificatório para o Mundial da Alemanha.   Na partida contra o Equador, o time comandado pelo técnico Dunga também precisava apagar a imagem deixada após o empate sem gols com a Colômbia, em Bogotá, na estréia nas eliminatórias.   No primeiro tempo o Brasil foi superior. A equipe tocava a bola no meio-campo, mas não atacava com muito perigo. No momento em que algumas vaias foram ouvidas no Maracanã, a equipe passou a jogar melhor.   Após um zagueiro equatoriano se atrapalhar, o ligeiro centroavante Vágner Love roubou a bola e chutou na trave, aos 15min. Não demorou muito para Love acertar a meta. Aos 19min, Maicon arrancou pelo lado direito do ataque e cruzou. Livre de marcação, o atacante --após seis partidas sem marcar gols pela equipe-- tocou a bola para o fundo das redes e quebrou o jejum.   Mesmo com o gol, o Brasil não conseguiu brilhar. Robinho, Ronaldinho e Kaká se esforçaram, mas não criaram muitas jogadas.   Na etapa final, o treinador equatoriano colocou o centroavante Tenorio no lugar do meio-campista Quiróz. A substituição tornou o time mais ofensivo, porém os meias brasileiros tiveram mais espaços para criar.   Aos 12min, em cobrança de falta, o Equador quase empatou a partida. Castillo bateu forte, mas a bola passou por cima do gol. Sete minutos depois, Brasil respondeu. Love recebeu outro cruzamento de Maicon, mas cabeceou para fora. No minuto seguinte, o centroavante em um bonito chute quase fez o segundo gol.   Depois dos dois lances, a seleção brasileira passou a tocar a bola no meio-campo e as vaias voltaram mais fortes. Novamente, os jogadores escutaram, foram ao ataque e ampliaram a vantagem. Aos 27min, Kaká arrancou e chutou de fora da área. A bola desviou em Ronaldinho e enganou o goleiro.   Aos 32min, Kaká tentou de novo. De fora da área, ele chutou. Desta vez, a bola não desviou em ninguém e entrou no ângulo.   Mesmo com a decisão de Dunga de trocar Love pelo meio-campista Elano, a equipe não perdeu o poder ofensivo. Robinho pedalou, driblou o zagueiro e chutou para o meio da área. No rebote, Elano fez o quarto gol, aos 38min.   Novamente, Kaká chutou de fora da área. A bola foi fraca, mas o goleiro Daniel Viteri falhou. Após o frango, Kaká sorriu e mal comemorou, aos 40min.   A seleção volta a ser reunir em novembro para disputar mais duas partidas das eliminatórias: contra o Peru, fora de casa, e contra o Uruguai, em São Paulo. ",
+        "summary": "Apesar de ter sido vaiado pela torcida, o Brasil goleou o Equador por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do mundo-2010, no Maracanã. No primeiro tempo o Brasil foi superior, mas não atacava com muito perigo. No momento em que algumas vaias foram ouvidas no Maracanã, a equipe passou a jogar melhor. Ao redor dos 15 minutos de jogo, Vagner Love marcou o primeiro gol, mesmo assim a equipe não conseguia brilhar. Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados. No segundo tempo, mesmo tendo o treinador equatoriano colocado o centroavante Tenório no lugar do meio-campista Quiróz, tornando seu time mais ofensivo, os meias brasileiros tiveram mais espaço para criar. Ao redor dos 20 minutos, o Brasil marcou o segundo gol com Maicon Douglas; aos 32 minutos, Kaká marcou o terceiro gol; aos 38 minutos, Elano marcou o quarto gol, e, finalmente aos 40 minutos, Kaká marcou o quinto e último gol do jogo.",
+        "summary_gen": "Entenda como a seleção começou a jogar no Maracanã. A partir do segundo tempo, o time foi melhor tocando a bola no meio-campo e criando espaços para a defesa. Com os dois lances, os jogadores voltaram a criar oportunidades para o ataque e ampliar a vantagem. O time voltou a se reunir em novembro para as Eliminatórias.",
+        "fieldade_qg-original": [
+            {
+                "answer": "Maracanã",
+                "question": "Onde a seleção começou a jogar?"
+            },
+            {
+                "answer": "o segundo",
+                "question": "Quando o time foi melhor tocando a bola no meio-campo e criando espaços para a defesa?"
+            },
+            {
+                "answer": "ampliar a vantagem",
+                "question": "O que os jogadores fizeram com a bola no meio-campo e criando espaços para a defesa?"
+            },
+            {
+                "answer": "novembro",
+                "question": "Quando o time voltou a se reunir para as Eliminatórias?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quando o time voltou a se reunir para as Eliminatórias?",
+                "resposta_ouro": "novembro",
+                "resposta_obtida": "novembro"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 0.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0
+            ],
+            "bertscore": [
+                1.0
+            ],
+            "moverscore": [
+                0.9998849243716067
+            ],
+            "rouge1": [
+                1.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                1.0
+            ],
+            "rougeLsum": [
+                1.0
+            ]
+        }
+    },
+    {
+        "id": "D4_C24_GPovo_23-07-2007_19h38",
+        "text": "A brasileira Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara. Com a marca de 4m60, Fabiana não só venceu a prova, como também estabeleceu o novo recorde pan-americano, 20cm mais alto do que a antiga marca de 4m40.   Após confirmar a medalha de ouro, Fabiana tentou, ainda, bater o próprio recorde sul-americano de 4m66 em três tentativas de saltar 4m68, mas não conseguiu.  A medalha de prata ficou com a americana April Steiner, com a marca de 4m40 e o bronze foi para a cubana Yarisley Silva, com 4m30.  A brasileira Joana Costa ficou com a quinta posição, com 4m20 e mostrou, mais uma vez, neste Pan do Rio, que a pressão de competir em casa pode prejudicar os atletas. Após começar muito bem, saltando com segurança até os 4m, Joana começou a ter problemas na corrida de aproximação já nos 4m10, mostrando nervosismo e até desistindo de saltos no meio do caminho. Outros atletas brasileiros já sentiram essa pressão da torcida, como foi o caso das meninas do vôlei, que entregaram o ouro a Cuba, no tie break e dos atletas da ginástica artística, que cometeram seguidos erros, claramente, por nervosismo. ",
+        "summary": "Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara e estabeleceu o novo recorde pan-americano com a marca de 4m60. A medalha de prata ficou com os Estados Unidos e a de bronze com Cuba. A brasileira Joana Costa ficou com a quinta posição, confirmando que a pressão de competir em casa pode prejudicar os atletas. ",
+        "summary_gen": "Determine a marca de 4m60 na prova de salto com vara. Saiba que a pressão da torcida pode prejudicar os atletas.",
+        "fieldade_qg-original": [
+            {
+                "answer": "4m60",
+                "question": "Qual é a marca da prova de salto com vara?"
+            },
+            {
+                "answer": "pressão da torcida",
+                "question": "O que pode prejudicar os atletas?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual é a marca da prova de salto com vara?",
+                "resposta_ouro": "4m60",
+                "resposta_obtida": "4m60"
+            },
+            {
+                "id": 1,
+                "pergunta": "O que pode prejudicar os atletas?",
+                "resposta_ouro": "pressão da torcida",
+                "resposta_obtida": "competir em casa"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.5,
+            "bertscore": 1.0,
+            "moverscore": 0.5,
+            "rouge1": 0.5,
+            "rouge2": 0.0,
+            "rougeL": 0.5,
+            "rougeLsum": 0.5
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0,
+                0.0
+            ],
+            "bertscore": [
+                0.9999999403953552,
+                0.7539253830909729
+            ],
+            "moverscore": [
+                0.999837266239692,
+                0.6170078851633823
+            ],
+            "rouge1": [
+                1.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.0
+            ],
+            "rougeLsum": [
+                1.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "id": "D1_C13_Folha_07-08-2010_07h21",
+        "text": "Quinze voluntários da ONG francesa Ação Contra a Fome (ACF) foram assassinados no nordeste do Sri Lanka, informou hoje um porta-voz da organização.  Os crimes aconteceram na cidade de Muttur, que durante as últimas duas semanas vive graves conflitos entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil (LTTE).  Os corpos de 11 homens e 4 mulheres de etnia tâmil, vestidos com camisetas da ACF, apareceram na semana passada no escritório da organização.  O diretor da ACF no Sri Lanka, Benoit Miribel, confirmou a morte de seus funcionários e afirmou, comovido, que a ONG não sofreu uma perda similar em seus mais de 25 anos de existência.  Tentamos enviar uma equipe a Muttur para averiguar o que está acontecendo, mas os soldados não permitiram que entrássemos na cidade, que está totalmente bloqueada, afirmou.  Até o momento, as autoridades do Sri Lanka não confirmaram as mortes ou esclareceram o que acontece na cidade de Muttur.  O violento conflito começou em 26 de julho, quando as tropas aéreas do governo bombardearam posições da guerrilha, depois que os rebeldes bloquearam uma represa situada em seu território por mais de uma semana, impedindo a provisão de água em localidades sob controle governamental.  No domingo, o LTTE ofereceu o cessar-fogo em troca do desbloqueio da presa, mas o governo rejeitou a oferta e lançou uma nova ofensiva sobre a área, de onde mais de 15 mil civis foram obrigados a fugir na última semana.  Os rebeldes afirmaram que consideram o novo bombardeio do Exército equivalente a uma declaração de guerra.  O enviado especial da Noruega para a paz no Sri Lanka, Jon Hanssen-Bauer, chegou na semana passada à ilha e manteve diferentes reuniões com as duas partes, na tentativa de reduzir a tensão e evitar a volta a uma guerra civil.  ",
+        "summary": "Quinze voluntários da ONG francesa Ação Contra a Fome foram assassinados no nordeste do Sri Lanka, na cidade de Muttur, em meio a um violento conflito que começou em 26 de julho, entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil. O estopim da crise foi o bloqueio de uma represa pelos guerrilheiros.  Na tentativa de solucionar o impasse, eles ofereceram o desbloqueio da represa em troca do cessar-fogo, porém o governo não o aceitou e lançou nova ofensiva.",
+        "summary_gen": "Saiba mais sobre a morte de funcionários da ACF no Sri Lanka. Aprenda sobre o conflito entre os Tigres de Libertação da Pátria Tâmil (LCTTE).",
+        "fieldade_qg-original": [
+            {
+                "answer": "Sri Lanka",
+                "question": "Onde está localizada a morte de funcionários da ACF?"
+            },
+            {
+                "answer": "Tigres de Libertação da Pátria Tâmil",
+                "question": "LCTTE de quê?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Onde está localizada a morte de funcionários da ACF?",
+                "resposta_ouro": "Sri Lanka",
+                "resposta_obtida": "Sri Lanka"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 1.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.9999999999999998
+            ],
+            "bertscore": [
+                1.0000001192092896
+            ],
+            "moverscore": [
+                0.9997053830236966
+            ],
+            "rouge1": [
+                1.0
+            ],
+            "rouge2": [
+                1.0
+            ],
+            "rougeL": [
+                1.0
+            ],
+            "rougeLsum": [
+                1.0
+            ]
+        }
+    },
+    {
+        "id": "D2_C18_Estadao_16-04-2007_13h44",
+        "text": "Ao menos 33 pessoas morreram nesta segunda-feira, 16, segundo o presidente da instituição, Charles Steger. Entre os mortos está o próprio autor dos disparos, mas ainda não foi confirmado se ele foi atingido pela polícia ou se cometeu suicídio.  O incidente, que aconteceu no campus da Virginia Tech, no estado da Virgínia, deixou outros 26 feridos. Foi o maior tiroteio já registrado em uma universidade americana.  Hoje a universidade foi a atingida com uma tragédia que consideramos de proporções monumentais, afirmou Steger. Todo o corpo universitário está chocado.  Por meio de uma porta-voz, o presidente americano, George W. Bush, disse ter ficado horrorizado com o ataque. A presidente da Câmara dos Representantes, Nancy Pelosi, também lamentou o episódio.  Um dos estudantes foi morto em um dormitório, e os outros foram assassinados na sala de aula, informou o chefe de polícia da universidade, W.R. Flinchum. Segundo informações da polícia, o tiroteio aconteceu em duas etapas, separadas por quase duas horas, em lados opostos do campus de mil hectares.  O ataque espalhou pânico e confusão na universidade. Segundo testemunhas, era possível ver estudantes pulando da janela das salas de aula para escapar dos tiros. Alguns dos feridos tiveram que ser carregados pelos alunos e funcionários da universidade. Policiais armados com fuzis tiveram que ser chamados para intervir.  A tragédia começou por volta das 7h15 (horário local), em um dormitório estudantil que tem capacidade para 895 pessoas. A polícia investigava o incidente quando soube dos disparo, quase duas horas depois, no salão da faculdade de engenharia, local em que o assassino morreu.  O nome do atirador não foi divulgado, e a polícia não ofereceu nenhum motivo para o ataque. Não se sabe se o criminoso era aluno da universidade.  Após o tiroteio, as aulas foram suspensas e todas as entradas do campus foram fechadas até a terça-feira, 17. A universidade disponibilizou um centro de emergência para que os familiares consigam informações sobre seus filhos e recebam atendimento de psicólogos.  Por meio de um porta-voz, Bush também comentou o ataque: (O presidente) ficou horrorizado e sua reação imediata era de preocupação profunda pelas famílias das vítimas, as próprias vítimas, os alunos, os professores e todas as pessoas da Virginia que têm que lidar com este tipo de incidente chocante, disse uma porta-voz da Casa Branca.  Pelosi, por sua vez, pediu um minuto de silêncio na Câmara e disse que se trata do pior tiroteio em um campus na história do país.  Há muita comoção. É difícil dizer ao certo o que está acontecendo, disse, transtornado, o estudante Jason Anthony Smith, de 19 anos. Ele vive em um dos dormitórios do complexo atacado inicialmente pelo atirador.  Aimee Kanode, uma estudante do primeiro ano, afirmou que ouviu tiros vindos do 4º andar do prédio de dormitórios, um andar acima do seu. Um dos monitores do local a alertou para que não saísse do quarto.  Eles nos trancaram nos quartos, afirmou Kanode. Quando nos liberaram temporariamente, ele voltou a atirar, continuou ela. Estávamos todos conectados à internet tentando descobrir o que aconteceu.  Segundo a polícia, nas últimas duas semanas houveram ameaças de bomba no local, mas ainda não se sabe se elas têm alguma relação com o tiroteio.  Esta é a segunda vez em menos de um ano que o campus é fechado devido a um tiroteio. Em agosto de 2006, o primeiro dia de aula foi cancelado quando um fugitivo da polícia matou um segurança do hospital universitário.  O tiroteio é um dos piores crimes do tipo no campus de uma universidade nos EUA desde que Charles Whitman abriu fogo do alto de uma torre no meio do campus da Universidade do Texas, em Austin, no dia 1º de agosto de 1966.  Whitman matou 15 pessoas, incluindo sua mãe e mulher na noite anterior, e deixou outras 31 pessoas feridas.  Nos últimos anos, o caso de tiroteio em escolas americanas mais famoso aconteceu em abril de 1999, quando os estudantes Eric Harris e Dylan Klebold mataram 12 colegas e um professor no Colégio Columbine, no estado de Colorado. Após a tragédia, os dois adolescentes cometeram suicídio. O episódio tornou-se alvo de discussões e serviu de inspiração para ao menos dois filmes.",
+        "summary": "Em mais um incidente de tiroteio em escolas e universidades, ao menos 33 pessoas morreram nesta segunda-feira, 16, no campus da Virginia Tech, no estado da Virgínia, segundo o presidente da instituição, Charles Steger. Além disso, houve 26 feridos. O atirador, de identidade ainda não divulgada, também foi encontrado morto, mas não se sabe se cometeu suicídio ou se foi morto pela policia. O ataque aconteceu em dois lugares do campus, em lados opostos. A tragédia começou em um dormitório estudantil e terminou, quase duas horas depois, no salão da faculdade de engenharia. O ataque espalhou pânico e confusão na universidade e a polícia foi chamada para controlar a situação. Após o ataque, alunos, professores e funcionários se encontram chocados. As aulas foram suspensas e todas as entradas do campus foram fechadas até terça-feira, 17. A universidade disponibilizou um centro de emergência para atendimento aos familiares. O tiroteio foi o maior já registrado em uma universidade americana. Segundo a polícia, nas últimas duas semanas, houve ameaças de bomba no local, mas ainda não se sabe se elas têm alguma relação com o tiroteio. Esta é a segunda vez em menos de um ano que o campus é fechado devido a um tiroteio.",
+        "summary_gen": "O governo da Virginia está chocado com o atentado de segunda-feira, 16, no campus da universidade. A universidade foi atingida pelo atirador e as salas de aula. O campus foi fechado e todas as entradas do campus foram fechadas. Veja se há ameaças de bomba no local do ataque. Saiba que o pior caso de tiroteio em uma universidade já foi registrado.",
+        "fieldade_qg-original": [
+            {
+                "answer": "16",
+                "question": "Em que dia o governo da Virginia foi atingido?"
+            },
+            {
+                "answer": "o atirador e as salas de aula",
+                "question": "Quem atingiu a universidade?"
+            },
+            {
+                "answer": "todas as entradas do campus foram fechadas",
+                "question": "O que aconteceu com as entradas do campus?"
+            },
+            {
+                "answer": "bomba",
+                "question": "O que o governo da Virginia está chocado com o atentado de segunda-feira, 16, no campus da universidade?"
+            },
+            {
+                "answer": "pior caso de tiroteio em uma universidade já foi registrado",
+                "question": "O que aconteceu com o atentado de segunda-feira, 16, no campus da universidade?"
+            }
+        ],
+        "fieldade_qg-qa": [],
+        "fieldade_pontuacao": {
+            "cosseno": NaN,
+            "bertscore": NaN,
+            "moverscore": NaN,
+            "rouge1": NaN,
+            "rouge2": NaN,
+            "rougeL": NaN,
+            "rougeLsum": NaN
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        }
+    },
+    {
+        "id": "D2_C15_Estadao_21-08-2006_07h32",
+        "text": "Nove pessoas morreram, três delas crianças, e outras 25 ficaram feridas nesta segunda-feira em uma explosão ocorrida em um mercado de Moscou, informou a polícia.  A explosão, supostamente causada por vazamento de um botijão de gás, foi registrada por volta das 10h40 (3h40 de Brasília) no setor denominado Evrazia do mercado Cherkizov, um dos maiores shoppings da capital da Rússia.  A maioria dos feridos, entre os quais há quatro com menos de 18 anos, foi hospitalizada.  Cerca de dez de carros de bombeiros e mais de uma dezena de ambulâncias foram enviadas ao local, que foi isolado pela polícia.  A procuradoria de Moscou anunciou a criação de um grupo especial para investigar o acidente.  Fontes do Ministério do Interior da Rússia citadas pela agência Interfax descartaram a possibilidade de a explosão em Cherkizov ter sido um ataque terrorista. ",
+        "summary": "Nove pessoas morreram e outras 25 ficaram feridas em uma explosão, supostamente de um botijão de gás, ocorrida em um mercado de Moscou. Moscou anuncia que vai investigar o acidente e Fontes do Ministério do Interior descartaram a possibilidade de um ataque terrorista.",
+        "summary_gen": "Saiba o que aconteceu. Reconheça os feridos. Ajude a polícia.",
+        "fieldade_qg-original": [
+            {
+                "answer": "Ajude a polícia",
+                "question": "Ajude a polícia?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Ajude a polícia?",
+                "resposta_ouro": "Ajude a polícia",
+                "resposta_obtida": "informou a polícia"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 0.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.4999999999999999
+            ],
+            "bertscore": [
+                0.8016756176948547
+            ],
+            "moverscore": [
+                0.7122253896370837
+            ],
+            "rouge1": [
+                0.75
+            ],
+            "rouge2": [
+                0.6666666666666666
+            ],
+            "rougeL": [
+                0.75
+            ],
+            "rougeLsum": [
+                0.75
+            ]
+        }
+    },
+    {
+        "id": "D2_C9_Estadao_04-08-2006_09h53",
+        "text": "A Polícia Federal desencadeou na manhã desta sexta-feira em Rondônia, a Operação Dominó, destinada a prender uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais.  Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado, desembargador Sebastião Teixeira Chaves, e sua mulher, a advogada Marilda Shirley de Souza Leira Teixeira Chaves. Estão recebendo voz de prisão, também, o presidente da Assembléia Legislativa de Rondônia, deputado José Carlos de Oliveira (PL), o Carlão, acusado de ser o líder da quadrilha, além de juízes, outros desembargadores, promotores e, pelo menos, mais nove deputados estaduais.  O grupo é acusado de lesar os cofres públicos em cerca de R$ 70 milhões, desde 2004. Um dos seus principais crimes era a falsificação de pagamentos de funcionários fantasmas por laranjas na Assembléia Legislativa. Dos 24 deputados estaduais, 23 praticavam esse crime e, segundo a PF, desviaram mais de R$ 10 milhões com essa prática, em apenas um ano.  Entre os laranjas estavam familiares, amigos e empregados dos parlamentares. Na maioria das vezes, o dinheiro arrecadado ia para contas dos próprios parlamentares, que também foram flagrados em fitas de vídeo gravadas pelo governador Ivo Cassol (ex-PSDB e atualmente no PPS) em que ele era chantageado para pagar mensalão de até R$ 50 mil para cada um dos parlamentares envolvidos em troca de apoio a matérias de interesse do governo local na Assembléia Legislativa.  Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia. Pelo acordo, a Justiça livrava os parlamentares dos processos abertos contra eles pela Polícia e, em contrapartida, a Assembléia aprovava aumentos salariais para procuradores e juízes em porcentuais muito acima dos toleráveis pela Lei de Responsabilidade Fiscal.  As fraudes envolviam, também, o superfaturamento de contratos com fornecedores da Assembléia, além de uma verdadeira farra com passagens aéreas distribuídas fartamente entre os parlamentares, seus familiares e amigos.  Desde julho de 2005 até agora, foram feitas interceptações telefônicas com autorização da Justiça Federal para monitorar os passos da quadrilha, na qual estão envolvidos, também, conselheiros do Tribunal de Contas do Estado.  As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes. A PF abriu uma nova frente de atuação para apurar o caso com o objetivo de apurar a participação de desembargadores e conselheiros do Tribunal de Contas na quadrilha. A PF divulgou que cerca de 300 policiais federais do Amazonas, Distrito Federal, Mato Grosso, Acre e de Rondônia fazem parte das investigações da Operação Dominó.",
+        "summary": "A Polícia Federal prendeu uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais, na chamada Operação Dominó, em Rondônia. Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado e sua mulher, o presidente da Assembléia Legislativa de Rondônia e familiares, amigos e empregados de parlamentares, que funcionavam como laranjas. Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia. Também estão envolvidos  conselheiros do Tribunal de Contas do Estado. Dentre as infrações, estão a liberação de parlamentares dos processos abertos pela Polícia, aumentos salariais para procuradores e juízes e superfaturamento de contratos com fornecedores da Assembléia. As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+        "summary_gen": "Prepare-se para a Operação Dominó. Aprenda mais sobre a organização dos deputados. Saiba que a PF está investigando a quadrilha.",
+        "fieldade_qg-original": [
+            {
+                "answer": "Operação Dominó",
+                "question": "Para qual operação a PF está investigando a quadrilha?"
+            },
+            {
+                "answer": "a organização dos deputados",
+                "question": "Aprenda mais sobre o que a Operação Dominó?"
+            },
+            {
+                "answer": "investigando a quadrilha",
+                "question": "O que a PF está fazendo?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Para qual operação a PF está investigando a quadrilha?",
+                "resposta_ouro": "Operação Dominó",
+                "resposta_obtida": "Operação Dominó"
+            },
+            {
+                "id": 1,
+                "pergunta": "Aprenda mais sobre o que a Operação Dominó?",
+                "resposta_ouro": "a organização dos deputados",
+                "resposta_obtida": "uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que a PF está fazendo?",
+                "resposta_ouro": "investigando a quadrilha",
+                "resposta_obtida": "desencadeou na manhã desta sexta-feira em Rondônia, a Operação Dominó"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.3333333333333333,
+            "bertscore": 0.6666666666666666,
+            "moverscore": 0.3333333333333333,
+            "rouge1": 0.3333333333333333,
+            "rouge2": 0.3333333333333333,
+            "rougeL": 0.3333333333333333,
+            "rougeLsum": 0.3333333333333333
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.9999999999999998,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                1.0000001192092896,
+                0.7222269773483276,
+                0.6565223932266235
+            ],
+            "moverscore": [
+                0.9995559884381707,
+                0.540320815968761,
+                0.5280060351393081
+            ],
+            "rouge1": [
+                1.0,
+                0.06060606060606061,
+                0.125
+            ],
+            "rouge2": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.06060606060606061,
+                0.125
+            ],
+            "rougeLsum": [
+                1.0,
+                0.06060606060606061,
+                0.125
+            ]
+        }
+    }
+]

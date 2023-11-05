@@ -11,24 +11,24 @@ datasets = [
 # 'arthurmluz/temario_data-wiki_results',
 # 'arthurmluz/temario_data-wiki_1024_results',
 # 'arthurmluz/temario_data-wiki_temario_results',
-'arthurmluz/temario_data-temario_results',
-'arthurmluz/temario_data-xlsumm_results',
-'arthurmluz/temario_data-xlsumm_cstnews_results',
-'arthurmluz/temario_data-wikilingua_cstnews_results',
-'arthurmluz/temario_data-wikilingua_cstnews_1024_results',
-'arthurmluz/temario_data-xlsumm_cstnews_1024_results',
-'arthurmluz/temario_data-cstnews_results',
+# 'arthurmluz/temario_data-temario_results',
+# 'arthurmluz/temario_data-xlsumm_results',
+# 'arthurmluz/temario_data-xlsumm_cstnews_results',
+# 'arthurmluz/temario_data-wikilingua_cstnews_results',
+# 'arthurmluz/temario_data-wikilingua_cstnews_1024_results',
+# 'arthurmluz/temario_data-xlsumm_cstnews_1024_results',
+# 'arthurmluz/temario_data-cstnews_results',
 
-'arthurmluz/GPTextSum_data-wiki_results',
-'arthurmluz/GPTextSum_data-wiki_1024_results',
-'arthurmluz/GPTextSum_data-wiki_cstnews_results',
-'arthurmluz/GPTextSum_data-wiki_cstnews_1024_results',
-'arthurmluz/GPTextSum_data-wiki_temario_results',
-'arthurmluz/GPTextSum_data-temario_results',
-'arthurmluz/GPTextSum_data-xlsumm_results',
-'arthurmluz/GPTextSum_data-xlsumm_cstnews_1024_results',
-'arthurmluz/GPTextSum_data-xlsumm_cstnews_results',
-'arthurmluz/GPTextSum_data-cstnews_results',
+# 'arthurmluz/GPTextSum_data-wiki_results',
+# 'arthurmluz/GPTextSum_data-wiki_1024_results',
+# 'arthurmluz/GPTextSum_data-wiki_cstnews_results',
+# 'arthurmluz/GPTextSum_data-wiki_cstnews_1024_results',
+# 'arthurmluz/GPTextSum_data-wiki_temario_results',
+# 'arthurmluz/GPTextSum_data-temario_results',
+# 'arthurmluz/GPTextSum_data-xlsumm_results',
+# 'arthurmluz/GPTextSum_data-xlsumm_cstnews_1024_results',
+# 'arthurmluz/GPTextSum_data-xlsumm_cstnews_results',
+# 'arthurmluz/GPTextSum_data-cstnews_results',
 
 'arthurmluz/cstnews_data-wiki_results',
 'arthurmluz/cstnews_data-wiki_1024_results',
@@ -76,8 +76,8 @@ for nome_dataset in datasets:
         resumo_gerado = dataset['gen_summary'][idx_row]
         
         # caso de problema no meio de uma execucao, para continuar a partir do id com erro, descomente:
-        # if not item_problema_passou and id != 'td94fe6-10': continue
-        # elif id == 'td94fe6-10': item_problema_passou=True
+        # if not item_problema_passou and id != 148: continue
+        # elif id == 148: item_problema_passou=True
 
         t_ini = datetime.now()
         av = Avaliacao(nome=nome, id=id, resumo_original=resumo_original, resumo_gerado=resumo_gerado, texto_original=texto_original)
