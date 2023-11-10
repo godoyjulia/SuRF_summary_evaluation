@@ -34,18 +34,19 @@ datasets = [
 # 'arthurmluz/cstnews_data-wiki_1024_results',
 # 'arthurmluz/cstnews_data-wiki_cstnews_results',
 # 'arthurmluz/cstnews_data-wiki_cstnews_1024_results',
-'arthurmluz/cstnews_data-temario_results',
-'arthurmluz/cstnews_data-wiki_temario_results',
-'arthurmluz/cstnews_data-xlsumm_results',
-'arthurmluz/cstnews_data-xlsumm_cstnews_results',
-'arthurmluz/cstnews_data-xlsumm_cstnews_1024_results',
-'arthurmluz/cstnews_data-cstnews_results',
+
+# 'arthurmluz/cstnews_data-temario_results',
+# 'arthurmluz/cstnews_data-wiki_temario_results',
+# 'arthurmluz/cstnews_data-xlsumm_results',
+# 'arthurmluz/cstnews_data-xlsumm_cstnews_results',
+# 'arthurmluz/cstnews_data-xlsumm_cstnews_1024_results',
+# 'arthurmluz/cstnews_data-cstnews_results',
 
 'arthurmluz/wikilingua_data-wiki_results',
-'arthurmluz/wikilingua_data-wiki_1024_results',
-'arthurmluz/wikilingua_data-wiki_cstnews_results',
-'arthurmluz/wikilingua_data-wiki_cstnews_1024_results',
-'arthurmluz/wikilingua_data-wiki_temario_results',
+# 'arthurmluz/wikilingua_data-wiki_1024_results',
+# 'arthurmluz/wikilingua_data-wiki_cstnews_results',
+# 'arthurmluz/wikilingua_data-wiki_cstnews_1024_results',
+# 'arthurmluz/wikilingua_data-wiki_temario_results',
 ]
 
 
@@ -62,11 +63,11 @@ for nome_dataset in datasets:
     print(f'EXECUTANDO {nome}')
 
     # criar arquivo de output 
-    Path(output_dir).mkdir(parents=True, exist_ok=True)
-    with open(f'{nome}_fieldade.json', 'w', encoding='utf-8') as jsonFile:
-        json.dump([], jsonFile, indent=4)
-    with open(f'{nome}_conteudo.json', 'w', encoding='utf-8') as jsonFile:
-        json.dump([], jsonFile, indent=4)
+    # Path(output_dir).mkdir(parents=True, exist_ok=True)
+    # with open(f'{nome}_fieldade.json', 'w', encoding='utf-8') as jsonFile:
+    #     json.dump([], jsonFile, indent=4)
+    # with open(f'{nome}_conteudo.json', 'w', encoding='utf-8') as jsonFile:
+    #     json.dump([], jsonFile, indent=4)
 
     for idx_row in range(dataset.num_rows):
 
@@ -76,8 +77,8 @@ for nome_dataset in datasets:
         resumo_gerado = dataset['gen_summary'][idx_row]
         
         # caso de problema no meio de uma execucao, para continuar a partir do id com erro, descomente:
-        # if not item_problema_passou and id != 148: continue
-        # elif id == 148: item_problema_passou=True
+        if not item_problema_passou and id != 4278: continue
+        elif id == 4278: item_problema_passou=True
 
         t_ini = datetime.now()
         av = Avaliacao(nome=nome, id=id, resumo_original=resumo_original, resumo_gerado=resumo_gerado, texto_original=texto_original)
