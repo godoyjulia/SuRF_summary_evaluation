@@ -4,18 +4,18 @@ import math
 import numpy as np
 
 # removendo NaN
-# diretorios = ['cstnews_data','GPTextSum_data','temario_data']
-# for diretorio in diretorios:
-#     for root, dirs, files in os.walk(diretorio):
-#         for file in files:
-#             if file.endswith(".json"):
-#                 filepath = os.path.join(root, file)
-#                 with open(filepath, 'r', encoding='utf-8') as f:
-#                     text = f.read()
-#                     print('%s read' % filepath)
-#                 with open(filepath, 'w', encoding='utf-8') as f:
-#                     f.write(text.replace(': NaN', ': 0'))
-#                     print('%s updated' % filepath)
+diretorios = ['cstnews_data','GPTextSum_data','temario_data','wikilingua_data','xlsum_data']
+for diretorio in diretorios:
+    for root, dirs, files in os.walk(diretorio):
+        for file in files:
+            if file.endswith(".json"):
+                filepath = os.path.join(root, file)
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    text = f.read()
+                    print('%s read' % filepath)
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(text.replace(': NaN', ': 0'))
+                    print('%s updated' % filepath)
 
 # fonte: https://qa.fastforwardlabs.com/no%20answer/null%20threshold/bert/distilbert/exact%20match/f1/robust%20predictions/2020/06/09/Evaluating_BERT_on_SQuAD.html#:~:text=F1%20score%20is%20a%20common%20metric,of%20words%20in%20the%20ground%20truth.&text=F1%20score%20is%20a,in%20the%20ground%20truth.&text=is%20a%20common%20metric,of%20words%20in%20the
 # these functions are heavily influenced by the HF squad_metrics.py script
