@@ -1962,13 +1962,13 @@
         ],
         "conteudo_qg-qa": [],
         "conteudo_pontuacao": {
-            "cosseno": NaN,
-            "bertscore": NaN,
-            "moverscore": NaN,
-            "rouge1": NaN,
-            "rouge2": NaN,
-            "rougeL": NaN,
-            "rougeLsum": NaN
+            "cosseno": 0,
+            "bertscore": 0,
+            "moverscore": 0,
+            "rouge1": 0,
+            "rouge2": 0,
+            "rougeL": 0,
+            "rougeLsum": 0
         },
         "conteudo_similaridade-respostas": {
             "cosseno": [],

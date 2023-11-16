@@ -1,0 +1,2597 @@
+[
+    {
+        "id": "D1_C27_Folha_17-10-2007_23h53",
+        "text": "Depois de sete anos sem jogar no Maracanã, o Brasil chegou a ser vaiado pelo torcedor, mas deslanchou no fim e goleou o Equador por 5 a 0, nesta quarta-feira, pela segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010.   Atuar no estádio mais famoso do país com a camisa brasileira era novidade para a maioria dos atletas. Dos 22 convocados por Dunga, só Ronaldinho já tinha jogado no Maracanã com a seleção.   Também fazia bastante tempo que a seleção não disputava uma partida no Brasil. O último jogo havia sido em outubro de 2005, na vitória por 3 a 0 sobre a Venezuela, em Belém, ainda pelo torneio classificatório para o Mundial da Alemanha.   Na partida contra o Equador, o time comandado pelo técnico Dunga também precisava apagar a imagem deixada após o empate sem gols com a Colômbia, em Bogotá, na estréia nas eliminatórias.   No primeiro tempo o Brasil foi superior. A equipe tocava a bola no meio-campo, mas não atacava com muito perigo. No momento em que algumas vaias foram ouvidas no Maracanã, a equipe passou a jogar melhor.   Após um zagueiro equatoriano se atrapalhar, o ligeiro centroavante Vágner Love roubou a bola e chutou na trave, aos 15min. Não demorou muito para Love acertar a meta. Aos 19min, Maicon arrancou pelo lado direito do ataque e cruzou. Livre de marcação, o atacante --após seis partidas sem marcar gols pela equipe-- tocou a bola para o fundo das redes e quebrou o jejum.   Mesmo com o gol, o Brasil não conseguiu brilhar. Robinho, Ronaldinho e Kaká se esforçaram, mas não criaram muitas jogadas.   Na etapa final, o treinador equatoriano colocou o centroavante Tenorio no lugar do meio-campista Quiróz. A substituição tornou o time mais ofensivo, porém os meias brasileiros tiveram mais espaços para criar.   Aos 12min, em cobrança de falta, o Equador quase empatou a partida. Castillo bateu forte, mas a bola passou por cima do gol. Sete minutos depois, Brasil respondeu. Love recebeu outro cruzamento de Maicon, mas cabeceou para fora. No minuto seguinte, o centroavante em um bonito chute quase fez o segundo gol.   Depois dos dois lances, a seleção brasileira passou a tocar a bola no meio-campo e as vaias voltaram mais fortes. Novamente, os jogadores escutaram, foram ao ataque e ampliaram a vantagem. Aos 27min, Kaká arrancou e chutou de fora da área. A bola desviou em Ronaldinho e enganou o goleiro.   Aos 32min, Kaká tentou de novo. De fora da área, ele chutou. Desta vez, a bola não desviou em ninguém e entrou no ângulo.   Mesmo com a decisão de Dunga de trocar Love pelo meio-campista Elano, a equipe não perdeu o poder ofensivo. Robinho pedalou, driblou o zagueiro e chutou para o meio da área. No rebote, Elano fez o quarto gol, aos 38min.   Novamente, Kaká chutou de fora da área. A bola foi fraca, mas o goleiro Daniel Viteri falhou. Após o frango, Kaká sorriu e mal comemorou, aos 40min.   A seleção volta a ser reunir em novembro para disputar mais duas partidas das eliminatórias: contra o Peru, fora de casa, e contra o Uruguai, em São Paulo. ",
+        "summary": "Apesar de ter sido vaiado pela torcida, o Brasil goleou o Equador por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do mundo-2010, no Maracanã. No primeiro tempo o Brasil foi superior, mas não atacava com muito perigo. No momento em que algumas vaias foram ouvidas no Maracanã, a equipe passou a jogar melhor. Ao redor dos 15 minutos de jogo, Vagner Love marcou o primeiro gol, mesmo assim a equipe não conseguia brilhar. Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados. No segundo tempo, mesmo tendo o treinador equatoriano colocado o centroavante Tenório no lugar do meio-campista Quiróz, tornando seu time mais ofensivo, os meias brasileiros tiveram mais espaço para criar. Ao redor dos 20 minutos, o Brasil marcou o segundo gol com Maicon Douglas; aos 32 minutos, Kaká marcou o terceiro gol; aos 38 minutos, Elano marcou o quarto gol, e, finalmente aos 40 minutos, Kaká marcou o quinto e último gol do jogo.",
+        "summary_gen": "Entenda como foi a primeira partida. A equipe começou melhor no primeiro tempo. Comece a criar jogadas ofensivas. Volte para a etapa complementar. Faça o terceiro gol. Repita o processo no próximo jogo.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Equador",
+                "question": "Qual time o Brasil goleou por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?"
+            },
+            {
+                "answer": "Brasil",
+                "question": "Qual time venceu o Equador na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?"
+            },
+            {
+                "answer": "a equipe passou a jogar melhor",
+                "question": "O que aconteceu no momento em que algumas vaias foram ouvidas no Maracanã?"
+            },
+            {
+                "answer": "Vagner Love",
+                "question": "Quem marcou o primeiro gol do Brasil?"
+            },
+            {
+                "answer": "Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados",
+                "question": "Os esforços de Kaká, Robinho e Ronaldinho não produziram muitos resultados?"
+            },
+            {
+                "answer": "Quiróz",
+                "question": "Quem foi o centroavante Tenório?"
+            },
+            {
+                "answer": "Maicon Douglas;",
+                "question": "Com quem o Brasil marcou o segundo gol?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual time o Brasil goleou por 5 a 0 na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?",
+                "resposta_ouro": "Equador",
+                "resposta_obtida": "Brasil"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual time venceu o Equador na segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010?",
+                "resposta_ouro": "Brasil",
+                "resposta_obtida": "Equador"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que aconteceu no momento em que algumas vaias foram ouvidas no Maracanã?",
+                "resposta_ouro": "a equipe passou a jogar melhor",
+                "resposta_obtida": "Faça o terceiro gol. Repita o processo no próximo jogo."
+            },
+            {
+                "id": 3,
+                "pergunta": "Quem marcou o primeiro gol do Brasil?",
+                "resposta_ouro": "Vagner Love",
+                "resposta_obtida": "Ney Franco"
+            },
+            {
+                "id": 4,
+                "pergunta": "Quem foi o centroavante Tenório?",
+                "resposta_ouro": "Quiróz",
+                "resposta_obtida": "centroavante"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.8,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7284557223320007,
+                0.7284557223320007,
+                0.6988627314567566,
+                0.7513607740402222,
+                0.7031162977218628
+            ],
+            "moverscore": [
+                0.6663117294275115,
+                0.6663117294275115,
+                0.5741436270832423,
+                0.647935080015556,
+                0.6841988569366918
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.1111111111111111,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.1111111111111111,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.1111111111111111,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "Entenda como foi a primeira partida",
+                "question": "Como a equipe começou melhor no primeiro tempo?"
+            },
+            {
+                "answer": "A equipe começou melhor no primeiro tempo",
+                "question": "Quando a equipe começou a criar jogadas ofensivas?"
+            },
+            {
+                "answer": "jogadas ofensivas",
+                "question": "O que a equipe começou melhor no primeiro tempo?"
+            },
+            {
+                "answer": "etapa complementar",
+                "question": "Em que etapa a equipe se prepara para criar jogadas ofensivas?"
+            },
+            {
+                "answer": "terceiro",
+                "question": "Qual é o nome do jogo em que a equipe começou melhor no primeiro tempo?"
+            },
+            {
+                "answer": "Repita o processo no próximo jogo",
+                "question": "O que acontece quando a equipe começou melhor no primeiro tempo?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Em que etapa a equipe se prepara para criar jogadas ofensivas?",
+                "resposta_ouro": "etapa complementar",
+                "resposta_obtida": "etapa final"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.4999999999999999
+            ],
+            "bertscore": [
+                0.7836223244667053
+            ],
+            "moverscore": [
+                0.6656252429201935
+            ],
+            "rouge1": [
+                0.5
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.5
+            ],
+            "rougeLsum": [
+                0.5
+            ]
+        },
+        "fieldade_f1": 0.5,
+        "fieldade_em": 0.0
+    },
+    {
+        "id": "D4_C24_GPovo_23-07-2007_19h38",
+        "text": "A brasileira Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara. Com a marca de 4m60, Fabiana não só venceu a prova, como também estabeleceu o novo recorde pan-americano, 20cm mais alto do que a antiga marca de 4m40.   Após confirmar a medalha de ouro, Fabiana tentou, ainda, bater o próprio recorde sul-americano de 4m66 em três tentativas de saltar 4m68, mas não conseguiu.  A medalha de prata ficou com a americana April Steiner, com a marca de 4m40 e o bronze foi para a cubana Yarisley Silva, com 4m30.  A brasileira Joana Costa ficou com a quinta posição, com 4m20 e mostrou, mais uma vez, neste Pan do Rio, que a pressão de competir em casa pode prejudicar os atletas. Após começar muito bem, saltando com segurança até os 4m, Joana começou a ter problemas na corrida de aproximação já nos 4m10, mostrando nervosismo e até desistindo de saltos no meio do caminho. Outros atletas brasileiros já sentiram essa pressão da torcida, como foi o caso das meninas do vôlei, que entregaram o ouro a Cuba, no tie break e dos atletas da ginástica artística, que cometeram seguidos erros, claramente, por nervosismo. ",
+        "summary": "Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara e estabeleceu o novo recorde pan-americano com a marca de 4m60. A medalha de prata ficou com os Estados Unidos e a de bronze com Cuba. A brasileira Joana Costa ficou com a quinta posição, confirmando que a pressão de competir em casa pode prejudicar os atletas. ",
+        "summary_gen": "Comece com a marca de 4m60. Acabe com o nervosismo.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Fabiana Murer",
+                "question": "Quem conquistou o primeiro ouro do atletismo para o Brasil?"
+            },
+            {
+                "answer": "Cuba",
+                "question": "Com quem a medalha de bronze foi conquistada nos Estados Unidos?"
+            },
+            {
+                "answer": "quinta",
+                "question": "Qual foi a classificação da brasileira Joana Costa na prova de salto com vara?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem conquistou o primeiro ouro do atletismo para o Brasil?",
+                "resposta_ouro": "Fabiana Murer",
+                "resposta_obtida": "Brasil"
+            },
+            {
+                "id": 1,
+                "pergunta": "Com quem a medalha de bronze foi conquistada nos Estados Unidos?",
+                "resposta_ouro": "Cuba",
+                "resposta_obtida": "os Estados Unidos"
+            },
+            {
+                "id": 2,
+                "pergunta": "Qual foi a classificação da brasileira Joana Costa na prova de salto com vara?",
+                "resposta_ouro": "quinta",
+                "resposta_obtida": "4m60"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.3333333333333333,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6744272708892822,
+                0.7382252812385559,
+                0.6715220808982849
+            ],
+            "moverscore": [
+                0.5916019953890108,
+                0.538427009197749,
+                0.6680592259957575
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "4m60",
+                "question": "Qual é a marca do generate questions?"
+            },
+            {
+                "answer": "nervosismo",
+                "question": "O que acabe com a marca de 4m60?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual é a marca do generate questions?",
+                "resposta_ouro": "4m60",
+                "resposta_obtida": "4m60"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 0.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0
+            ],
+            "bertscore": [
+                0.9999999403953552
+            ],
+            "moverscore": [
+                0.999837266239692
+            ],
+            "rouge1": [
+                1.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                1.0
+            ],
+            "rougeLsum": [
+                1.0
+            ]
+        },
+        "fieldade_f1": 1.0,
+        "fieldade_em": 1.0
+    },
+    {
+        "id": "D1_C13_Folha_07-08-2010_07h21",
+        "text": "Quinze voluntários da ONG francesa Ação Contra a Fome (ACF) foram assassinados no nordeste do Sri Lanka, informou hoje um porta-voz da organização.  Os crimes aconteceram na cidade de Muttur, que durante as últimas duas semanas vive graves conflitos entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil (LTTE).  Os corpos de 11 homens e 4 mulheres de etnia tâmil, vestidos com camisetas da ACF, apareceram na semana passada no escritório da organização.  O diretor da ACF no Sri Lanka, Benoit Miribel, confirmou a morte de seus funcionários e afirmou, comovido, que a ONG não sofreu uma perda similar em seus mais de 25 anos de existência.  Tentamos enviar uma equipe a Muttur para averiguar o que está acontecendo, mas os soldados não permitiram que entrássemos na cidade, que está totalmente bloqueada, afirmou.  Até o momento, as autoridades do Sri Lanka não confirmaram as mortes ou esclareceram o que acontece na cidade de Muttur.  O violento conflito começou em 26 de julho, quando as tropas aéreas do governo bombardearam posições da guerrilha, depois que os rebeldes bloquearam uma represa situada em seu território por mais de uma semana, impedindo a provisão de água em localidades sob controle governamental.  No domingo, o LTTE ofereceu o cessar-fogo em troca do desbloqueio da presa, mas o governo rejeitou a oferta e lançou uma nova ofensiva sobre a área, de onde mais de 15 mil civis foram obrigados a fugir na última semana.  Os rebeldes afirmaram que consideram o novo bombardeio do Exército equivalente a uma declaração de guerra.  O enviado especial da Noruega para a paz no Sri Lanka, Jon Hanssen-Bauer, chegou na semana passada à ilha e manteve diferentes reuniões com as duas partes, na tentativa de reduzir a tensão e evitar a volta a uma guerra civil.  ",
+        "summary": "Quinze voluntários da ONG francesa Ação Contra a Fome foram assassinados no nordeste do Sri Lanka, na cidade de Muttur, em meio a um violento conflito que começou em 26 de julho, entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil. O estopim da crise foi o bloqueio de uma represa pelos guerrilheiros.  Na tentativa de solucionar o impasse, eles ofereceram o desbloqueio da represa em troca do cessar-fogo, porém o governo não o aceitou e lançou nova ofensiva.",
+        "summary_gen": "Aprenda mais sobre as mortes em Muttur. Saiba o que está acontecendo no Sri Lanka.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Quinze",
+                "question": "Quantos voluntários da Ação Contra a Fome foram assassinados no nordeste do Sri Lanka?"
+            },
+            {
+                "answer": "bloqueio de uma represa",
+                "question": "Qual foi o principal problema da crise?"
+            },
+            {
+                "answer": "o governo não o aceitou",
+                "question": "O que aconteceu com os guerrilheiros na tentativa de desbloquear a represa?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantos voluntários da Ação Contra a Fome foram assassinados no nordeste do Sri Lanka?",
+                "resposta_ouro": "Quinze",
+                "resposta_obtida": "1"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual foi o principal problema da crise?",
+                "resposta_ouro": "bloqueio de uma represa",
+                "resposta_obtida": "mortes"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.5,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7445095777511597,
+                0.68211829662323
+            ],
+            "moverscore": [
+                0.6750295753856079,
+                0.5318668431210245
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "Muttur",
+                "question": "Em que cidade você pode aprender mais sobre as mortes?"
+            },
+            {
+                "answer": "Muttur.",
+                "question": "Aprenda mais sobre as mortes em quê?"
+            },
+            {
+                "answer": "Sri Lanka",
+                "question": "Onde está acontecendo as mortes em Muttur?"
+            },
+            {
+                "answer": "Sri Lanka.",
+                "question": "Em que país você pode aprender mais sobre as mortes em Muttur?"
+            },
+            {
+                "answer": "Sri Lanka",
+                "question": "Onde está acontecendo as mortes em Muttur?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Em que cidade você pode aprender mais sobre as mortes?",
+                "resposta_ouro": "Muttur",
+                "resposta_obtida": "Muttur"
+            },
+            {
+                "id": 1,
+                "pergunta": "Onde está acontecendo as mortes em Muttur?",
+                "resposta_ouro": "Sri Lanka",
+                "resposta_obtida": "nordeste do Sri Lanka"
+            },
+            {
+                "id": 2,
+                "pergunta": "Onde está acontecendo as mortes em Muttur?",
+                "resposta_ouro": "Sri Lanka",
+                "resposta_obtida": "nordeste do Sri Lanka"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 0.3333333333333333,
+            "rouge1": 0.3333333333333333,
+            "rouge2": 0.0,
+            "rougeL": 0.3333333333333333,
+            "rougeLsum": 0.3333333333333333
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0,
+                0.7071067811865475,
+                0.7071067811865475
+            ],
+            "bertscore": [
+                1.0,
+                0.7829113006591797,
+                0.7829113006591797
+            ],
+            "moverscore": [
+                0.9998849243716067,
+                0.6184484986973037,
+                0.6184484986973037
+            ],
+            "rouge1": [
+                1.0,
+                0.6666666666666666,
+                0.6666666666666666
+            ],
+            "rouge2": [
+                0.0,
+                0.5,
+                0.5
+            ],
+            "rougeL": [
+                1.0,
+                0.6666666666666666,
+                0.6666666666666666
+            ],
+            "rougeLsum": [
+                1.0,
+                0.6666666666666666,
+                0.6666666666666666
+            ]
+        },
+        "fieldade_f1": 0.7777777777777777,
+        "fieldade_em": 0.3333333333333333
+    },
+    {
+        "id": "D2_C18_Estadao_16-04-2007_13h44",
+        "text": "Ao menos 33 pessoas morreram nesta segunda-feira, 16, segundo o presidente da instituição, Charles Steger. Entre os mortos está o próprio autor dos disparos, mas ainda não foi confirmado se ele foi atingido pela polícia ou se cometeu suicídio.  O incidente, que aconteceu no campus da Virginia Tech, no estado da Virgínia, deixou outros 26 feridos. Foi o maior tiroteio já registrado em uma universidade americana.  Hoje a universidade foi a atingida com uma tragédia que consideramos de proporções monumentais, afirmou Steger. Todo o corpo universitário está chocado.  Por meio de uma porta-voz, o presidente americano, George W. Bush, disse ter ficado horrorizado com o ataque. A presidente da Câmara dos Representantes, Nancy Pelosi, também lamentou o episódio.  Um dos estudantes foi morto em um dormitório, e os outros foram assassinados na sala de aula, informou o chefe de polícia da universidade, W.R. Flinchum. Segundo informações da polícia, o tiroteio aconteceu em duas etapas, separadas por quase duas horas, em lados opostos do campus de mil hectares.  O ataque espalhou pânico e confusão na universidade. Segundo testemunhas, era possível ver estudantes pulando da janela das salas de aula para escapar dos tiros. Alguns dos feridos tiveram que ser carregados pelos alunos e funcionários da universidade. Policiais armados com fuzis tiveram que ser chamados para intervir.  A tragédia começou por volta das 7h15 (horário local), em um dormitório estudantil que tem capacidade para 895 pessoas. A polícia investigava o incidente quando soube dos disparo, quase duas horas depois, no salão da faculdade de engenharia, local em que o assassino morreu.  O nome do atirador não foi divulgado, e a polícia não ofereceu nenhum motivo para o ataque. Não se sabe se o criminoso era aluno da universidade.  Após o tiroteio, as aulas foram suspensas e todas as entradas do campus foram fechadas até a terça-feira, 17. A universidade disponibilizou um centro de emergência para que os familiares consigam informações sobre seus filhos e recebam atendimento de psicólogos.  Por meio de um porta-voz, Bush também comentou o ataque: (O presidente) ficou horrorizado e sua reação imediata era de preocupação profunda pelas famílias das vítimas, as próprias vítimas, os alunos, os professores e todas as pessoas da Virginia que têm que lidar com este tipo de incidente chocante, disse uma porta-voz da Casa Branca.  Pelosi, por sua vez, pediu um minuto de silêncio na Câmara e disse que se trata do pior tiroteio em um campus na história do país.  Há muita comoção. É difícil dizer ao certo o que está acontecendo, disse, transtornado, o estudante Jason Anthony Smith, de 19 anos. Ele vive em um dos dormitórios do complexo atacado inicialmente pelo atirador.  Aimee Kanode, uma estudante do primeiro ano, afirmou que ouviu tiros vindos do 4º andar do prédio de dormitórios, um andar acima do seu. Um dos monitores do local a alertou para que não saísse do quarto.  Eles nos trancaram nos quartos, afirmou Kanode. Quando nos liberaram temporariamente, ele voltou a atirar, continuou ela. Estávamos todos conectados à internet tentando descobrir o que aconteceu.  Segundo a polícia, nas últimas duas semanas houveram ameaças de bomba no local, mas ainda não se sabe se elas têm alguma relação com o tiroteio.  Esta é a segunda vez em menos de um ano que o campus é fechado devido a um tiroteio. Em agosto de 2006, o primeiro dia de aula foi cancelado quando um fugitivo da polícia matou um segurança do hospital universitário.  O tiroteio é um dos piores crimes do tipo no campus de uma universidade nos EUA desde que Charles Whitman abriu fogo do alto de uma torre no meio do campus da Universidade do Texas, em Austin, no dia 1º de agosto de 1966.  Whitman matou 15 pessoas, incluindo sua mãe e mulher na noite anterior, e deixou outras 31 pessoas feridas.  Nos últimos anos, o caso de tiroteio em escolas americanas mais famoso aconteceu em abril de 1999, quando os estudantes Eric Harris e Dylan Klebold mataram 12 colegas e um professor no Colégio Columbine, no estado de Colorado. Após a tragédia, os dois adolescentes cometeram suicídio. O episódio tornou-se alvo de discussões e serviu de inspiração para ao menos dois filmes.",
+        "summary": "Em mais um incidente de tiroteio em escolas e universidades, ao menos 33 pessoas morreram nesta segunda-feira, 16, no campus da Virginia Tech, no estado da Virgínia, segundo o presidente da instituição, Charles Steger. Além disso, houve 26 feridos. O atirador, de identidade ainda não divulgada, também foi encontrado morto, mas não se sabe se cometeu suicídio ou se foi morto pela policia. O ataque aconteceu em dois lugares do campus, em lados opostos. A tragédia começou em um dormitório estudantil e terminou, quase duas horas depois, no salão da faculdade de engenharia. O ataque espalhou pânico e confusão na universidade e a polícia foi chamada para controlar a situação. Após o ataque, alunos, professores e funcionários se encontram chocados. As aulas foram suspensas e todas as entradas do campus foram fechadas até terça-feira, 17. A universidade disponibilizou um centro de emergência para atendimento aos familiares. O tiroteio foi o maior já registrado em uma universidade americana. Segundo a polícia, nas últimas duas semanas, houve ameaças de bomba no local, mas ainda não se sabe se elas têm alguma relação com o tiroteio. Esta é a segunda vez em menos de um ano que o campus é fechado devido a um tiroteio.",
+        "summary_gen": "O campus da Virginia Tech foi atingido por um tiro na segunda-feira, 16. A universidade foi atingida por dois tiros no salão da faculdade de engenharia, em lados opostos do campus. As aulas foram suspensas e todas as entradas da universidade fechadas. Conheça as ameaças de bomba no local. Lembre-se do pior tiroteio em uma universidade.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Virginia Tech",
+                "question": "Onde está localizado o campus da Virgínia?"
+            },
+            {
+                "answer": "26",
+                "question": "Quantas pessoas foram mortas no tiroteio?"
+            },
+            {
+                "answer": "suicídio",
+                "question": "Qual foi o nome do atirador que foi encontrado morto na segunda-feira, 16, no campus da Virginia Tech?"
+            },
+            {
+                "answer": "dois",
+                "question": "Em quantos lugares do campus ocorreu o tiroteio?"
+            },
+            {
+                "answer": "no salão da faculdade de engenharia",
+                "question": "Onde começou o tiroteio?"
+            },
+            {
+                "answer": "pânico e confusão",
+                "question": "O que causou o ataque ao campus da Virginia Tech?"
+            },
+            {
+                "answer": "alunos, professores e funcionários",
+                "question": "Quem se encontra chocado com o tiroteio?"
+            },
+            {
+                "answer": "17",
+                "question": "Em que dia foi fechada todas as entradas do campus da Virginia Tech?"
+            },
+            {
+                "answer": "centro de emergência",
+                "question": "O que a universidade disponibilizou para atendimento aos familiares?"
+            },
+            {
+                "answer": "O tiroteio",
+                "question": "Qual foi o maior tiroteio registrado em uma universidade americana?"
+            },
+            {
+                "answer": "duas semanas",
+                "question": "Há quanto tempo houve ameaças de bomba no campus da Virginia Tech, mas ainda não se sabe se elas têm alguma relação com o tiroteio?"
+            },
+            {
+                "answer": "menos de um ano",
+                "question": "Há quanto tempo o campus é fechado devido a um tiroteio?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Onde está localizado o campus da Virgínia?",
+                "resposta_ouro": "Virginia Tech",
+                "resposta_obtida": "no salão da faculdade de engenharia"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em quantos lugares do campus ocorreu o tiroteio?",
+                "resposta_ouro": "dois",
+                "resposta_obtida": "dois"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que causou o ataque ao campus da Virginia Tech?",
+                "resposta_ouro": "pânico e confusão",
+                "resposta_obtida": "um tiro"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quem se encontra chocado com o tiroteio?",
+                "resposta_ouro": "alunos, professores e funcionários",
+                "resposta_obtida": "Virginia Tech"
+            },
+            {
+                "id": 4,
+                "pergunta": "O que a universidade disponibilizou para atendimento aos familiares?",
+                "resposta_ouro": "centro de emergência",
+                "resposta_obtida": "As aulas foram suspensas e todas as entradas da universidade fechadas"
+            },
+            {
+                "id": 5,
+                "pergunta": "Há quanto tempo houve ameaças de bomba no campus da Virginia Tech, mas ainda não se sabe se elas têm alguma relação com o tiroteio?",
+                "resposta_ouro": "duas semanas",
+                "resposta_obtida": "há muito tempo"
+            },
+            {
+                "id": 6,
+                "pergunta": "Há quanto tempo o campus é fechado devido a um tiroteio?",
+                "resposta_ouro": "menos de um ano",
+                "resposta_obtida": "todas as entradas da universidade fechadas"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.14285714285714285,
+            "bertscore": 0.42857142857142855,
+            "moverscore": 0.14285714285714285,
+            "rouge1": 0.14285714285714285,
+            "rouge2": 0.0,
+            "rougeL": 0.14285714285714285,
+            "rougeLsum": 0.14285714285714285
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6145191788673401,
+                0.9999998211860657,
+                0.7537307739257812,
+                0.6200633645057678,
+                0.6948493719100952,
+                0.8051071166992188,
+                0.6689192652702332
+            ],
+            "moverscore": [
+                0.4829734901917829,
+                0.9999999999999989,
+                0.6071577286685401,
+                0.5243384757950769,
+                0.5137791451233427,
+                0.5835629457999054,
+                0.5956711761502744
+            ],
+            "rouge1": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.14285714285714285,
+        "conteudo_em": 0.14285714285714285,
+        "fieldade_qg-original": [
+            {
+                "answer": "16",
+                "question": "Quando o campus da Virginia Tech foi atingido?"
+            },
+            {
+                "answer": "dois",
+                "question": "Quantas vezes o campus da Virginia Tech foi atingido?"
+            },
+            {
+                "answer": "todas as entradas da universidade fechadas",
+                "question": "O que aconteceu com as aulas na Virginia Tech?"
+            },
+            {
+                "answer": "ameaças de bomba",
+                "question": "O que acontece no campus da Virginia Tech?"
+            },
+            {
+                "answer": "pior tiroteio",
+                "question": "Que tipo de tiroteio aconteceu em uma universidade?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantas vezes o campus da Virginia Tech foi atingido?",
+                "resposta_ouro": "dois",
+                "resposta_obtida": "mais de três"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.7809882760047913
+            ],
+            "moverscore": [
+                0.5704203721277804
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        },
+        "fieldade_f1": 0.0,
+        "fieldade_em": 0.0
+    },
+    {
+        "id": "D2_C15_Estadao_21-08-2006_07h32",
+        "text": "Nove pessoas morreram, três delas crianças, e outras 25 ficaram feridas nesta segunda-feira em uma explosão ocorrida em um mercado de Moscou, informou a polícia.  A explosão, supostamente causada por vazamento de um botijão de gás, foi registrada por volta das 10h40 (3h40 de Brasília) no setor denominado Evrazia do mercado Cherkizov, um dos maiores shoppings da capital da Rússia.  A maioria dos feridos, entre os quais há quatro com menos de 18 anos, foi hospitalizada.  Cerca de dez de carros de bombeiros e mais de uma dezena de ambulâncias foram enviadas ao local, que foi isolado pela polícia.  A procuradoria de Moscou anunciou a criação de um grupo especial para investigar o acidente.  Fontes do Ministério do Interior da Rússia citadas pela agência Interfax descartaram a possibilidade de a explosão em Cherkizov ter sido um ataque terrorista. ",
+        "summary": "Nove pessoas morreram e outras 25 ficaram feridas em uma explosão, supostamente de um botijão de gás, ocorrida em um mercado de Moscou. Moscou anuncia que vai investigar o acidente e Fontes do Ministério do Interior descartaram a possibilidade de um ataque terrorista.",
+        "summary_gen": "A polícia confirmou que nove pessoas foram mortas e 25 ficaram feridas. Os bombeiros e uma dezena de ambulâncias foram enviados ao local. A procuradoria de Moscou criou um grupo de investigação.",
+        "conteudo_qg-original": [
+            {
+                "answer": "um botijão de gás",
+                "question": "O que aconteceu em um mercado de Moscou?"
+            },
+            {
+                "answer": "Fontes do Ministério do Interior descartaram a possibilidade de um ataque terrorista",
+                "question": "O que o Ministério do Interior descarta?"
+            }
+        ],
+        "conteudo_qg-qa": [],
+        "conteudo_pontuacao": {
+            "cosseno": 0,
+            "bertscore": 0,
+            "moverscore": 0,
+            "rouge1": 0,
+            "rouge2": 0,
+            "rougeL": 0,
+            "rougeLsum": 0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        },
+        "conteudo_f1": 0,
+        "conteudo_em": 0,
+        "fieldade_qg-original": [
+            {
+                "answer": "nove",
+                "question": "Quantas pessoas foram mortas?"
+            },
+            {
+                "answer": "dezena",
+                "question": "Quantos ambulâncias foram enviadas para Moscou?"
+            },
+            {
+                "answer": "procuradoria de Moscou",
+                "question": "Quem criou um grupo de investigação?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantas pessoas foram mortas?",
+                "resposta_ouro": "nove",
+                "resposta_obtida": "Nove"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quem criou um grupo de investigação?",
+                "resposta_ouro": "procuradoria de Moscou",
+                "resposta_obtida": "procuradoria de Moscou"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 0.5,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0,
+                1.0000000000000002
+            ],
+            "bertscore": [
+                0.8009034991264343,
+                1.0
+            ],
+            "moverscore": [
+                0.999837266239692,
+                0.9998217953561636
+            ],
+            "rouge1": [
+                1.0,
+                1.0
+            ],
+            "rouge2": [
+                0.0,
+                1.0
+            ],
+            "rougeL": [
+                1.0,
+                1.0
+            ],
+            "rougeLsum": [
+                1.0,
+                1.0
+            ]
+        },
+        "fieldade_f1": 1.0,
+        "fieldade_em": 1.0
+    },
+    {
+        "id": "D2_C9_Estadao_04-08-2006_09h53",
+        "text": "A Polícia Federal desencadeou na manhã desta sexta-feira em Rondônia, a Operação Dominó, destinada a prender uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais.  Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado, desembargador Sebastião Teixeira Chaves, e sua mulher, a advogada Marilda Shirley de Souza Leira Teixeira Chaves. Estão recebendo voz de prisão, também, o presidente da Assembléia Legislativa de Rondônia, deputado José Carlos de Oliveira (PL), o Carlão, acusado de ser o líder da quadrilha, além de juízes, outros desembargadores, promotores e, pelo menos, mais nove deputados estaduais.  O grupo é acusado de lesar os cofres públicos em cerca de R$ 70 milhões, desde 2004. Um dos seus principais crimes era a falsificação de pagamentos de funcionários fantasmas por laranjas na Assembléia Legislativa. Dos 24 deputados estaduais, 23 praticavam esse crime e, segundo a PF, desviaram mais de R$ 10 milhões com essa prática, em apenas um ano.  Entre os laranjas estavam familiares, amigos e empregados dos parlamentares. Na maioria das vezes, o dinheiro arrecadado ia para contas dos próprios parlamentares, que também foram flagrados em fitas de vídeo gravadas pelo governador Ivo Cassol (ex-PSDB e atualmente no PPS) em que ele era chantageado para pagar mensalão de até R$ 50 mil para cada um dos parlamentares envolvidos em troca de apoio a matérias de interesse do governo local na Assembléia Legislativa.  Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia. Pelo acordo, a Justiça livrava os parlamentares dos processos abertos contra eles pela Polícia e, em contrapartida, a Assembléia aprovava aumentos salariais para procuradores e juízes em porcentuais muito acima dos toleráveis pela Lei de Responsabilidade Fiscal.  As fraudes envolviam, também, o superfaturamento de contratos com fornecedores da Assembléia, além de uma verdadeira farra com passagens aéreas distribuídas fartamente entre os parlamentares, seus familiares e amigos.  Desde julho de 2005 até agora, foram feitas interceptações telefônicas com autorização da Justiça Federal para monitorar os passos da quadrilha, na qual estão envolvidos, também, conselheiros do Tribunal de Contas do Estado.  As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes. A PF abriu uma nova frente de atuação para apurar o caso com o objetivo de apurar a participação de desembargadores e conselheiros do Tribunal de Contas na quadrilha. A PF divulgou que cerca de 300 policiais federais do Amazonas, Distrito Federal, Mato Grosso, Acre e de Rondônia fazem parte das investigações da Operação Dominó.",
+        "summary": "A Polícia Federal prendeu uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais, na chamada Operação Dominó, em Rondônia. Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado e sua mulher, o presidente da Assembléia Legislativa de Rondônia e familiares, amigos e empregados de parlamentares, que funcionavam como laranjas. Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia. Também estão envolvidos  conselheiros do Tribunal de Contas do Estado. Dentre as infrações, estão a liberação de parlamentares dos processos abertos pela Polícia, aumentos salariais para procuradores e juízes e superfaturamento de contratos com fornecedores da Assembléia. As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+        "summary_gen": "Prepare-se para a Operação Dominó. Reconheça os envolvidos na quadrilha. Saiba mais sobre o esquema.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Operação Dominó",
+                "question": "Em que operação a Polícia Federal prendeu altos funcionários públicos?"
+            },
+            {
+                "answer": "laranjas",
+                "question": "Como eram chamados os funcionários públicos da Assembléia Legislativa de Rondônia?"
+            },
+            {
+                "answer": "Ministério Público e com a Justiça do Estado de Rondônia",
+                "question": "Com quem os parlamentares fizeram um conluio?"
+            },
+            {
+                "answer": "conselheiros do Tribunal de Contas do Estado",
+                "question": "Quem estão envolvidos na Operação Dominó?"
+            },
+            {
+                "answer": "liberação de parlamentares dos processos abertos pela Polícia, aumentos salariais para procuradores e juízes e superfaturamento de contratos com fornecedores da Assembléia",
+                "question": "Quais são algumas das infrações da Operação Dominó?"
+            },
+            {
+                "answer": "dificultando o funcionamento regular dos poderes",
+                "question": "O que as investigações demonstram que a organização possui grande influência em Rondônia?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Em que operação a Polícia Federal prendeu altos funcionários públicos?",
+                "resposta_ouro": "Operação Dominó",
+                "resposta_obtida": "Operação Dominó"
+            },
+            {
+                "id": 1,
+                "pergunta": "Com quem os parlamentares fizeram um conluio?",
+                "resposta_ouro": "Ministério Público e com a Justiça do Estado de Rondônia",
+                "resposta_obtida": "parlamentares"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que as investigações demonstram que a organização possui grande influência em Rondônia?",
+                "resposta_ouro": "dificultando o funcionamento regular dos poderes",
+                "resposta_obtida": "a quadrilha"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.3333333333333333,
+            "bertscore": 0.3333333333333333,
+            "moverscore": 0.3333333333333333,
+            "rouge1": 0.3333333333333333,
+            "rouge2": 0.3333333333333333,
+            "rougeL": 0.3333333333333333,
+            "rougeLsum": 0.3333333333333333
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.9999999999999998,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                1.0000001192092896,
+                0.6668642163276672,
+                0.5873495936393738
+            ],
+            "moverscore": [
+                0.9995559884381707,
+                0.4848576471744427,
+                0.5203420016746946
+            ],
+            "rouge1": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.3333333333333333,
+        "conteudo_em": 0.3333333333333333,
+        "fieldade_qg-original": [
+            {
+                "answer": "Operação Dominó",
+                "question": "Qual é o nome da operação que envolve os envolvidos na quadrilha?"
+            },
+            {
+                "answer": "Reconheça os envolvidos na quadrilha",
+                "question": "O que você deve fazer para a Operação Dominó?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual é o nome da operação que envolve os envolvidos na quadrilha?",
+                "resposta_ouro": "Operação Dominó",
+                "resposta_obtida": "Operação Dominó"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 1.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.9999999999999998
+            ],
+            "bertscore": [
+                1.0000001192092896
+            ],
+            "moverscore": [
+                0.9995559884381707
+            ],
+            "rouge1": [
+                1.0
+            ],
+            "rouge2": [
+                1.0
+            ],
+            "rougeL": [
+                1.0
+            ],
+            "rougeLsum": [
+                1.0
+            ]
+        },
+        "fieldade_f1": 1.0,
+        "fieldade_em": 1.0
+    },
+    {
+        "id": "D2_C32_Estadao_17-07-2007_08h03",
+        "text": "Os chefes da usina nuclear do Japão atingida por terremotos na última segunda-feira admitiram que ocorreram mais vazamentos radioativos no local. Além do vazamento de água contendo material radioativo, gases radioativos também escaparam da usina nuclear de Kashiwazaki, segundo informou a BBC.  De acordo com a agência de notícias japonesa Kyodo News, 100 barris de lixo nuclear com resíduo de baixo nível tombaram durante o terremoto e foram encontrados sem a tampa nesta terça-feira, 17.   Segundo Masahide Ichikawa, um funcionário da província de Niigata, uma inspeção para comprovar danos na usina nuclear descobriu que cerca de 100 tambores para a armazenagem de resíduos tóxicos de baixa intensidade tinham sido danificados.  A empresa afirma que qualquer vazamento tem poucas chances de causar danos ao meio ambiente.  A central permanece fechada desde a última segunda, quando houve um terremoto de 6,8 graus de magnitude a poucos quilômetros da instalação. A Companhia de Energia Elétrica de Tóquio afirmou que o terremoto foi mais forte do que a usina de Kashiwazaki, uma das maiores do mundo, foi planejada para agüentar.   Além disso, o vazamento na usina de Kashiwazaki alimenta novos temores a respeito da segurança das usinas nucleares do Japão, cujos reatores respondem por 30% da demanda energética do país.  Na segunda, o terremoto causou um pequeno incêndio em um transformador em uma unidade da companhia, que foi rapidamente controlado. Ainda não se sabe quando a empresa poderá retomar o funcionamento de três geradores.  O terremoto deixou até o momento nove mortos, todos idosos, mais de mil feridos e cerca de 13 mil desabrigados, assim como grandes danos materiais. Além disso, várias regiões afetadas continuam sem água corrente e sem eletricidade.  A previsão de dois dias de chuva na área aumenta os temores de novos deslizamentos de terra, que agravariam a devastação. Casas desabaram, muitas delas de madeira e com tradicionais telhados de tijolos pesados, e estradas apresentaram rachaduras devido ao tremor de segunda-feira, cujo epicentro foi na mesma área do noroeste japonês onde há três anos um terremoto matou cerca de 65 pessoas.  Nesta terça, o ministro da Defesa enviou 450 soldados para as áreas devastadas.  Niigata foi atingida em outubro de 2004 por um tremor também de magnitude 6,8, que deixou mais de 3 mil feridos.  Aquele foi o terremoto mais devastador no Japão, um dos países mais propensos a terremotos no mundo, desde o de Kobe, com magnitude 7,3, que matou mais de 6.400 pessoas em 1995.",
+        "summary": "Além dos vazamentos radioativos da água da usina nuclear de Kashiwazaki, no Japão, que foi atingida por um terremoto de 6,8 graus de magnitude na última segunda-feira, ocorreram vazamentos radioativos de gases. Os vazamentos ocorreram porque 100 barris de lixo nuclear tombaram destampados. No entanto, a empresa afirma que eles têm poucas chances de causar danos ao meio ambiente. Várias regiões continuam sem água corrente e sem eletricidade. O terremoto deixou nove mortos, mais de mil feridos e cerca de 13 mil desabrigados, assim como grandes danos materiais. Há preocupação não só com relação à segurança das usinas nucleares do Japão, como também com relação aos danos ambientais e à possibilidade de novos terremotos.",
+        "summary_gen": "Verifique se houve vazamentos radioativos. Abra a central de energia da usina de Kashiwazaki. Reconheça os efeitos do tremor. Prepare-se para um novo terremoto.",
+        "conteudo_qg-original": [
+            {
+                "answer": "6,8 graus",
+                "question": "Qual foi a magnitude do terremoto na última segunda-feira?"
+            },
+            {
+                "answer": "100 barris de lixo nuclear tombaram destampados",
+                "question": "Por que os vazamentos radioativos da água da usina nuclear de Kashiwazaki ocorreram?"
+            },
+            {
+                "answer": "eles têm poucas chances de causar danos ao meio ambiente",
+                "question": "O que a empresa afirma sobre vazamentos radioativos da água da usina nuclear de Kashiwazaki?"
+            },
+            {
+                "answer": "sem água corrente e sem eletricidade",
+                "question": "Como as regiões continuam no Japão?"
+            },
+            {
+                "answer": "nove",
+                "question": "Quantas pessoas morreram no terremoto de Kashiwazaki?"
+            },
+            {
+                "answer": "segurança das usinas nucleares do Japão",
+                "question": "Qual é a preocupação do Japão com os danos ambientais e a possibilidade de novos terremotos?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual foi a magnitude do terremoto na última segunda-feira?",
+                "resposta_ouro": "6,8 graus",
+                "resposta_obtida": "magnitude"
+            },
+            {
+                "id": 1,
+                "pergunta": "Por que os vazamentos radioativos da água da usina nuclear de Kashiwazaki ocorreram?",
+                "resposta_ouro": "100 barris de lixo nuclear tombaram destampados",
+                "resposta_obtida": "tremor"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que a empresa afirma sobre vazamentos radioativos da água da usina nuclear de Kashiwazaki?",
+                "resposta_ouro": "eles têm poucas chances de causar danos ao meio ambiente",
+                "resposta_obtida": "Reconheça os efeitos do tremor"
+            },
+            {
+                "id": 3,
+                "pergunta": "Como as regiões continuam no Japão?",
+                "resposta_ouro": "sem água corrente e sem eletricidade",
+                "resposta_obtida": "Prepare-se para um novo terremoto"
+            },
+            {
+                "id": 4,
+                "pergunta": "Quantas pessoas morreram no terremoto de Kashiwazaki?",
+                "resposta_ouro": "nove",
+                "resposta_obtida": "1"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.4,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6877214312553406,
+                0.6370648145675659,
+                0.7226756811141968,
+                0.6613372564315796,
+                0.7641146779060364
+            ],
+            "moverscore": [
+                0.5551027843809443,
+                0.4945278895621779,
+                0.5674600331485521,
+                0.607376502975702,
+                0.6488614427926407
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "vazamentos radioativos",
+                "question": "O que abra a central de energia da usina de Kashiwazaki?"
+            },
+            {
+                "answer": "usina de Kashiwazaki",
+                "question": "Abra a central de energia de qual usina?"
+            },
+            {
+                "answer": "tremor",
+                "question": "O que abra a central de energia da usina de Kashiwazaki?"
+            },
+            {
+                "answer": "terremoto",
+                "question": "Para que tipo de terremoto o tremor prepare-se?"
+            }
+        ],
+        "fieldade_qg-qa": [],
+        "fieldade_pontuacao": {
+            "cosseno": 0,
+            "bertscore": 0,
+            "moverscore": 0,
+            "rouge1": 0,
+            "rouge2": 0,
+            "rougeL": 0,
+            "rougeLsum": 0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        },
+        "fieldade_f1": 0,
+        "fieldade_em": 0
+    },
+    {
+        "id": "D2_C21_OGlobo_06-08-2007_16h23",
+        "text": "O Ministério da Defesa anunciou nesta segunda-feira (6) que em março do ano que vem uma das pistas do Aeroporto de Guarulhos será fechada para reformas de seu trecho central. Enquanto durarem as obras, os vôos serão transferidos para o Aeroporto de Viracopos, em Campinas, a 95 km da Capital, segundo informa o ministério de Nelson Jobim pro meio de nota.  O fechamento da pista, que têm 3,7 km de extensão, está previsto para ocorrer na terceira e última etapa da reforma, que terá três fases. O Ministério da Defesa não soube informar por quanto tempo a pista permanecerá fechada.  As obras da pista também ainda não têm previsão para começar. O cronograma da obra depende de estudos finais da Infraero. O ministro Nelson Jobim, que na semana passada havia anunciado reparos emergenciais na pista, recuou dessa decisão e definiu que as obras serão definitivas. Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais.  A assessoria de imprensa da Infraero em Cumbica informou apenas que as obras da pista de 3,7 km não começam nesta segunda-feira (6), mesma data em que toma posse em Brasília o novo presidente da estatal, Sérgio Gaudenzi. Desde segunda-feira passada (30), a Infraero realiza o desemborrachamento da pista de 3,7 km para retirar da pista o excesso de borracha dos pneus das aeronaves e assim melhorar o atrito.  De acordo com o Ministério da Defesa, na primeira etapa das obras, será reformado um terço da pista em uma das cabeceiras - o restante dela ficará disponível para pousos e decolagens. Quando for concluída esta fase, o trecho será reaberto e as reformas passarão a ser feitas na outra cabeceira. Nas duas primeiras etapas da obra, não será necessário o fechamento da pista. A partir de março, a obra será finalizada com a reforma do trecho central.  Para receber os vôos de Cumbica, Viracopos precisará ser ampliado, sobretudo seu terminal de passageiros, segundo nota do Ministério da Defesa. A previsão é que essa ampliação seja concluída até março do ano que vem, sendo realizada simultaneamente à reforma de Guarulhos.  Antes do acidente do Airbus da TAM, no dia 17 de julho, o cronograma da Infraero previa que a revitalização da pista de 3,7 km de Cumbica teria início no dia 23 de julho. Para ser realizada, a Agência Nacional de Aviação Civil (Anac) realizaria audiência pública para discutir a obra. A reunião estava marcada para o dia 18 de julho, um dia depois do acidente, e acabou sendo suspensa.  A obra, que tinha previsão de durar cinco meses, envolveria a revitalização do pavimento da pista e também seu alongamento. Além disso, acrescentaria na pista as chamadas saídas rápidas, atalhos para as aeronaves deixarem a pista e chegarem ao terminal. A vantagem é a desocupação mais rápida da pista pelos aviões.  Entretanto, não se sabe se as obras definitivas anunciadas agora por Nelson Jobim terão as mesmas características.",
+        "summary": "O Ministério da Defesa anunciou que em março do próximo ano uma das pistas do Aeroporto de Guarulhos será fechada para reformas de seu trecho central. O ministro Nelson Jobim havia anunciado reparos emergenciais na pista, mas agora ele definiu que as obras serão definitivas. A obra terá três fases e o fechamento da pista está previsto para ocorrer na última etapa da reforma. Ainda não se sabe quando as obras da pista começam e por quanto tempo a pista permanecerá fechada. O cronograma da obra depende de estudos finais da Infraero. Enquanto durarem as obras, os voos serão transferidos para o Aeroporto de Viracopos, em Campinas. Para receber os voos, Viracopos receberá ampliações, sobretudo no seu terminal de passageiros.  A previsão é que essa ampliação seja concluída até março do ano que vem, sendo realizada simultaneamente à reforma de Guarulhos.",
+        "summary_gen": "Feche a pista em março do ano que vem. Não se esqueça de informar que as obras da pista de 3,7 km não começarão nesta segunda-feira (6). Desemborrachamento de pista da Infraero em Cumbica. Instale o terminal de passageiros de Viracopos no Aeroporto de Guarulhos. A obra de revitalização do trecho central também deve ser concluída no dia 23 de julho.",
+        "conteudo_qg-original": [
+            {
+                "answer": "março do próximo ano",
+                "question": "Quando o Ministério da Defesa anunciou que uma das pistas do Aeroporto de Guarulhos será fechada para reformas?"
+            },
+            {
+                "answer": "Nelson Jobim",
+                "question": "Quem foi o ministro da Defesa em março do próximo ano?"
+            },
+            {
+                "answer": "três",
+                "question": "Quantas fases o Aeroporto de Guarulhos terá?"
+            },
+            {
+                "answer": "não se sabe quando as obras da pista começam e por quanto tempo a pista permanecerá fechada",
+                "question": "O que não se sabe quando as obras da pista começam?"
+            },
+            {
+                "answer": "estudos finais da Infraero",
+                "question": "O cronograma da obra depende de quê?"
+            },
+            {
+                "answer": "Aeroporto de Viracopos, em Campinas",
+                "question": "Para onde os voos serão transferidos enquanto durarem as obras?"
+            },
+            {
+                "answer": "março do ano que vem",
+                "question": "Quando será concluída a ampliação do Aeroporto de Viracopos?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quando o Ministério da Defesa anunciou que uma das pistas do Aeroporto de Guarulhos será fechada para reformas?",
+                "resposta_ouro": "março do próximo ano",
+                "resposta_obtida": "março do ano que vem"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quem foi o ministro da Defesa em março do próximo ano?",
+                "resposta_ouro": "Nelson Jobim",
+                "resposta_obtida": "ministro da Defesa"
+            },
+            {
+                "id": 2,
+                "pergunta": "O cronograma da obra depende de quê?",
+                "resposta_ouro": "estudos finais da Infraero",
+                "resposta_obtida": "obras da pista de 3,7 km não começarão nesta segunda-feira (6)"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quando será concluída a ampliação do Aeroporto de Viracopos?",
+                "resposta_ouro": "março do ano que vem",
+                "resposta_obtida": "23 de julho"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.25,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.6708203932499369,
+                0.0,
+                0.15811388300841897,
+                0.0
+            ],
+            "bertscore": [
+                0.7878424525260925,
+                0.6680819988250732,
+                0.6512153744697571,
+                0.600867748260498
+            ],
+            "moverscore": [
+                0.6785057661136313,
+                0.5751293453000565,
+                0.5436050527534424,
+                0.5592960649546707
+            ],
+            "rouge1": [
+                0.6666666666666666,
+                0.0,
+                0.1,
+                0.0
+            ],
+            "rouge2": [
+                0.4000000000000001,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.6666666666666666,
+                0.0,
+                0.1,
+                0.0
+            ],
+            "rougeLsum": [
+                0.6666666666666666,
+                0.0,
+                0.1,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.19999999999999996,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "março do ano que vem",
+                "question": "Quando a pista da Infraero de Cumbica foi fechada?"
+            },
+            {
+                "answer": "segunda-feira (6",
+                "question": "Quando as obras da pista de 3,7 km não começarão?"
+            },
+            {
+                "answer": "Cumbica",
+                "question": "Onde está localizado o terminal de passageiros de Viracopos?"
+            },
+            {
+                "answer": "Aeroporto de Guarulhos",
+                "question": "Onde está localizado o terminal de passageiros de Viracopos?"
+            },
+            {
+                "answer": "23 de julho",
+                "question": "Quando será concluída a revitalização do trecho central da Infraero?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quando a pista da Infraero de Cumbica foi fechada?",
+                "resposta_ouro": "março do ano que vem",
+                "resposta_obtida": "março do ano que vem"
+            },
+            {
+                "id": 1,
+                "pergunta": "Onde está localizado o terminal de passageiros de Viracopos?",
+                "resposta_ouro": "Aeroporto de Guarulhos",
+                "resposta_obtida": "Campinas"
+            },
+            {
+                "id": 2,
+                "pergunta": "Quando será concluída a revitalização do trecho central da Infraero?",
+                "resposta_ouro": "23 de julho",
+                "resposta_obtida": "março do ano que vem"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.3333333333333333,
+            "bertscore": 0.3333333333333333,
+            "moverscore": 0.3333333333333333,
+            "rouge1": 0.3333333333333333,
+            "rouge2": 0.3333333333333333,
+            "rougeL": 0.3333333333333333,
+            "rougeLsum": 0.3333333333333333
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.9999999999999999,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.9999998807907104,
+                0.6789161562919617,
+                0.600867748260498
+            ],
+            "moverscore": [
+                0.9997139428103377,
+                0.5437840023679039,
+                0.5592960649546707
+            ],
+            "rouge1": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        "fieldade_f1": 0.3333333333333333,
+        "fieldade_em": 0.3333333333333333
+    },
+    {
+        "id": "D1_C30_Folha_07-08-2007_09h19",
+        "text": "O banco Itaú registrou lucro líquido de R$ 4,016 bilhões no primeiro semestre deste ano. O resultado é 35,7% superior ao número apurado na primeira metade do ano passado e reflete ganhos não-recorrentes, sendo o principal a venda da participação do banco na empresa de verificação de crédito Serasa.   O resultado do Itaú supera o lucro semestral anunciado pelo rival Bradesco (R$ 4,007 bilhões), anunciado ontem, e que também teve impacto de ganhos extraordinários no período.   Com o lucro anunciado hoje, o Itaú passa a ser o banco privado de capital aberto que mais lucrou em um primeiro semestre em pelo menos 20 anos. Segundo a consultoria Economática, até ontem a posição era ocupada pelo Bradesco. O maior lucro no primeiro semestre dos últimos 20 anos pertence ao Banco do Brasil, que em 2006 informou R$ 4,032 bilhões --o BB ainda não divulgou os números de 2007.   No segundo trimestre, o lucro do Itaú foi de R$ 2,115 bilhões, acréscimo de 41% sobre o resultado para o mesmo período em 2006. O Itaú calculou um lucro recorrente --sem o efeito dos ganhos extraordinários-- de R$ 1,919 bilhão no período, um incremento de 0,9% sobre o primeiro trimestre deste ano e de quase 30% sobre o segundo trimestre do ano passado.   As operações de crédito do banco totalizaram R$ 104,82 bilhões em junho, um crescimento de 40% sobre o resultado para o mesmo período no passado. A carteira de empréstimos para pessoa física somou R$ 45,03 bilhões, um salto de 32,9% sobre o primeiro semestre do ano passado. A alta foi puxada por financiamentos de carros, que cresceram 60%.   Na carteira de empresas, o saldo foi R$ 46,88 bilhões, um acréscimo de 32,4% sobre o ano passado. Os créditos voltados para grandes empresas totalizaram R$ 25,63 bilhões, um aumento de 16% sobre junho de 2005.   A carteira de crédito voltada para micro, pequenas e médias empresas totalizou R$ 21,25 bilhões, num salto de 59,7% sobre o ano passado no mesmo período. ",
+        "summary": "O banco Itaú registrou lucro líquido de R$ 4,016 bilhões no primeiro semestre deste ano, refletindo ganhos não-recorrentes, como a venda da participação do banco na empresa de verificação de crédito Serasa. O resultado do Itaú supera o lucro semestral anunciado pelo rival Bradesco, que foi de R$ 4,007 bilhões. Com o lucro anunciado hoje, o Itaú passa a ser o banco privado de capital aberto que mais lucrou em um primeiro semestre em pelo menos 20 anos.  Esse lucro veio de operações de crédito, empréstimos pessoais, financiamento de carros e carteira de empresas.",
+        "summary_gen": "Saiba o que o lucro líquido do Itaú significa. Avalie o resultado.",
+        "conteudo_qg-original": [
+            {
+                "answer": "4,016 bilhões",
+                "question": "Qual foi o lucro líquido do banco Itaú no primeiro semestre deste ano?"
+            },
+            {
+                "answer": "4,007 bilhões",
+                "question": "Qual foi o lucro semestral anunciado pelo rival Bradesco?"
+            },
+            {
+                "answer": "20 anos",
+                "question": "Quanto tempo o banco privado de capital aberto mais lucrou em um primeiro semestre?"
+            },
+            {
+                "answer": "operações de crédito, empréstimos pessoais, financiamento de carros e carteira de empresas",
+                "question": "Quais são os três fatores que levaram o banco privado de capital aberto a mais lucro em um primeiro semestre?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quanto tempo o banco privado de capital aberto mais lucrou em um primeiro semestre?",
+                "resposta_ouro": "20 anos",
+                "resposta_obtida": "lucro líquido"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quais são os três fatores que levaram o banco privado de capital aberto a mais lucro em um primeiro semestre?",
+                "resposta_ouro": "operações de crédito, empréstimos pessoais, financiamento de carros e carteira de empresas",
+                "resposta_obtida": "lucro líquido do Itaú"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6900656819343567,
+                0.6526166796684265
+            ],
+            "moverscore": [
+                0.6249759038305331,
+                0.5429305946403652
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "lucro líquido",
+                "question": "O que significa o Itaú?"
+            },
+            {
+                "answer": "Avalie o resultado",
+                "question": "O que é um generate questions?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "O que significa o Itaú?",
+                "resposta_ouro": "lucro líquido",
+                "resposta_obtida": "banco privado de capital aberto que mais lucrou em um primeiro semestre em pelo menos 20 anos"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.6643320918083191
+            ],
+            "moverscore": [
+                0.48555335281696343
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        },
+        "fieldade_f1": 0.0,
+        "fieldade_em": 0.0
+    },
+    {
+        "id": "D3_C32_JB_17-07-2007_08h16",
+        "text": "Autoridades da maior usina de energia nuclear do mundo, no Japão, admitiram nesta terça-feira que houve mais vazamentos de radiação após um terremoto ter matado nove pessoas no país e deixado milhares de desabrigados.  A admissão da companhia de energia de Tóquio (Tepco) reacendeu temores sobre a segurança nuclear em um país que depende da energia atômica para um terço de sua eletricidade.  - Acredito que usinas nucleares só possam ser operadas com a confiança das pessoas - disse o primeiro-ministro Shinzo Abe a repórteres em Tóquio, a cerca de 250 km sudeste de Niigata, onde ocorreu na segunda-feira o tremor.  - Por causa disso, se alguma coisa acontece, eles precisam relatá-la inteiramente e rapidamente. Precisamos fazer com que eles reflitam sobre este incidente - declarou.  O terremoto provocou um pequeno incêndio em um transformador na usina nuclear de Kashiwazaki-Kariwa, mas ele foi rapidamente extinto. A Tepco inicialmente declarou que o tremor não havia causado vazamentos, mas, mais tarde, revelou que 1.200 litros de água com materiais radioativos da usina haviam vazado para o mar.  Nesta terça-feira, a empresa também admitiu que uma pequena quantidade de materiais radioativos escapou para a atmosfera. Uma autoridade do Ministério do Comércio disse, contudo, que a quantidade é pequena demais para representar uma ameaça ao meio ambiente.  Quase 800 casas foram danificadas ou destruídas somente em Niigata, e a maior parte do fornecimento de água, gás e eletricidade foi cortada pelo terremoto de magnitude 6,8.  Cerca de 9.000 pessoas passariam uma segunda noite em escolas e outros centros de resgate improvisados.  - Quase não dormi - disse a professora de piano Kazuko Uchiya, 35, que estava em uma escola usada como abrigo, ao lado do filho de 6 anos.   - Não sei quando poderei voltar para casa.  Nove idosos morreram e uma pessoa está desaparecida. Há preocupação com a saúde dos desabrigados, muitos dos quais idosos.  - Os danos são piores que o esperado - afirmou a repórteres Hiroshi Kaeda, prefeito de Kashiwazaki.   - Se pudermos restaurar os serviços de água, mais gente poderá ir para casa, então é isso que queremos fazer primeiro.  O Japão é um dos países mais atingidos por terremotos no mundo, com um tremor a cada pelo menos cinco minutos.  Em Niigata, um terremoto em outubro de 2004, também de magnitude 6,8, matou 65 pessoas e deixou mais de 3.000 feridos. Foi o pior do país desde 1995, quando um tremor de magnitude 7,3 matou mais de 6.400 pessoas na cidade de Kobe. ",
+        "summary": "Autoridades da maior usina de energia nuclear do mundo, no Japão, admitiram que houve mais vazamentos de radiação após um terremoto de magnitude 6,8, que ocasionou muitos danos. Esses acontecimentos causaram muitos temores a respeito da segurança da operação das usinas nucleares. O terremoto provocou um incêndio, que foi rapidamente extinto. Houve o vazamento de materiais radioativos com 1.200 litros de água que foram para o mar e uma pequena quantidade de materiais escapou para a atmosfera. Aproximadamente 800 casas foram danificadas ou destruídas e a maior parte do fornecimento de água, gás e eletricidade foi cortada pelo terremoto, fazendo com que cerca de 9.000 pessoas tivessem que deixar suas casas. Além disso, nove idosos morreram e uma pessoa está desaparecida. O Japão é um dos países mais atingidos por terremotos no mundo.",
+        "summary_gen": "Reafirme que houve vazamentos de radiação. Avalie os danos.",
+        "conteudo_qg-original": [
+            {
+                "answer": "terremoto de magnitude 6,8",
+                "question": "Que evento causou muitos danos à segurança da operação das usinas nucleares?"
+            },
+            {
+                "answer": "terremoto de magnitude 6,8,",
+                "question": "O que causou muitos danos à usina nuclear do Japão?"
+            },
+            {
+                "answer": "terremoto de magnitude 6,8,",
+                "question": "O que causou muitos danos à usina nuclear do Japão?"
+            },
+            {
+                "answer": "terremoto de magnitude 6,8,",
+                "question": "O que causou muitos danos à usina nuclear do Japão?"
+            },
+            {
+                "answer": "segurança da operação das usinas nucleares",
+                "question": "O que causou um terremoto de magnitude 6,8?"
+            },
+            {
+                "answer": "incêndio",
+                "question": "O que causou o vazamento de materiais radioativos com 1.200 litros de água que foram para o mar e uma pequena quantidade de materiais escapou para a atmosfera?"
+            },
+            {
+                "answer": "1.200 litros de água",
+                "question": "Quantos materiais radioativos foram removidos para o mar?"
+            },
+            {
+                "answer": "800",
+                "question": "Quantas casas foram danificadas ou destruídas?"
+            },
+            {
+                "answer": "nove",
+                "question": "Quantos idosos morreram no terremoto?"
+            },
+            {
+                "answer": "Japão",
+                "question": "Qual país é um dos países mais atingidos por terremotos no mundo?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantas casas foram danificadas ou destruídas?",
+                "resposta_ouro": "800",
+                "resposta_obtida": "1"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quantos idosos morreram no terremoto?",
+                "resposta_ouro": "nove",
+                "resposta_obtida": "1"
+            },
+            {
+                "id": 2,
+                "pergunta": "Qual país é um dos países mais atingidos por terremotos no mundo?",
+                "resposta_ouro": "Japão",
+                "resposta_obtida": "Brasil"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.3333333333333333,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.8050210475921631,
+                0.7641146779060364,
+                0.8434271812438965
+            ],
+            "moverscore": [
+                0.7218335375085208,
+                0.6488614427926407,
+                0.6605071696925953
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "vazamentos de radiação",
+                "question": "O que o generate questions reafirma?"
+            },
+            {
+                "answer": "vazamentos de radiação.",
+                "question": "O que o generate questions faz?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "O que o generate questions reafirma?",
+                "resposta_ouro": "vazamentos de radiação",
+                "resposta_obtida": "temores sobre a segurança nuclear"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.78359055519104
+            ],
+            "moverscore": [
+                0.6121783335210478
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        },
+        "fieldade_f1": 0.0,
+        "fieldade_em": 0.0
+    },
+    {
+        "id": "D2_C31_Estadao_17-10-2007_09h32",
+        "text": "Um dos destaques desta temporada do esporte brasileiro, a ginasta Jade Barbosa foi escolhida, na noite desta terça-feira, para ser a representante do Brasil no revezamento da tocha dos Jogos Olímpicos de Pequim.   Em votação pela internet, a ginasta recebeu mais de 100 mil votos e superou o nadador Thiago Pereira, que ganhou seis ouros nos Jogos Pan-Americanos.  O Brasil não faz parte do trajeto da tocha olímpica. Na América do Sul, a chama passará por Buenos Aires, onde Jade participará do revezamento, no dia 11 de abril.  Aos 16 anos, Jade conquistou três medalhas no Pan: ouro na disputa dos saltos, prata na apresentação por equipes e bronze no solo.  Ao todo, a chama olímpica percorrerá 20 países antes de chegar a Pequim para a abertura da competição, no dia 8 de agosto.",
+        "summary": "A ginasta Jade Barbosa foi escolhida, em votação pela internet, para ser a representante brasileira no revezamento da tocha dos Jogos Olímpicos de Pequim. O Brasil não faz parte do trajeto da tocha olímpica, por isso, ela participará do revezamento em Buenos Aires.",
+        "summary_gen": "Escolha a representante do Brasil no revezamento da tocha olímpica. Saiba mais sobre o trajeto da ginasta.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Jade Barbosa",
+                "question": "Quem foi a representante brasileira no revezamento da tocha olímpica?"
+            },
+            {
+                "answer": "Buenos Aires",
+                "question": "Onde será realizado o revezamento da tocha olímpica?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem foi a representante brasileira no revezamento da tocha olímpica?",
+                "resposta_ouro": "Jade Barbosa",
+                "resposta_obtida": "ginasta"
+            },
+            {
+                "id": 1,
+                "pergunta": "Onde será realizado o revezamento da tocha olímpica?",
+                "resposta_ouro": "Buenos Aires",
+                "resposta_obtida": "Brasil"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 1.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7128035426139832,
+                0.7877772450447083
+            ],
+            "moverscore": [
+                0.608649860165097,
+                0.6121451833310131
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "Brasil",
+                "question": "Que país você pode escolher no revezamento da tocha olímpica?"
+            },
+            {
+                "answer": "o trajeto da ginasta",
+                "question": "Qual é o nome do trajeto da tocha olímpica?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Que país você pode escolher no revezamento da tocha olímpica?",
+                "resposta_ouro": "Brasil",
+                "resposta_obtida": "Brasil"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 0.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0
+            ],
+            "bertscore": [
+                1.0
+            ],
+            "moverscore": [
+                0.9998849243716067
+            ],
+            "rouge1": [
+                1.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                1.0
+            ],
+            "rougeLsum": [
+                1.0
+            ]
+        },
+        "fieldade_f1": 1.0,
+        "fieldade_em": 1.0
+    },
+    {
+        "id": "D3_C11_OGlobo_07-08-2006_08h29",
+        "text": "Uma nova série de ataques criminosos foi registrada na madrugada desta segunda-feira, dia 7, em São Paulo e municípios do interior paulista. Os bandidos atacaram agências bancárias, bases policiais e prédios públicos com bombas e tiros. Uma bomba caseira foi jogada contra o prédio do Ministério Público, na capital do estado.  As ações criminosas podem ter sido ordenadas pelos líderes do Primeiro Comando da Capital (PCC), que haviam prometido retomar os ataques no Estado de São Paulo no Dia dos Pais, no próximo domingo.  Na região do ABC Paulista pelo menos dez ônibus foram incendiados - sete em Mauá e três em Santo André. Na capital, houve ataques a outros quatro ônibus.  Uma bomba caseira foi atirada contra a sede do Ministério Público (MP). A rua foi interditada pela polícia. A bomba, composta por parafusos e materiais metálicos, provocou estragos em portas e janelas que ficam a cerca de 20 metros do local da explosão. No momento, apenas um taxista e um passageiro estavam na rua. O prédio da secretaria da Fazenda, no centro, foi atingido por três bombas caseiras.  Os líderes da facção criminosa PCC haviam prometido uma nova onda de ataques caso o Ministério Público de São Paulo negasse a saída temporária de presos em virtude do Dia dos Pais. O benefício depende de decisão judicial após análise do Ministério Público e os presos poderiam deixar a cadeia no período do dia 9 até 15 de agosto. A Vara de Execuções Criminais do Estado já registrou 900 pedidos de autorização de saída temporária. ",
+        "summary": "SUMÁRIO: Uma nova série de ataques criminosos, provocados pelo Primeiro Comando da Capital, foi registrada nesta segunda-feira em São Paulo e em vários municípios do interior do estado. Os ataques, realizados com tiros e bombas caseiras, atingiram a sede do Ministério Público e do Ministério da Fazenda, além de agências bancárias, ônibus e bases policiais. O PCC havia prometido uma nova onda de ataques caso o Ministério Público de São Paulo negasse a saída temporária de presos no Dia dos Pais.",
+        "summary_gen": "Aprenda a identificar os ataques de madrugada em São Paulo e no ABC Paulista. Veja se os ônibus foram incendiados. Verifique se as portas e janelas foram estragadas. Saiba quais os pedidos de saída temporária dos presos.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Primeiro Comando da Capital",
+                "question": "Quem provocou os ataques criminosos em São Paulo?"
+            },
+            {
+                "answer": "a sede do Ministério Público e do Ministério da Fazenda, além de agências bancárias, ônibus e bases policiais",
+                "question": "Quais são as duas áreas atingidas pelos ataques?"
+            },
+            {
+                "answer": "Dia dos Pais",
+                "question": "Em que dia o Ministério Público de São Paulo negou a saída temporária de presos?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quem provocou os ataques criminosos em São Paulo?",
+                "resposta_ouro": "Primeiro Comando da Capital",
+                "resposta_obtida": "ônibus"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em que dia o Ministério Público de São Paulo negou a saída temporária de presos?",
+                "resposta_ouro": "Dia dos Pais",
+                "resposta_obtida": "madrugada"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.6498974561691284,
+                0.6879197359085083
+            ],
+            "moverscore": [
+                0.5160092269390449,
+                0.5364680479458342
+            ],
+            "rouge1": [
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.0,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "ataques de madrugada",
+                "question": "O que aprenda a identificar em São Paulo e no ABC Paulista?"
+            },
+            {
+                "answer": "se os ônibus foram incendiados",
+                "question": "O que aprenda a identificar os ataques de madrugada em São Paulo e no ABC?"
+            },
+            {
+                "answer": "estragadas",
+                "question": "Como os ônibus foram incendiados?"
+            },
+            {
+                "answer": "saída temporária dos presos",
+                "question": "O que você deve fazer para evitar os ataques de madrugada em São Paulo e no ABC?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "O que aprenda a identificar em São Paulo e no ABC Paulista?",
+                "resposta_ouro": "ataques de madrugada",
+                "resposta_obtida": "dez ônibus foram incendiados"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.0,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.0
+            ],
+            "bertscore": [
+                0.6370431184768677
+            ],
+            "moverscore": [
+                0.5436376590838905
+            ],
+            "rouge1": [
+                0.0
+            ],
+            "rouge2": [
+                0.0
+            ],
+            "rougeL": [
+                0.0
+            ],
+            "rougeLsum": [
+                0.0
+            ]
+        },
+        "fieldade_f1": 0.0,
+        "fieldade_em": 0.0
+    },
+    {
+        "id": "D3_C46_OGlobo",
+        "text": "Um terremoto de 6,8 graus na escala Richter, com epicentro a 17 quilômetros de profundidade, atingiu a costa noroeste do Japão às 10h13m desta segunda-feira (22h13m de domingo em Brasília). O tremor derrubou vários prédios. Quatro pessoas morreram e cerca de 400 ficaram feridas.   O terremoto, que pôde ser sentido em Tóquio, foi seguido por outro tremor de menor magnitude, de 4,2 graus na escala Ritcher, às 10h34m (22h34m de domingo em Brasília).   A agência meteorológica do Japão chegou a emitir um alerta de tsunami para a Ilha Sado, na costa da província de Niigata, mas suspendeu o aviso uma hora depois.   Duas mulheres de cerca de 80 anos morreram quando suas casas desmoronaram após o tremor. Os detalhes das outras duas mortes, informadas pela emissora pública NHK, não estão disponíveis.   Um pequeno incêndio aconteceu em um transformador elétrico da usina nuclear de Kashiwazaki Kariwa, a maior do mundo, localizada perto do epicentro, mas o fogo já foi controlado. Os reatores nucleares foram desligados e não houve liberação de radiação.   Niigata foi atingida em outubro de 2004 por um terremoto de mesma intensidade, que provocou a morte de 65 pessoas e deixou mais de 3 mil feridos. ",
+        "summary": "Um terremoto significativo atingiu a costa noroeste do Japão nesta segunda-feira. Ele pode ser sentido em Tóquio e foi seguido de outro de menor magnitude. Como consequência, vários prédios foram derrubados, quatro pessoas morreram e cerca de 400 ficaram feridas. Um alerta de tsunami foi emitido e houve um pequeno incêndio na maior usina nuclear do mundo. Os reatores nucleares foram desligados e não houve liberação de radiação. ",
+        "summary_gen": "Saiba que um terremoto de 6,8 graus na escala Richter atingiu a costa noroeste do Japão. Veja se houve um tsunami mais forte na Ilha Sado. Conheça as vítimas do terremoto.",
+        "conteudo_qg-original": [
+            {
+                "answer": "noroeste",
+                "question": "Que costa do Japão foi atingida pela segunda-feira?"
+            },
+            {
+                "answer": "Tóquio",
+                "question": "Em que cidade o terremoto pode ser sentido?"
+            },
+            {
+                "answer": "quatro",
+                "question": "Quantas pessoas morreram no terremoto?"
+            },
+            {
+                "answer": "400",
+                "question": "Quantas pessoas ficaram feridas no terremoto?"
+            },
+            {
+                "answer": "reatores nucleares",
+                "question": "O que foi desligado e não houve liberação de radiação?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Que costa do Japão foi atingida pela segunda-feira?",
+                "resposta_ouro": "noroeste",
+                "resposta_obtida": "costa noroeste"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em que cidade o terremoto pode ser sentido?",
+                "resposta_ouro": "Tóquio",
+                "resposta_obtida": "Ilha Sado"
+            },
+            {
+                "id": 2,
+                "pergunta": "Quantas pessoas morreram no terremoto?",
+                "resposta_ouro": "quatro",
+                "resposta_obtida": "6"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quantas pessoas ficaram feridas no terremoto?",
+                "resposta_ouro": "400",
+                "resposta_obtida": "6"
+            },
+            {
+                "id": 4,
+                "pergunta": "O que foi desligado e não houve liberação de radiação?",
+                "resposta_ouro": "reatores nucleares",
+                "resposta_obtida": "o computador"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.2,
+            "bertscore": 0.8,
+            "moverscore": 0.2,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.7071067811865475,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.8536283373832703,
+                0.6181362271308899,
+                0.7722008228302002,
+                0.7786034345626831,
+                0.7203093767166138
+            ],
+            "moverscore": [
+                0.6573643652212953,
+                0.6061719291176453,
+                0.6633958498764486,
+                0.7045720086465433,
+                0.5955150576769779
+            ],
+            "rouge1": [
+                0.6666666666666666,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.6666666666666666,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.6666666666666666,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.13333333333333333,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "6,8 graus",
+                "question": "Qual é o tamanho do terremoto que atingiu a costa noroeste do Japão?"
+            },
+            {
+                "answer": "Ilha Sado",
+                "question": "Em que ilha o terremoto de 6,8 graus atingiu a costa noroeste do Japão?"
+            },
+            {
+                "answer": "terremoto",
+                "question": "Quais foram as vítimas do terremoto de 6,8 graus na escala Richter?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Qual é o tamanho do terremoto que atingiu a costa noroeste do Japão?",
+                "resposta_ouro": "6,8 graus",
+                "resposta_obtida": "6,8 graus"
+            },
+            {
+                "id": 1,
+                "pergunta": "Em que ilha o terremoto de 6,8 graus atingiu a costa noroeste do Japão?",
+                "resposta_ouro": "Ilha Sado",
+                "resposta_obtida": "Ilha Sado"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 1.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0,
+                0.9999999999999998
+            ],
+            "bertscore": [
+                1.0,
+                1.0000001192092896
+            ],
+            "moverscore": [
+                0.9996595548342325,
+                0.9999136907056636
+            ],
+            "rouge1": [
+                1.0,
+                1.0
+            ],
+            "rouge2": [
+                1.0,
+                1.0
+            ],
+            "rougeL": [
+                1.0,
+                1.0
+            ],
+            "rougeLsum": [
+                1.0,
+                1.0
+            ]
+        },
+        "fieldade_f1": 1.0,
+        "fieldade_em": 1.0
+    },
+    {
+        "id": "D1_C12_Folha_07-08-2006_08h30",
+        "text": "Um total de 549 pessoas morreram, 3.043 ficaram feridas e 295 estão desaparecidas em razão das enchentes que recentemente afetaram a Coréia do Norte, informou hoje um jornal pró norte-coreano publicado no Japão, que citou fontes oficiais de Pyongyang.  Segundo o jornal Choson Sinbo, publicado pela Associação de Residentes Coreanos no Japão (próxima ao regime comunista da Coréia do Norte), as fortes chuvas que alagaram grande parte desse país na segunda metade de julho provocaram muitos danos.  No entanto, a publicação, que cita autoridades norte-coreanas, desmentiu o número de até 10 mil mortos pelas inundações, calculado por algumas ONGs que trabalham na Coréia do Norte.  Além do número de mortos e desaparecidos, o Choson Sinbo acrescenta um total de 3.043 feridos.  A Federação Internacional da Cruz Vermelha afirmou na sexta-feira (4) que cerca de 17 mil famílias ficaram desabrigadas por causa das inundações.  Apesar de o governo norte-coreano ter rejeitado o envio de ajuda estrangeira para atenuar os danos causados pelas chuvas torrenciais, a emissora de TV oficial do país começou a transmitir nos últimos dias notícias sobre a iminente chegada de comida e bens de primeira necessidade do exterior.  A agência sul-coreana Yonhap disse na sexta-feira que um alto funcionário de Pyongyang pediu o envio urgente de alimentos para seu país.  As inundações destruíram grande parte dos cultivos de cereais na Coréia do Norte, que já sofre com um forte racionamento.  Analistas indicaram nos últimos dias que o país pode passar por outra crise com a falta de alimentos, que nos anos 90 matou de fome entre 1 milhão e 2,5 milhões de pessoas, segundo diferentes dados.  A Coréia do Sul interrompeu em julho o envio de alimentos ao vizinho do norte depois de o regime comunista disparar sete mísseis balísticos.  No entanto, depois de conhecer a dimensão das inundações, o governo de Seul manifestou sua predisposição em oferecer ajuda à Coréia do Norte caso aconteça uma nova crise alimentícia.",
+        "summary": "As enchentes que recentemente afetaram a Coréia do Norte provocaram a morte de 549 pessoas, 3.043 ficaram feridas e 295 estão desaparecidas, segundo um jornal pró norte-coreano. Cerca de 17 mil famílias ficaram desabrigadas.As inundações destruíram grande parte dos cultivos de cereais do país, que já sofre com um forte racionamento de alimentos. A TV oficial do país informou sobre uma iminente chegada de comida e bens de primeira necessidade vindos do exterior. Analistas indicaram que o país pode passar por outra crise com a falta de alimentos.",
+        "summary_gen": "Saiba mais sobre os mortos e os desaparecidos. Reconheça a chegada de alimentos e bens de primeira necessidade do exterior.",
+        "conteudo_qg-original": [
+            {
+                "answer": "549",
+                "question": "Quantas pessoas morreram na Coréia do Norte?"
+            },
+            {
+                "answer": "295",
+                "question": "Quantas pessoas estão desaparecidas?"
+            },
+            {
+                "answer": "cultivos de cereais",
+                "question": "O que as inundações destruíram na Coréia do Norte?"
+            },
+            {
+                "answer": "TV oficial do país",
+                "question": "O que informou sobre uma iminente chegada de comida e bens de primeira necessidade vindos do exterior?"
+            },
+            {
+                "answer": "falta de alimentos",
+                "question": "O que os analistas indicam que o país pode passar por outra crise com a chegada de comida e bens de primeira necessidade?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantas pessoas morreram na Coréia do Norte?",
+                "resposta_ouro": "549",
+                "resposta_obtida": "2"
+            },
+            {
+                "id": 1,
+                "pergunta": "Quantas pessoas estão desaparecidas?",
+                "resposta_ouro": "295",
+                "resposta_obtida": "2"
+            },
+            {
+                "id": 2,
+                "pergunta": "O que as inundações destruíram na Coréia do Norte?",
+                "resposta_ouro": "cultivos de cereais",
+                "resposta_obtida": "alimentos e bens de primeira necessidade"
+            },
+            {
+                "id": 3,
+                "pergunta": "O que informou sobre uma iminente chegada de comida e bens de primeira necessidade vindos do exterior?",
+                "resposta_ouro": "TV oficial do país",
+                "resposta_obtida": "os mortos e os desaparecidos"
+            },
+            {
+                "id": 4,
+                "pergunta": "O que os analistas indicam que o país pode passar por outra crise com a chegada de comida e bens de primeira necessidade?",
+                "resposta_ouro": "falta de alimentos",
+                "resposta_obtida": "o exterior"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.0,
+            "bertscore": 0.8,
+            "moverscore": 0.0,
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "rougeLsum": 0.0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                0.0,
+                0.0,
+                0.25819888974716115,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                0.7357187271118164,
+                0.7830249071121216,
+                0.7404372096061707,
+                0.6413838267326355,
+                0.7155898213386536
+            ],
+            "moverscore": [
+                0.6763334151288977,
+                0.6872346747896498,
+                0.5758272809643048,
+                0.5675471225886646,
+                0.5514595885281698
+            ],
+            "rouge1": [
+                0.0,
+                0.0,
+                0.2222222222222222,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                0.0,
+                0.0,
+                0.2222222222222222,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                0.0,
+                0.0,
+                0.2222222222222222,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.04444444444444444,
+        "conteudo_em": 0.0,
+        "fieldade_qg-original": [
+            {
+                "answer": "mortos e os desaparecidos",
+                "question": "Quais são as duas coisas que você pode ler?"
+            },
+            {
+                "answer": "exterior",
+                "question": "De onde você pode encontrar alimentos e bens de primeira necessidade?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quais são as duas coisas que você pode ler?",
+                "resposta_ouro": "mortos e os desaparecidos",
+                "resposta_obtida": "mortos e desaparecidos"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 1.0,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 1.0,
+            "rouge2": 0.0,
+            "rougeL": 1.0,
+            "rougeLsum": 1.0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                0.816496580927726
+            ],
+            "bertscore": [
+                0.9375236630439758
+            ],
+            "moverscore": [
+                0.7809122629747893
+            ],
+            "rouge1": [
+                0.8571428571428571
+            ],
+            "rouge2": [
+                0.4
+            ],
+            "rougeL": [
+                0.8571428571428571
+            ],
+            "rougeLsum": [
+                0.8571428571428571
+            ]
+        },
+        "fieldade_f1": 0.8571428571428571,
+        "fieldade_em": 0.0
+    },
+    {
+        "id": "D1_C25_Folha_16-07-2007_07h50",
+        "text": "Como em 2004, Argentina e Brasil fizeram a final da Copa América. Como em 2004, a Argentina fez melhor campanha e chegou como favorita. De novo o Brasil era criticado. De novo o Brasil acabou campeão.   Na 42ª edição do torneio mais antigo de futebol ainda realizado, a primeira na Venezuela e uma das mais influenciadas pela política local, do presidente Hugo Chávez, a seleção brasileira repetiu o que fizera três anos atrás e abocanhou seu oitavo título da competição continental.   Fez mais. Com um time menos badalado e diante de uma Argentina com seus principais jogadores aplicou um 3 a 0 --em 2004, o título veio somente na disputa de pênaltis.   Esta é a primeira conquista de Dunga como técnico profissional. E sem as duas principais estrelas do futebol brasileiro atualmente. Kaká e Ronaldinho pediram dispensa da Copa América alegando cansaço.  O primeiro título da nova era Dunga foi em cima justamente do adversário que fez a expressão ser cunhada, logo após o 1 a 0 para a Argentina na Copa-90, que eliminou o Brasil.   Primeira conquista do treinador, mas não primeira vitória sobre os argentinos.   Dunga já comandara um outro 3 a 0 no confronto mais tradicional da América, num amistoso em Londres que marcava justamente a estréia do técnico Alfio Basile à frente da seleção argentina, que ontem perdeu a chance de vencer sua terceira Copa América -ele fora o treinador nas últimas duas conquistas de seu país no torneio, em 1991 e 1993.   Ironicamente, a façanha brasileira veio sem que Dunga tivesse seu esquema com três volantes. Sem Gilberto Silva, suspenso, o treinador optou por começar a partida com Elano. Quando o ex-santista se machucou, ele não colocou Fernando, o volante que tinha no banco. Improvisou o lateral Daniel Alves no meio-campo.   Calçada por uma campanha bem superior à do Brasil na Copa América, a Argentina, só com vitórias e com o melhor ataque do torneio (16 gols), chegou à decisão como favorita. Mas isso não impediu que a seleção brasileira saísse na frente.   Logo aos 4min, um lançamento longo de Elano achou Júlio Baptista, que dominou e chutou cruzado: 1 a 0 Brasil.  Em desvantagem no placar, os argentinos ficaram com a bola e pressionaram. Mas a trave e Doni não deixaram que o empate ocorresse.   Ao Brasil restavam os contragolpes. E assim chegou ao segundo gol. Aos 40min, Daniel Alves, o lateral que entrou como meia, fez jogada de lateral. Entrou pela direita e cruzou rasteiro. Ayala antecipou Vágner Love, mas mandou a bola para sua própria rede.   No segundo tempo, a pressão argentina aumentou. Mas o espaço para os contra-ataques também. Foi quando a dupla de volantes Josué e Mineiro, escalada durante a competição, apareceu mais.   Com desarmes na intermediária, os ex-são paulinos eram quem iniciavam as arrancadas para o campo adversário, desguarnecido de defensores.   Foi assim que o Brasil matou o jogo. Um dos desarmes chegou até Vágner Love. O atacante, que na Copa América marcou apenas uma vez, deu um passe preciso para Daniel Alves chutar cruzado de dentro da área e vazar mais uma vez o goleiro Abbondanzieri.   A vitória brasileira ainda veio com um gostinho especial. Até nas estatísticas dos argentinos o Brasil abre vantagem no confronto. São 36 vitórias contra 34 do time azul e branco. Pelos números da CBF,a vantagem é ainda maior: 36 a 33. ",
+        "summary": "Como em 2004, Argentina e Brasil fizeram a final da Copa América. Calçada por uma campanha bem superior à do Brasil na Copa América, a Argentina, só com vitórias e com o melhor ataque do torneio (16 gols), chegou à decisão como favorita. Mas, novamente, o Brasil acabou campeão, abocanhando seu oitavo título da competição continental. Esta é a primeira conquista de Dunga como técnico profissional. O time estava sem as duas principais estrelas do futebol brasileiro atualmente, Kaká e Ronaldinho.  Além disso, o técnico não pode contar com seu esquema de três volantes. Mesmo com esses desfalques, o time aplicou um 3 a 0 sobre a Argentina, como num amistoso em Londres que marcava justamente a estréia do técnico Alfio Basile à frente da seleção argentina. O Brasil marcou seus dois primeiros gols no primeiro tempo, um aos 4 min e o outro aos 40 min. Completou com mais um gol no segundo tempo. Nas estatísticas dos argentinos o Brasil tem a vantagem de 36 vitórias contra 34. Pelos números da CBF são 36 contra 33.",
+        "summary_gen": "Entenda como foi a final da Copa América. Reconheça a primeira vitória do treinador. Saiba que o esquema não tinha três volantes. O Brasil começou a partida com um gol contra. A Argentina começou o segundo tempo com mais contragolpes. E foi aí que a pressão foi maior.",
+        "conteudo_qg-original": [
+            {
+                "answer": "Brasil",
+                "question": "Junto com a Argentina, qual time venceu a final da Copa América?"
+            },
+            {
+                "answer": "16 gols",
+                "question": "Quantos gols o Brasil teve na final da Copa América?"
+            },
+            {
+                "answer": "oitavo",
+                "question": "Qual foi o título do Brasil na competição continental?"
+            },
+            {
+                "answer": "técnico profissional",
+                "question": "Qual é a primeira conquista de Dunga?"
+            },
+            {
+                "answer": "Kaká e Ronaldinho",
+                "question": "Quais são as duas principais estrelas do futebol brasileiro atualmente?"
+            },
+            {
+                "answer": "esquema de três volantes",
+                "question": "O que o técnico não pode contar com?"
+            },
+            {
+                "answer": "um 3 a 0",
+                "question": "O que o time aplicou sobre a Argentina em um amistoso em Londres que marcava justamente a estréia do técnico Alfio Basile na seleção argentina?"
+            },
+            {
+                "answer": "dois primeiros gols",
+                "question": "Quantos gols o Brasil marcou no primeiro tempo?"
+            },
+            {
+                "answer": "mais um",
+                "question": "Quantos gols o Brasil teve no segundo tempo?"
+            },
+            {
+                "answer": "36",
+                "question": "Quantas vitórias o Brasil tem?"
+            },
+            {
+                "answer": "36",
+                "question": "Quantas vitórias o Brasil tem?"
+            }
+        ],
+        "conteudo_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Junto com a Argentina, qual time venceu a final da Copa América?",
+                "resposta_ouro": "Brasil",
+                "resposta_obtida": "Brasil"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual foi o título do Brasil na competição continental?",
+                "resposta_ouro": "oitavo",
+                "resposta_obtida": "um gol contra"
+            },
+            {
+                "id": 2,
+                "pergunta": "Quais são as duas principais estrelas do futebol brasileiro atualmente?",
+                "resposta_ouro": "Kaká e Ronaldinho",
+                "resposta_obtida": "Argentina e Brasil"
+            },
+            {
+                "id": 3,
+                "pergunta": "Quantas vitórias o Brasil tem?",
+                "resposta_ouro": "36",
+                "resposta_obtida": "1"
+            },
+            {
+                "id": 4,
+                "pergunta": "Quantas vitórias o Brasil tem?",
+                "resposta_ouro": "36",
+                "resposta_obtida": "1"
+            }
+        ],
+        "conteudo_pontuacao": {
+            "cosseno": 0.2,
+            "bertscore": 0.6,
+            "moverscore": 0.2,
+            "rouge1": 0.2,
+            "rouge2": 0.0,
+            "rougeL": 0.2,
+            "rougeLsum": 0.2
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                1.0,
+                0.6736841797828674,
+                0.6997023820877075,
+                0.7397960424423218,
+                0.7397960424423218
+            ],
+            "moverscore": [
+                0.9998849243716067,
+                0.5499007630000767,
+                0.6083019773776793,
+                0.6960758720855978,
+                0.6960758720855978
+            ],
+            "rouge1": [
+                1.0,
+                0.0,
+                0.3333333333333333,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.0,
+                0.3333333333333333,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                1.0,
+                0.0,
+                0.3333333333333333,
+                0.0,
+                0.0
+            ]
+        },
+        "conteudo_f1": 0.26666666666666666,
+        "conteudo_em": 0.2,
+        "fieldade_qg-original": [
+            {
+                "answer": "final da Copa América",
+                "question": "Qual foi a final da Copa América?"
+            },
+            {
+                "answer": "Reconheça a primeira vitória do treinador",
+                "question": "Qual foi a primeira vitória do treinador na final da Copa América?"
+            },
+            {
+                "answer": "três",
+                "question": "Quantos volantes o time não tinha?"
+            },
+            {
+                "answer": "Brasil",
+                "question": "Qual time começou a partida com um gol contra?"
+            },
+            {
+                "answer": "Argentina",
+                "question": "Qual time começou o segundo tempo com mais contragolpes?"
+            },
+            {
+                "answer": "pressão foi maior",
+                "question": "Por que a Argentina começou o segundo tempo com mais contragolpes?"
+            }
+        ],
+        "fieldade_qg-qa": [
+            {
+                "id": 0,
+                "pergunta": "Quantos volantes o time não tinha?",
+                "resposta_ouro": "três",
+                "resposta_obtida": "três"
+            },
+            {
+                "id": 1,
+                "pergunta": "Qual time começou a partida com um gol contra?",
+                "resposta_ouro": "Brasil",
+                "resposta_obtida": "Argentina"
+            },
+            {
+                "id": 2,
+                "pergunta": "Qual time começou o segundo tempo com mais contragolpes?",
+                "resposta_ouro": "Argentina",
+                "resposta_obtida": "Brasil"
+            }
+        ],
+        "fieldade_pontuacao": {
+            "cosseno": 0.3333333333333333,
+            "bertscore": 1.0,
+            "moverscore": 1.0,
+            "rouge1": 0.3333333333333333,
+            "rouge2": 0.3333333333333333,
+            "rougeL": 0.3333333333333333,
+            "rougeLsum": 0.3333333333333333
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "bertscore": [
+                1.0000001192092896,
+                0.8009042739868164,
+                0.8009042739868164
+            ],
+            "moverscore": [
+                0.9996188340672462,
+                0.7242472354213643,
+                0.7242472354213643
+            ],
+            "rouge1": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rouge2": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeL": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "rougeLsum": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        "fieldade_f1": 0.3333333333333333,
+        "fieldade_em": 0.3333333333333333
+    },
+    {
+        "id": "D4_C20_JB",
+        "text": "A Câmara discute o requerimento de autoria do PSDB para adiamento da discussão da proposta que prorroga a CPMF. O requerimento faz parte da estratégia dos partidos de oposição de adiar a votação da matéria.   Outro requerimento apresentado pelo DEM também pede o adiamento da votação por nove sessões. ",
+        "summary": "A Câmara discute o requerimento para adiamento da discussão da proposta que prorroga a CPMF. ",
+        "summary_gen": "Peça para o PSDB adiar a votação do projeto.",
+        "conteudo_qg-original": [
+            {
+                "answer": "CPMF",
+                "question": "O que a Câmara discute para adiar a discussão da proposta que prorroga?"
+            }
+        ],
+        "conteudo_qg-qa": [],
+        "conteudo_pontuacao": {
+            "cosseno": 0,
+            "bertscore": 0,
+            "moverscore": 0,
+            "rouge1": 0,
+            "rouge2": 0,
+            "rougeL": 0,
+            "rougeLsum": 0
+        },
+        "conteudo_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        },
+        "conteudo_f1": 0,
+        "conteudo_em": 0,
+        "fieldade_qg-original": [
+            {
+                "answer": "Peça para o PSDB adiar a votação do projeto",
+                "question": "O que o PSDB fez para adiar a votação do projeto?"
+            }
+        ],
+        "fieldade_qg-qa": [],
+        "fieldade_pontuacao": {
+            "cosseno": 0,
+            "bertscore": 0,
+            "moverscore": 0,
+            "rouge1": 0,
+            "rouge2": 0,
+            "rougeL": 0,
+            "rougeLsum": 0
+        },
+        "fieldade_similaridade-respostas": {
+            "cosseno": [],
+            "bertscore": [],
+            "moverscore": [],
+            "rouge1": [],
+            "rouge2": [],
+            "rougeL": [],
+            "rougeLsum": []
+        },
+        "fieldade_f1": 0,
+        "fieldade_em": 0
+    }
+]
